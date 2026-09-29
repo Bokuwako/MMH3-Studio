@@ -1,0 +1,7 @@
+# 작업 데이터와 개인 설정은 절대 올리지 않습니다.
+data/
+backups/
+studio_env.cmd
+*.log
+*.bak*
+__pycache__/

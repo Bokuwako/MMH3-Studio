@@ -1,0 +1,5202 @@
+{
+  "개": {
+    "en": "Key",
+    "ja": "キー",
+    "zh-CN": "个"
+  },
+  "끔": {
+    "en": "Off",
+    "ja": "オフ",
+    "zh-CN": "关闭"
+  },
+  "등": {
+    "en": "Light",
+    "ja": "ライト",
+    "zh-CN": "灯光"
+  },
+  "발": {
+    "en": "Foot",
+    "ja": "足",
+    "zh-CN": "脚"
+  },
+  "손": {
+    "en": "Hand",
+    "ja": "手",
+    "zh-CN": "手"
+  },
+  "첫": {
+    "en": "First",
+    "ja": "最初",
+    "zh-CN": "第一"
+  },
+  "초": {
+    "en": "Second",
+    "ja": "2 秒",
+    "zh-CN": "2 秒"
+  },
+  "켬": {
+    "en": "On",
+    "ja": "オン",
+    "zh-CN": "开启"
+  },
+  "팔": {
+    "en": "Arm",
+    "ja": "腕",
+    "zh-CN": "手臂"
+  },
+  "1회": {
+    "en": "1st Time",
+    "ja": "1 回目",
+    "zh-CN": "第 1 次"
+  },
+  "2회": {
+    "en": "2nd Time",
+    "ja": "2 回目",
+    "zh-CN": "第 2 次"
+  },
+  "가로": {
+    "en": "Width",
+    "ja": "幅",
+    "zh-CN": "宽度"
+  },
+  "가슴": {
+    "en": "Chest",
+    "ja": "胸",
+    "zh-CN": "胸部"
+  },
+  "강도": {
+    "en": "Strength",
+    "ja": "強度",
+    "zh-CN": "强度"
+  },
+  "검사": {
+    "en": "Check",
+    "ja": "確認",
+    "zh-CN": "检查"
+  },
+  "고정": {
+    "en": "Fixed",
+    "ja": "固定",
+    "zh-CN": "固定"
+  },
+  "골반": {
+    "en": "Pelvis",
+    "ja": "骨盤",
+    "zh-CN": "骨盆"
+  },
+  "기본": {
+    "en": "Default",
+    "ja": "標準",
+    "zh-CN": "默认"
+  },
+  "길이": {
+    "en": "Duration",
+    "ja": "長さ",
+    "zh-CN": "时长"
+  },
+  "끄기": {
+    "en": "Off",
+    "ja": "オフ",
+    "zh-CN": "关闭"
+  },
+  "남성": {
+    "en": "Male",
+    "ja": "男性",
+    "zh-CN": "男"
+  },
+  "다리": {
+    "en": "Legs",
+    "ja": "脚",
+    "zh-CN": "腿"
+  },
+  "닫기": {
+    "en": "Close",
+    "ja": "閉じる",
+    "zh-CN": "关闭"
+  },
+  "대기": {
+    "en": "Idle",
+    "ja": "アイドル",
+    "zh-CN": "空闲"
+  },
+  "대사": {
+    "en": "Dialogue",
+    "ja": "セリフ",
+    "zh-CN": "对白"
+  },
+  "대화": {
+    "en": "Conversation",
+    "ja": "会話",
+    "zh-CN": "对话"
+  },
+  "렌즈": {
+    "en": "Lens",
+    "ja": "レンズ",
+    "zh-CN": "镜头"
+  },
+  "모델": {
+    "en": "Model",
+    "ja": "モデル",
+    "zh-CN": "模型"
+  },
+  "모드": {
+    "en": "Mode",
+    "ja": "モード",
+    "zh-CN": "模式"
+  },
+  "모험": {
+    "en": "Adventure",
+    "ja": "冒険",
+    "zh-CN": "冒险"
+  },
+  "배수": {
+    "en": "Multiplier",
+    "ja": "倍率",
+    "zh-CN": "倍数"
+  },
+  "보통": {
+    "en": "Normal",
+    "ja": "普通",
+    "zh-CN": "正常"
+  },
+  "복구": {
+    "en": "Restore",
+    "ja": "復元",
+    "zh-CN": "恢复"
+  },
+  "복사": {
+    "en": "Copy",
+    "ja": "コピー",
+    "zh-CN": "复制"
+  },
+  "본인": {
+    "en": "Self",
+    "ja": "自分自身",
+    "zh-CN": "本人"
+  },
+  "비율": {
+    "en": "Ratio",
+    "ja": "比率",
+    "zh-CN": "比例"
+  },
+  "사용": {
+    "en": "Enabled",
+    "ja": "使用",
+    "zh-CN": "启用"
+  },
+  "삭제": {
+    "en": "Delete",
+    "ja": "削除",
+    "zh-CN": "删除"
+  },
+  "샷 ": {
+    "en": "Shot",
+    "ja": "ショット",
+    "zh-CN": "镜头"
+  },
+  "성기": {
+    "en": "Genie",
+    "ja": "ジェニー",
+    "zh-CN": "生殖器"
+  },
+  "세로": {
+    "en": "Height",
+    "ja": "高さ",
+    "zh-CN": "高度"
+  },
+  "소분": {
+    "en": "Split",
+    "ja": "分割",
+    "zh-CN": "分割"
+  },
+  "스텝": {
+    "en": "Steps",
+    "ja": "ステップ数",
+    "zh-CN": "步数"
+  },
+  "시드": {
+    "en": "Seed",
+    "ja": "シード",
+    "zh-CN": "种子"
+  },
+  "시점": {
+    "en": "Viewpoint",
+    "ja": "視点",
+    "zh-CN": "视点"
+  },
+  "실패": {
+    "en": "Failed",
+    "ja": "失敗",
+    "zh-CN": "失败"
+  },
+  "심도": {
+    "en": "Depth of field",
+    "ja": "被写界深度",
+    "zh-CN": "景深"
+  },
+  "싱글": {
+    "en": "Single",
+    "ja": "シングル",
+    "zh-CN": "单个"
+  },
+  "액션": {
+    "en": "Action",
+    "ja": "アクション",
+    "zh-CN": "动作"
+  },
+  "앵글": {
+    "en": "Camera angle",
+    "ja": "カメラアングル",
+    "zh-CN": "相机角度"
+  },
+  "약 ": {
+    "en": "Weak",
+    "ja": "弱",
+    "zh-CN": "药 "
+  },
+  "양쪽": {
+    "en": "Both",
+    "ja": "両方",
+    "zh-CN": "两侧"
+  },
+  "없음": {
+    "en": "None",
+    "ja": "なし",
+    "zh-CN": "无"
+  },
+  "엔진": {
+    "en": "Engine",
+    "ja": "エンジン",
+    "zh-CN": "引擎"
+  },
+  "여성": {
+    "en": "Female",
+    "ja": "女性",
+    "zh-CN": "女性"
+  },
+  "완료": {
+    "en": "Done",
+    "ja": "完了",
+    "zh-CN": "完成"
+  },
+  "원본": {
+    "en": "Original",
+    "ja": "オリジナル",
+    "zh-CN": "原图"
+  },
+  "음악": {
+    "en": "Music",
+    "ja": "音楽",
+    "zh-CN": "音乐"
+  },
+  "의상": {
+    "en": "Outfit",
+    "ja": "衣装",
+    "zh-CN": "服装"
+  },
+  "자동": {
+    "en": "Auto",
+    "ja": "自動",
+    "zh-CN": "自动"
+  },
+  "작게": {
+    "en": "Smaller",
+    "ja": "小さく",
+    "zh-CN": "更小"
+  },
+  "전체": {
+    "en": "All",
+    "ja": "すべて",
+    "zh-CN": "全部"
+  },
+  "전환": {
+    "en": "Transition",
+    "ja": "トランジション",
+    "zh-CN": "转场"
+  },
+  "정면": {
+    "en": "Front",
+    "ja": "正面",
+    "zh-CN": "正面"
+  },
+  "제거": {
+    "en": "Remove",
+    "ja": "削除",
+    "zh-CN": "移除"
+  },
+  "제외": {
+    "en": "Exclude",
+    "ja": "除外",
+    "zh-CN": "排除"
+  },
+  "조명": {
+    "en": "Lighting",
+    "ja": "照明",
+    "zh-CN": "照明"
+  },
+  "종료": {
+    "en": "Quit",
+    "ja": "終了",
+    "zh-CN": "退出"
+  },
+  "중지": {
+    "en": "Pause",
+    "ja": "一時停止",
+    "zh-CN": "暂停"
+  },
+  "크게": {
+    "en": "Larger",
+    "ja": "大きく",
+    "zh-CN": "更大"
+  },
+  "크기": {
+    "en": "Size",
+    "ja": "サイズ",
+    "zh-CN": "尺寸"
+  },
+  "투샷": {
+    "en": "Two-Shot",
+    "ja": "ツーショット",
+    "zh-CN": "双镜头"
+  },
+  "패스": {
+    "en": "Pass",
+    "ja": "パス",
+    "zh-CN": "通过"
+  },
+  "표정": {
+    "en": "Expression",
+    "ja": "表情",
+    "zh-CN": "表情"
+  },
+  "풋잡": {
+    "en": "Footage",
+    "ja": "フットage",
+    "zh-CN": "素材"
+  },
+  "행위": {
+    "en": "Action",
+    "ja": "動作",
+    "zh-CN": "动作"
+  },
+  "허리": {
+    "en": "Waist",
+    "ja": "ウエスト",
+    "zh-CN": "腰部"
+  },
+  "호러": {
+    "en": "Horror",
+    "ja": "ホラー",
+    "zh-CN": "恐怖"
+  },
+  "화자": {
+    "en": "Speaker",
+    "ja": "話者",
+    "zh-CN": "说话者"
+  },
+  "후면": {
+    "en": "Backside",
+    "ja": "背面",
+    "zh-CN": "背面"
+  },
+  " 검색": {
+    "en": "Search",
+    "ja": "検索",
+    "zh-CN": "搜索"
+  },
+  " 대상": {
+    "en": "Target",
+    "ja": "ターゲット",
+    "zh-CN": "目标"
+  },
+  " 추론": {
+    "en": "Inference",
+    "ja": "推論",
+    "zh-CN": "推理"
+  },
+  "검색…": {
+    "en": "Search...",
+    "ja": "検索…",
+    "zh-CN": "搜索..."
+  },
+  "굴곡위": {
+    "en": "Low Angle",
+    "ja": "低角度",
+    "zh-CN": "低角度"
+  },
+  "기승위": {
+    "en": "High Angle",
+    "ja": "高角度",
+    "zh-CN": "高角度"
+  },
+  "눈높이": {
+    "en": "Eye level",
+    "ja": "アイレベル",
+    "zh-CN": "平视"
+  },
+  "느리게": {
+    "en": "Slow Motion",
+    "ja": "スロモーション",
+    "zh-CN": "慢动作"
+  },
+  "느와르": {
+    "en": "Noir",
+    "ja": "ノワール",
+    "zh-CN": "黑色电影风格"
+  },
+  "디렉터": {
+    "en": "Director",
+    "ja": "ディレクター",
+    "zh-CN": "导演"
+  },
+  "디졸브": {
+    "en": "Dissolve",
+    "ja": "ディゾルブ",
+    "zh-CN": "溶解"
+  },
+  "로맨스": {
+    "en": "Romance",
+    "ja": "ロマンチック",
+    "zh-CN": "浪漫"
+  },
+  "리액션": {
+    "en": "Reaction",
+    "ja": "リアクション",
+    "zh-CN": "反应"
+  },
+  "마지막": {
+    "en": "Last",
+    "ja": "最後",
+    "zh-CN": "最后"
+  },
+  "매치컷": {
+    "en": "Match Cut",
+    "ja": "マッチカット",
+    "zh-CN": "匹配剪辑"
+  },
+  "미디엄": {
+    "en": "Medium shot",
+    "ja": "ミディアムショット",
+    "zh-CN": "中景"
+  },
+  "미사용": {
+    "en": "Disabled",
+    "ja": "未使用",
+    "zh-CN": "停用"
+  },
+  "보내기": {
+    "en": "Send",
+    "ja": "送信",
+    "zh-CN": "发送"
+  },
+  "빠르게": {
+    "en": "Quick",
+    "ja": "クイック",
+    "zh-CN": "快速"
+  },
+  "샘플러": {
+    "en": "Sampler",
+    "ja": "サンプラー",
+    "zh-CN": "采样器"
+  },
+  "설정샷": {
+    "en": "Setup Shot",
+    "ja": "セットアップショット",
+    "zh-CN": "设置镜头"
+  },
+  "스릴러": {
+    "en": "Thriller",
+    "ja": "スリラー",
+    "zh-CN": "惊悚"
+  },
+  "스타일": {
+    "en": "Style",
+    "ja": "スタイル",
+    "zh-CN": "风格"
+  },
+  "스포츠": {
+    "en": "Sports",
+    "ja": "スポーツ",
+    "zh-CN": "体育"
+  },
+  "시대극": {
+    "en": "Period Drama",
+    "ja": "時代劇",
+    "zh-CN": "时代剧"
+  },
+  "앞으로": {
+    "en": "Forward",
+    "ja": "前方",
+    "zh-CN": "向前"
+  },
+  "엉덩이": {
+    "en": "Butt",
+    "ja": "お尻",
+    "zh-CN": "臀部"
+  },
+  "연속성": {
+    "en": "Continuity",
+    "ja": "連続性",
+    "zh-CN": "连续性"
+  },
+  "영상만": {
+    "en": "Video Only",
+    "ja": "動画のみ",
+    "zh-CN": "仅视频"
+  },
+  "와이드": {
+    "en": "Wide",
+    "ja": "ワイド",
+    "zh-CN": "宽屏"
+  },
+  "와이프": {
+    "en": "Wife",
+    "ja": "ワイフ",
+    "zh-CN": "妻子"
+  },
+  "이세계": {
+    "en": "Otherworld",
+    "ja": "異世界",
+    "zh-CN": "异世界"
+  },
+  "이음매": {
+    "en": "Seam",
+    "ja": "つなぎ目",
+    "zh-CN": "衔接处"
+  },
+  "인서트": {
+    "en": "Insert",
+    "ja": "インサート",
+    "zh-CN": "插入"
+  },
+  "재시작": {
+    "en": "Restart",
+    "ja": "再起動",
+    "zh-CN": "重启"
+  },
+  "저장됨": {
+    "en": "Saved",
+    "ja": "保存済み",
+    "zh-CN": "已保存"
+  },
+  "점프컷": {
+    "en": "Jump Cut",
+    "ja": "ジャンプカット",
+    "zh-CN": "跳切"
+  },
+  "줌 인": {
+    "en": "Zoom In",
+    "ja": "ズームイン",
+    "zh-CN": "放大"
+  },
+  "취소됨": {
+    "en": "Cancelled",
+    "ja": "キャンセル済み",
+    "zh-CN": "已取消"
+  },
+  "카메라": {
+    "en": "Camera",
+    "ja": "カメラ",
+    "zh-CN": "相机"
+  },
+  "칸 1": {
+    "en": "Clip 1",
+    "ja": "クリップ 1",
+    "zh-CN": "片段 1"
+  },
+  "칸 2": {
+    "en": "Clip 2",
+    "ja": "クリップ 2",
+    "zh-CN": "片段 2"
+  },
+  "캐릭터": {
+    "en": "Character",
+    "ja": "キャラクター",
+    "zh-CN": "角色"
+  },
+  "코미디": {
+    "en": "Comedy",
+    "ja": "コメディ",
+    "zh-CN": "喜剧"
+  },
+  "트래킹": {
+    "en": "Tracking",
+    "ja": "トラッキング",
+    "zh-CN": "跟踪"
+  },
+  "판타지": {
+    "en": "Fantasy",
+    "ja": "ファンタジー",
+    "zh-CN": "奇幻"
+  },
+  "페이드": {
+    "en": "Fade",
+    "ja": "フェード",
+    "zh-CN": "淡入淡出"
+  },
+  "핑거링": {
+    "en": "Finger Ring",
+    "ja": "フィンガーリング",
+    "zh-CN": "指环"
+  },
+  "하드컷": {
+    "en": "Hard Cut",
+    "ja": "ハードカット",
+    "zh-CN": "硬切"
+  },
+  "허벅지": {
+    "en": "Thigh",
+    "ja": "太もも",
+    "zh-CN": "大腿"
+  },
+  "환경음": {
+    "en": "Ambient sound",
+    "ja": "環境音",
+    "zh-CN": "环境音"
+  },
+  "후배위": {
+    "en": "Back View",
+    "ja": "背面",
+    "zh-CN": "后视"
+  },
+  "후처리": {
+    "en": "Post-processing",
+    "ja": "後処理",
+    "zh-CN": "后处理"
+  },
+  "휴지통": {
+    "en": "Trash Can",
+    "ja": "ゴミ箱",
+    "zh-CN": "回收站"
+  },
+  " 연결됨": {
+    "en": "Connected",
+    "ja": "接続済み",
+    "zh-CN": "已连接"
+  },
+  " 프레임": {
+    "en": "Frame",
+    "ja": "フレーム",
+    "zh-CN": "帧"
+  },
+  "A 위치": {
+    "en": "A Position",
+    "ja": "A ポジション",
+    "zh-CN": "A 位置"
+  },
+  "B 위치": {
+    "en": "B Position",
+    "ja": "B ポジション",
+    "zh-CN": "B 位置"
+  },
+  "개 일치": {
+    "en": "Matched",
+    "ja": "一致",
+    "zh-CN": "匹配"
+  },
+  "대기 중": {
+    "en": "Waiting",
+    "ja": "待機中",
+    "zh-CN": "等待中"
+  },
+  "대상 1": {
+    "en": "Target 1",
+    "ja": "ターゲット 1",
+    "zh-CN": "目标 1"
+  },
+  "대상 2": {
+    "en": "Target 2",
+    "ja": "ターゲット 2",
+    "zh-CN": "目标 2"
+  },
+  "로우앵글": {
+    "en": "Low Angle",
+    "ja": "ローアングル",
+    "zh-CN": "低角度"
+  },
+  "목·어깨": {
+    "en": "Neck/Shoulder",
+    "ja": "首・肩",
+    "zh-CN": "颈/肩"
+  },
+  "미스터리": {
+    "en": "Mystery",
+    "ja": "ミステリー",
+    "zh-CN": "神秘"
+  },
+  "받는 쪽": {
+    "en": "Receiver",
+    "ja": "受信側",
+    "zh-CN": "接收方"
+  },
+  "벽 짚고": {
+    "en": "Wall Lean",
+    "ja": "壁に寄りかかって",
+    "zh-CN": "靠墙"
+  },
+  "브이로그": {
+    "en": "Vlog",
+    "ja": "Vlog",
+    "zh-CN": "Vlog"
+  },
+  "사용 중": {
+    "en": "In Use",
+    "ja": "使用中",
+    "zh-CN": "使用中"
+  },
+  "새 대화": {
+    "en": "New Chat",
+    "ja": "新しい会話",
+    "zh-CN": "新对话"
+  },
+  "새 장면": {
+    "en": "New Scene",
+    "ja": "新しいシーン",
+    "zh-CN": "新场景"
+  },
+  "새로고침": {
+    "en": "Refresh",
+    "ja": "リフレッシュ",
+    "zh-CN": "刷新"
+  },
+  "생성 중": {
+    "en": "Generating",
+    "ja": "生成中",
+    "zh-CN": "生成中"
+  },
+  "샷 구성": {
+    "en": "Shot Composition",
+    "ja": "ショット構成",
+    "zh-CN": "镜头构图"
+  },
+  "샷 크기": {
+    "en": "Shot size",
+    "ja": "ショットサイズ",
+    "zh-CN": "景别"
+  },
+  "샷 타입": {
+    "en": "Shot type",
+    "ja": "ショットの種類",
+    "zh-CN": "镜头类型"
+  },
+  "서스펜스": {
+    "en": "Suspense",
+    "ja": "サスペンス",
+    "zh-CN": "悬疑"
+  },
+  "스케줄러": {
+    "en": "Scheduler",
+    "ja": "スケジューラー",
+    "zh-CN": "调度器"
+  },
+  "아크 샷": {
+    "en": "Arc Shot",
+    "ja": "アークショット",
+    "zh-CN": "弧光镜头"
+  },
+  "안는 쪽": {
+    "en": "Cuddling Side",
+    "ja": "抱き寄せる側",
+    "zh-CN": "依偎侧"
+  },
+  "어깨너머": {
+    "en": "Over-the-Shoulder",
+    "ja": "肩越し",
+    "zh-CN": "过肩"
+  },
+  "얼굴·입": {
+    "en": "Face & Mouth",
+    "ja": "顔・口",
+    "zh-CN": "面部与嘴部"
+  },
+  "업스케일": {
+    "en": "Upscale",
+    "ja": "アップスケール",
+    "zh-CN": "超分辨率"
+  },
+  "영상 끝": {
+    "en": "End of video",
+    "ja": "動画の終端",
+    "zh-CN": "视频结尾"
+  },
+  "오디오만": {
+    "en": "Audio Only",
+    "ja": "オーディオのみ",
+    "zh-CN": "仅音频"
+  },
+  "워터마크": {
+    "en": "Watermark",
+    "ja": "ウォーターマーク",
+    "zh-CN": "水印"
+  },
+  "이동 폭": {
+    "en": "Move Amount",
+    "ja": "移動量",
+    "zh-CN": "移动幅度"
+  },
+  "이어받기": {
+    "en": "Append",
+    "ja": "継ぎ足し",
+    "zh-CN": "追加"
+  },
+  "적용 샷": {
+    "en": "Shots to use",
+    "ja": "適用ショット",
+    "zh-CN": "应用镜头"
+  },
+  "전체 샷": {
+    "en": "All shots",
+    "ja": "全ショット",
+    "zh-CN": "全部镜头"
+  },
+  "준비 중": {
+    "en": "Preparing",
+    "ja": "準備中",
+    "zh-CN": "准备中"
+  },
+  "줌 아웃": {
+    "en": "Zoom Out",
+    "ja": "ズームアウト",
+    "zh-CN": "缩放缩小"
+  },
+  "켬 · ": {
+    "en": "On · ",
+    "ja": "オン · ",
+    "zh-CN": "开启 · "
+  },
+  "클로즈업": {
+    "en": "Close-up",
+    "ja": "クローズアップ",
+    "zh-CN": "特写"
+  },
+  "타임라인": {
+    "en": "Timeline",
+    "ja": "タイムライン",
+    "zh-CN": "时间轴"
+  },
+  "틸트 업": {
+    "en": "Tilt Up",
+    "ja": "ティルトアップ",
+    "zh-CN": "倾斜向上"
+  },
+  "파이즈리": {
+    "en": "Pirouette",
+    "ja": "ピラエット",
+    "zh-CN": "旋转"
+  },
+  "팬 왼쪽": {
+    "en": "Pan Left",
+    "ja": "パン左",
+    "zh-CN": "向左平移"
+  },
+  "펠라치오": {
+    "en": "Pellicle",
+    "ja": "ペリチェロ",
+    "zh-CN": "佩利切罗"
+  },
+  "푸시 인": {
+    "en": "Push In",
+    "ja": "プッシュイン",
+    "zh-CN": "推进"
+  },
+  "풀 아웃": {
+    "en": "Pull Out",
+    "ja": "プルアウト",
+    "zh-CN": "拉出"
+  },
+  "프로덕션": {
+    "en": "Production",
+    "ja": "プロダクション",
+    "zh-CN": "制作"
+  },
+  "프로젝트": {
+    "en": "Project",
+    "ja": "プロジェクト",
+    "zh-CN": "项目"
+  },
+  "프롬프트": {
+    "en": "Prompt",
+    "ja": "プロンプト",
+    "zh-CN": "提示词"
+  },
+  "하는 쪽": {
+    "en": "Subject",
+    "ja": "対象",
+    "zh-CN": "主体"
+  },
+  "하이앵글": {
+    "en": "High Angle",
+    "ja": "ハイアングル",
+    "zh-CN": "高角度"
+  },
+  "＋ 대사": {
+    "en": "+ Dialogue",
+    "ja": "+ ダイアログ",
+    "zh-CN": "+ 对白"
+  },
+  "＋ 추가": {
+    "en": "+ Add",
+    "ja": "+ 追加",
+    "zh-CN": "+ 添加"
+  },
+  "＋ 행위": {
+    "en": "+ Action",
+    "ja": "+ アクション",
+    "zh-CN": "+ 动作"
+  },
+  " · 현재": {
+    "en": "· Current",
+    "ja": "・現在",
+    "zh-CN": "· 当前"
+  },
+  "(템플릿)": {
+    "en": "(Template)",
+    "ja": "(テンプレート)",
+    "zh-CN": "(模板)"
+  },
+  "3/4 뒤": {
+    "en": "3/4 Back",
+    "ja": "3/4 バック",
+    "zh-CN": "3/4 背面"
+  },
+  "3/4 앞": {
+    "en": "3/4 Front",
+    "ja": "3/4 フロント",
+    "zh-CN": "3/4 正面"
+  },
+  "가슴 애무": {
+    "en": "Chest Masturbation",
+    "ja": "胸の愛撫",
+    "zh-CN": "胸部爱抚"
+  },
+  "격리 워커": {
+    "en": "Isolated Worker",
+    "ja": "隔離ワーカー",
+    "zh-CN": "隔离工作者"
+  },
+  "결과 삭제": {
+    "en": "Delete Result",
+    "ja": "結果削除",
+    "zh-CN": "删除结果"
+  },
+  "고아 워커": {
+    "en": "Orphaned Worker",
+    "ja": "孤児ワーカー",
+    "zh-CN": "孤儿工作者"
+  },
+  "금지 사항": {
+    "en": "Restrictions",
+    "ja": "禁止事項",
+    "zh-CN": "限制事项"
+  },
+  "기본 스텝": {
+    "en": "Basic Step",
+    "ja": "基本ステップ",
+    "zh-CN": "基础步骤"
+  },
+  "끝 (초)": {
+    "en": "End (s)",
+    "ja": "終了（秒）",
+    "zh-CN": "结束（秒）"
+  },
+  "남성 자위": {
+    "en": "Male Masturbation",
+    "ja": "男性自慰",
+    "zh-CN": "男性自慰"
+  },
+  "다시 연결": {
+    "en": "Reconnect",
+    "ja": "再接続",
+    "zh-CN": "重新连接"
+  },
+  "다큐멘터리": {
+    "en": "Documentary",
+    "ja": "ドキュメンタリー",
+    "zh-CN": "纪录片"
+  },
+  "대면 입위": {
+    "en": "Face-to-Face Supine",
+    "ja": "対面仰位",
+    "zh-CN": "面对面仰卧"
+  },
+  "대면 좌위": {
+    "en": "Face-to-Face Sitting",
+    "ja": "対面座位",
+    "zh-CN": "面对面坐姿"
+  },
+  "대사 삭제": {
+    "en": "Delete dialogue",
+    "ja": "セリフを削除",
+    "zh-CN": "删除对白"
+  },
+  "대사 언어": {
+    "en": "Dialogue Language",
+    "ja": "対話言語",
+    "zh-CN": "对话语言"
+  },
+  "대사 없음": {
+    "en": "No Dialogue",
+    "ja": "ダイアログなし",
+    "zh-CN": "无对话"
+  },
+  "대사 있음": {
+    "en": "Has Dialogue",
+    "ja": "ダイアログあり",
+    "zh-CN": "有对话"
+  },
+  "대사 정책": {
+    "en": "Dialogue policy",
+    "ja": "セリフの方針",
+    "zh-CN": "对白策略"
+  },
+  "대화 제목": {
+    "en": "Conversation Title",
+    "ja": "会話タイトル",
+    "zh-CN": "会话标题"
+  },
+  "레퍼런스 ": {
+    "en": "Reference ",
+    "ja": "リファレンス ",
+    "zh-CN": "参考 "
+  },
+  "렌더 설정": {
+    "en": "Render settings",
+    "ja": "レンダー設定",
+    "zh-CN": "渲染设置"
+  },
+  "롤 반시계": {
+    "en": "Roll Counter-Clockwise",
+    "ja": "ロール反時計回り",
+    "zh-CN": "反向旋转"
+  },
+  "모델 계열": {
+    "en": "Model family",
+    "ja": "モデル系統",
+    "zh-CN": "模型系列"
+  },
+  "모델 선택": {
+    "en": "Select Model",
+    "ja": "モデル選択",
+    "zh-CN": "选择模型"
+  },
+  "목록 확인": {
+    "en": "View list",
+    "ja": "一覧を確認",
+    "zh-CN": "查看列表"
+  },
+  "뮤직비디오": {
+    "en": "Music Video",
+    "ja": "ミュージックビデオ",
+    "zh-CN": "音乐视频"
+  },
+  "미디엄 롱": {
+    "en": "Medium long shot",
+    "ja": "ミディアムロングショット",
+    "zh-CN": "中远景"
+  },
+  "밀착 시점": {
+    "en": "Close-up Shot",
+    "ja": "クローズアップショット",
+    "zh-CN": "特写镜头"
+  },
+  "밀착 포옹": {
+    "en": "Intimate Embrace",
+    "ja": "親密なエムブレス",
+    "zh-CN": "亲密拥抱"
+  },
+  "보간 모델": {
+    "en": "Interpolation Model",
+    "ja": "補間モデル",
+    "zh-CN": "插值模型"
+  },
+  "보정 강도": {
+    "en": "Adjustment Intensity",
+    "ja": "調整強度",
+    "zh-CN": "调整强度"
+  },
+  "부분 수정": {
+    "en": "Revise selection",
+    "ja": "部分修正",
+    "zh-CN": "局部修改"
+  },
+  "사전 검사": {
+    "en": "Preflight check",
+    "ja": "事前チェック",
+    "zh-CN": "运行前检查"
+  },
+  "상호 마찰": {
+    "en": "Mutual Friction",
+    "ja": "相互摩擦",
+    "zh-CN": "相互摩擦"
+  },
+  "상호 수기": {
+    "en": "Mutual Sketch",
+    "ja": "相互スケッチ",
+    "zh-CN": "相互草图"
+  },
+  "생각 중…": {
+    "en": "Thinking...",
+    "ja": "思考中…",
+    "zh-CN": "思考中…"
+  },
+  "생성 모드": {
+    "en": "Generation Mode",
+    "ja": "生成モード",
+    "zh-CN": "生成模式"
+  },
+  "생성 엔진": {
+    "en": "Generation Engine",
+    "ja": "生成エンジン",
+    "zh-CN": "生成引擎"
+  },
+  "순차 생성": {
+    "en": "Sequential Generation",
+    "ja": "順次生成",
+    "zh-CN": "顺序生成"
+  },
+  "시선 주체": {
+    "en": "Gaze Subject",
+    "ja": "視線主体",
+    "zh-CN": "视线主体"
+  },
+  "시작 시각": {
+    "en": "Start Time",
+    "ja": "開始時刻",
+    "zh-CN": "开始时间"
+  },
+  "시점 주인": {
+    "en": "POV character",
+    "ja": "視点の人物",
+    "zh-CN": "视点角色"
+  },
+  "안기는 쪽": {
+    "en": "Pan Direction",
+    "ja": "パン方向",
+    "zh-CN": "平移方向"
+  },
+  "앙각 극단": {
+    "en": "Extreme Close-up",
+    "ja": "極端クローズアップ",
+    "zh-CN": "极端特写"
+  },
+  "애널링구스": {
+    "en": "Analogue",
+    "ja": "アナログ",
+    "zh-CN": "模拟"
+  },
+  "얼굴 시트": {
+    "en": "Face sheet",
+    "ja": "顔シート",
+    "zh-CN": "面部参考图"
+  },
+  "에셋 삭제": {
+    "en": "Delete Asset",
+    "ja": "アセット削除",
+    "zh-CN": "删除资源"
+  },
+  "에셋 이름": {
+    "en": "Asset Name",
+    "ja": "アセット名",
+    "zh-CN": "资源名称"
+  },
+  "여성 자위": {
+    "en": "Female Masturbation",
+    "ja": "フェマリー・マスターベーション",
+    "zh-CN": "女性自慰"
+  },
+  "여행 필름": {
+    "en": "Travel Film",
+    "ja": "トラベルフィルム",
+    "zh-CN": "旅行胶片"
+  },
+  "영상 생성": {
+    "en": "Generate Video",
+    "ja": "ビデオ生成",
+    "zh-CN": "生成视频"
+  },
+  "오디오: ": {
+    "en": "Audio: ",
+    "ja": "オーディオ：",
+    "zh-CN": "音频："
+  },
+  "용도 메모": {
+    "en": "Usage Note",
+    "ja": "用途メモ",
+    "zh-CN": "用途备注"
+  },
+  "원본 영상": {
+    "en": "Original Video",
+    "ja": "オリジナルビデオ",
+    "zh-CN": "原始视频"
+  },
+  "이동 속도": {
+    "en": "Motion Speed",
+    "ja": "モーションスピード",
+    "zh-CN": "运动速度"
+  },
+  "이음매: ": {
+    "en": "Seam: ",
+    "ja": "継ぎ目：",
+    "zh-CN": "接缝："
+  },
+  "인물 외형": {
+    "en": "Character Appearance",
+    "ja": "キャラクター外観",
+    "zh-CN": "角色外观"
+  },
+  "입력 방식": {
+    "en": "Input Method",
+    "ja": "入力方式",
+    "zh-CN": "输入方式"
+  },
+  "자동 저장": {
+    "en": "Autosave",
+    "ja": "自動保存",
+    "zh-CN": "自动保存"
+  },
+  "작업 기록": {
+    "en": "Job History",
+    "ja": "ジョブ履歴",
+    "zh-CN": "任务记录"
+  },
+  "장면 설정": {
+    "en": "Scene Setup",
+    "ja": "シーン設定",
+    "zh-CN": "场景设置"
+  },
+  "장면 전체": {
+    "en": "Full Scene",
+    "ja": "シーン全体",
+    "zh-CN": "整个场景"
+  },
+  "장소 시트": {
+    "en": "Location Sheet",
+    "ja": "場所シート",
+    "zh-CN": "位置表"
+  },
+  "재생 완료": {
+    "en": "Playback Complete",
+    "ja": "再生完了",
+    "zh-CN": "播放完成"
+  },
+  "저장 실패": {
+    "en": "Save failed",
+    "ja": "保存失敗",
+    "zh-CN": "保存失败"
+  },
+  "저장 중…": {
+    "en": "Saving…",
+    "ja": "保存中…",
+    "zh-CN": "保存中…"
+  },
+  "적용 대상": {
+    "en": "Target",
+    "ja": "適用対象",
+    "zh-CN": "应用对象"
+  },
+  "전신 시트": {
+    "en": "Full-body sheet",
+    "ja": "全身シート",
+    "zh-CN": "全身参考图"
+  },
+  "전신 애무": {
+    "en": "Full Body Massage",
+    "ja": "全身マッサージ",
+    "zh-CN": "全身按摩"
+  },
+  "전환 방식": {
+    "en": "Transition type",
+    "ja": "切り替え方式",
+    "zh-CN": "转场方式"
+  },
+  "정면 측위": {
+    "en": "Front Alignment",
+    "ja": "正面配置",
+    "zh-CN": "正面对齐"
+  },
+  "제작 대상": {
+    "en": "Production Target",
+    "ja": "製作対象",
+    "zh-CN": "制作目标"
+  },
+  "지금 저장": {
+    "en": "Save now",
+    "ja": "今すぐ保存",
+    "zh-CN": "立即保存"
+  },
+  "직접 입력": {
+    "en": "Manual Entry",
+    "ja": "手動入力",
+    "zh-CN": "手动输入"
+  },
+  "참여자 A": {
+    "en": "Participant A",
+    "ja": "参加者 A",
+    "zh-CN": "参与者 A"
+  },
+  "참여자 B": {
+    "en": "Participant B",
+    "ja": "参加者 B",
+    "zh-CN": "参与者 B"
+  },
+  "참조 종류": {
+    "en": "Reference type",
+    "ja": "参照の種類",
+    "zh-CN": "参考类型"
+  },
+  "처리 단계": {
+    "en": "Processing Stage",
+    "ja": "処理段階",
+    "zh-CN": "处理阶段"
+  },
+  "첫 프레임": {
+    "en": "First Frame",
+    "ja": "最初のフレーム",
+    "zh-CN": "第一帧"
+  },
+  "출력 크기": {
+    "en": "Output Size",
+    "ja": "出力サイズ",
+    "zh-CN": "输出尺寸"
+  },
+  "쿤닐링구스": {
+    "en": "Kunilungus",
+    "ja": "クニルングス",
+    "zh-CN": "库尼伦格斯"
+  },
+  "크기 조정": {
+    "en": "Resize",
+    "ja": "リサイズ",
+    "zh-CN": "调整大小"
+  },
+  "클립 x ": {
+    "en": "Clip x ",
+    "ja": "クリップ x ",
+    "zh-CN": "片段 x "
+  },
+  "클립 개수": {
+    "en": "Number of Clips",
+    "ja": "クリップ数",
+    "zh-CN": "片段数量"
+  },
+  "클립 삭제": {
+    "en": "Delete Clip",
+    "ja": "クリップを削除",
+    "zh-CN": "删除片段"
+  },
+  "트럭 왼쪽": {
+    "en": "Truck Left",
+    "ja": "トラック左",
+    "zh-CN": "左侧平移"
+  },
+  "틸트 다운": {
+    "en": "Tilt Down",
+    "ja": "チルトダウン",
+    "zh-CN": "向下倾斜"
+  },
+  "패션 룩북": {
+    "en": "Fashion Lookbook",
+    "ja": "ファッションルックブック",
+    "zh-CN": "时尚样刊"
+  },
+  "팬 오른쪽": {
+    "en": "Pan Right",
+    "ja": "パン右",
+    "zh-CN": "右侧平移"
+  },
+  "편집 결과": {
+    "en": "Edit Result",
+    "ja": "編集結果",
+    "zh-CN": "编辑结果"
+  },
+  "편집 지시": {
+    "en": "Edit Instruction",
+    "ja": "編集指示",
+    "zh-CN": "编辑指令"
+  },
+  "필수 사항": {
+    "en": "Requirements",
+    "ja": "必須事項",
+    "zh-CN": "必要条件"
+  },
+  "행위 삭제": {
+    "en": "Delete action",
+    "ja": "動作を削除",
+    "zh-CN": "删除动作"
+  },
+  "화면 뒤쪽": {
+    "en": "Back of Screen",
+    "ja": "画面裏側",
+    "zh-CN": "屏幕背面"
+  },
+  "화면 비율": {
+    "en": "Aspect Ratio",
+    "ja": "アスペクト比",
+    "zh-CN": "宽高比"
+  },
+  "화면 앞쪽": {
+    "en": "Front of Screen",
+    "ja": "画面前面",
+    "zh-CN": "屏幕正面"
+  },
+  "화면 왼쪽": {
+    "en": "Left side of screen",
+    "ja": "画面左側",
+    "zh-CN": "屏幕左侧"
+  },
+  "화면 위쪽": {
+    "en": "Top of screen",
+    "ja": "画面上部",
+    "zh-CN": "屏幕上方"
+  },
+  "후면 입위": {
+    "en": "Back: Upward",
+    "ja": "背面・入口位置",
+    "zh-CN": "后置入位"
+  },
+  "후면 좌위": {
+    "en": "Back: Leftward",
+    "ja": "背面・左位置",
+    "zh-CN": "后置坐位"
+  },
+  "후면 측위": {
+    "en": "Back: Sideward",
+    "ja": "背面・測位",
+    "zh-CN": "后置侧位"
+  },
+  " · 저화질": {
+    "en": " · Low Quality",
+    "ja": " ・低画質",
+    "zh-CN": " · 低画质"
+  },
+  " · 클립 ": {
+    "en": " · Clip",
+    "ja": " ・クリップ ",
+    "zh-CN": " · 剪辑 "
+  },
+  "강한 흔들림": {
+    "en": "Strong Shake",
+    "ja": "強い揺れ",
+    "zh-CN": "强烈抖动"
+  },
+  "고화질 마감": {
+    "en": "High-Quality Finish",
+    "ja": "ハイビジョン仕上げ",
+    "zh-CN": "高画质收尾"
+  },
+  "공간 디테일": {
+    "en": "Environment details",
+    "ja": "背景の細部",
+    "zh-CN": "环境细节"
+  },
+  "그 외 모드": {
+    "en": "Other Modes",
+    "ja": "その他モード",
+    "zh-CN": "其他模式"
+  },
+  "길이 (초)": {
+    "en": "Length (sec)",
+    "ja": "長さ（秒）",
+    "zh-CN": "时长（秒）"
+  },
+  "롤 시계방향": {
+    "en": "Roll Clockwise",
+    "ja": "ロール時計回り",
+    "zh-CN": "滚动顺时针"
+  },
+  "메모리 정리": {
+    "en": "Memory cleanup",
+    "ja": "メモリ解放",
+    "zh-CN": "清理内存"
+  },
+  "배면 기승위": {
+    "en": "Back: Up-Left-Right",
+    "ja": "背面起承転",
+    "zh-CN": "背面起势位"
+  },
+  "보이는 방향": {
+    "en": "Visible Direction",
+    "ja": "見える方向",
+    "zh-CN": "可见方向"
+  },
+  "브리프 확인": {
+    "en": "View brief",
+    "ja": "ブリーフを確認",
+    "zh-CN": "查看简报"
+  },
+  "사각 기울기": {
+    "en": "Rectangular Tilt",
+    "ja": "直角傾斜",
+    "zh-CN": "矩形倾斜度"
+  },
+  "사용 끝 초": {
+    "en": "End Frame (s)",
+    "ja": "終了時刻（秒）",
+    "zh-CN": "结束帧 (秒)"
+  },
+  "생성한 시트": {
+    "en": "Generated sheets",
+    "ja": "生成したシート",
+    "zh-CN": "已生成的参考图"
+  },
+  "시작 (초)": {
+    "en": "Start (s)",
+    "ja": "開始（秒）",
+    "zh-CN": "开始 (秒)"
+  },
+  "약한 흔들림": {
+    "en": "Slight Shake",
+    "ja": "弱い揺れ",
+    "zh-CN": "轻微抖动"
+  },
+  "업로드 실패": {
+    "en": "Upload Failed",
+    "ja": "アップロード失敗",
+    "zh-CN": "上传失败"
+  },
+  "엎드린 자세": {
+    "en": "Prone Pose",
+    "ja": "伏せの姿勢",
+    "zh-CN": "俯卧姿势"
+  },
+  "에셋 보관함": {
+    "en": "Asset Vault",
+    "ja": "アセット保管庫",
+    "zh-CN": "资产库"
+  },
+  "에셋에 보관": {
+    "en": "Save to assets",
+    "ja": "アセットに保存",
+    "zh-CN": "保存为素材"
+  },
+  "영상 VAE": {
+    "en": "Video VAE",
+    "ja": "ビデオ VAE",
+    "zh-CN": "视频 VAE"
+  },
+  "용도 미지정": {
+    "en": "Purpose not specified",
+    "ja": "用途未指定",
+    "zh-CN": "用途未指定"
+  },
+  "움직이는 쪽": {
+    "en": "Moving Side",
+    "ja": "動く側",
+    "zh-CN": "活动侧"
+  },
+  "이 버전으로": {
+    "en": "With This Version",
+    "ja": "このバージョンで",
+    "zh-CN": "使用此版本"
+  },
+  "이미지 · ": {
+    "en": "Image · ",
+    "ja": "イメージ・",
+    "zh-CN": "图像 · "
+  },
+  "이미지 용도": {
+    "en": "Image purpose",
+    "ja": "画像の用途",
+    "zh-CN": "图像用途"
+  },
+  "입력 이미지": {
+    "en": "Input Image",
+    "ja": "入力画像",
+    "zh-CN": "输入图像"
+  },
+  "작업 기록 ": {
+    "en": "Work History ",
+    "ja": "作業履歴",
+    "zh-CN": "工作记录"
+  },
+  "재료 만들기": {
+    "en": "Create source images",
+    "ja": "元画像を作成",
+    "zh-CN": "制作源图"
+  },
+  "재시작 중…": {
+    "en": "Restarting...",
+    "ja": "再起動中…",
+    "zh-CN": "重新启动..."
+  },
+  "제공하는 쪽": {
+    "en": "From Provider",
+    "ja": "提供元",
+    "zh-CN": "来自提供方"
+  },
+  "지정 안 함": {
+    "en": "Not specified",
+    "ja": "指定なし",
+    "zh-CN": "未指定"
+  },
+  "직접 입력…": {
+    "en": "Enter Manually...",
+    "ja": "手動入力…",
+    "zh-CN": "手动输入..."
+  },
+  "카메라 이동": {
+    "en": "Camera Move",
+    "ja": "カメラ移動",
+    "zh-CN": "相机移动"
+  },
+  "캐릭터 검색": {
+    "en": "Search Character",
+    "ja": "キャラクター検索",
+    "zh-CN": "搜索角色"
+  },
+  "캐릭터 전체": {
+    "en": "All Characters",
+    "ja": "キャラクターすべて",
+    "zh-CN": "所有角色"
+  },
+  "크기 정하기": {
+    "en": "Set Size",
+    "ja": "サイズ設定",
+    "zh-CN": "设置大小"
+  },
+  "트럭 오른쪽": {
+    "en": "Truck Right",
+    "ja": "トラック右",
+    "zh-CN": "摇摄向右"
+  },
+  "페데스탈 업": {
+    "en": "Pedestal Up",
+    "ja": "ペデスタルアップ",
+    "zh-CN": "俯仰向上"
+  },
+  "편집에 추가": {
+    "en": "Add to Edit",
+    "ja": "編集に追加",
+    "zh-CN": "添加到剪辑"
+  },
+  "프레임 보간": {
+    "en": "Frame Interpolation",
+    "ja": "フレーム補間",
+    "zh-CN": "帧插值"
+  },
+  "행위 기본값": {
+    "en": "Action Defaults",
+    "ja": "アクションデフォルト",
+    "zh-CN": "动作默认值"
+  },
+  "화면 가운데": {
+    "en": "Center Screen",
+    "ja": "画面中央",
+    "zh-CN": "屏幕居中"
+  },
+  "화면 아래쪽": {
+    "en": "Bottom of Screen",
+    "ja": "画面下部",
+    "zh-CN": "屏幕底部"
+  },
+  "화면 오른쪽": {
+    "en": "Right of Screen",
+    "ja": "画面右側",
+    "zh-CN": "屏幕右侧"
+  },
+  "＋ 새 대화": {
+    "en": "+ New Chat",
+    "ja": "＋新しいチャット",
+    "zh-CN": "+ 新建对话"
+  },
+  "＋ 샷 추가": {
+    "en": "+ Add Shot",
+    "ja": "＋ショット追加",
+    "zh-CN": "+ 添加镜头"
+  },
+  "1인칭 POV": {
+    "en": "First-Person POV",
+    "ja": "ファーストパーソン POV",
+    "zh-CN": "第一人称 POV"
+  },
+  "LoRA 없음": {
+    "en": "No LoRA",
+    "ja": "LoRA なし",
+    "zh-CN": "无 LoRA"
+  },
+  "★ 첫 프레임": {
+    "en": "★ First Frame",
+    "ja": "★ 最初のフレーム",
+    "zh-CN": "★ 首帧"
+  },
+  "가슴 / 유두": {
+    "en": "Chest / Nipple",
+    "ja": "胸 / 乳首",
+    "zh-CN": "胸部 / 乳头"
+  },
+  "그라비아 화보": {
+    "en": "Gravure Photo",
+    "ja": "グラビア写真",
+    "zh-CN": "格纹写真"
+  },
+  "레퍼런스 원본": {
+    "en": "Reference Original",
+    "ja": "レファレンス元データ",
+    "zh-CN": "参考原图"
+  },
+  "레퍼런스 제작": {
+    "en": "Reference Creation",
+    "ja": "リファレンス制作",
+    "zh-CN": "参考图制作"
+  },
+  "로맨틱 코미디": {
+    "en": "Romantic Comedy",
+    "ja": "ロマンティックコメディ",
+    "zh-CN": "浪漫喜剧"
+  },
+  "마지막 프레임": {
+    "en": "Last Frame",
+    "ja": "最後のフレーム",
+    "zh-CN": "末帧"
+  },
+  "모델 업스케일": {
+    "en": "Model Upscale",
+    "ja": "モデルアップスケール",
+    "zh-CN": "模型放大"
+  },
+  "모델 패치: ": {
+    "en": "Model Patch: ",
+    "ja": "モデルパッチ：",
+    "zh-CN": "模型补丁："
+  },
+  "목·쇄골 키스": {
+    "en": "Neck/Collarbone Kiss",
+    "ja": "首・鎖骨キス",
+    "zh-CN": "颈/锁骨吻"
+  },
+  "몸 방향 주체": {
+    "en": "Body Orientation Subject",
+    "ja": "体方向主体",
+    "zh-CN": "身体朝向主体"
+  },
+  "바라보는 대상": {
+    "en": "Target Being Watched",
+    "ja": "見られている対象",
+    "zh-CN": "被注视的目标"
+  },
+  "배경 / 장소": {
+    "en": "Background / Location",
+    "ja": "背景・場所",
+    "zh-CN": "背景 / 地点"
+  },
+  "배경 · 장소": {
+    "en": "Background · Location",
+    "ja": "背景 · 場所",
+    "zh-CN": "背景 · 地点"
+  },
+  "복구했습니다.": {
+    "en": "Restored.",
+    "ja": "復元しました。",
+    "zh-CN": "已恢复。"
+  },
+  "복사했습니다.": {
+    "en": "Copied.",
+    "ja": "コピーしました。",
+    "zh-CN": "已复制。"
+  },
+  "부감 / 탑샷": {
+    "en": "Overhead / top shot",
+    "ja": "俯瞰・トップショット",
+    "zh-CN": "俯拍／顶视"
+  },
+  "사용 시작 초": {
+    "en": "Start Time (seconds)",
+    "ja": "開始時間（秒）",
+    "zh-CN": "开始时间（秒）"
+  },
+  "사용자 비율 ": {
+    "en": "User Aspect Ratio",
+    "ja": "ユーザーアスペクト比",
+    "zh-CN": "用户宽高比"
+  },
+  "선택한 완성본": {
+    "en": "Selected Final Render",
+    "ja": "選択された最終レンダリング",
+    "zh-CN": "选定的最终渲染"
+  },
+  "소품 / 사물": {
+    "en": "Props / Objects",
+    "ja": "小道具・オブジェクト",
+    "zh-CN": "道具/物体"
+  },
+  "실행 전 확인": {
+    "en": "Pre-Execution Check",
+    "ja": "実行前確認",
+    "zh-CN": "执行前检查"
+  },
+  "아래 앉는 쪽": {
+    "en": "Bottom Seating Side",
+    "ja": "下座側",
+    "zh-CN": "下方座位侧"
+  },
+  "업스케일 모델": {
+    "en": "Upscale Model",
+    "ja": "アップスケールモデル",
+    "zh-CN": "放大模型"
+  },
+  "에셋 프로젝트": {
+    "en": "Asset Project",
+    "ja": "アセットプロジェクト",
+    "zh-CN": "资产项目"
+  },
+  "에셋으로 보관": {
+    "en": "Save as Asset",
+    "ja": "アセットとして保存",
+    "zh-CN": "保存为资产"
+  },
+  "여성 간 마찰": {
+    "en": "Female Friction",
+    "ja": "女性摩擦",
+    "zh-CN": "女性摩擦"
+  },
+  "영상 다운로드": {
+    "en": "Download Video",
+    "ja": "動画ダウンロード",
+    "zh-CN": "下载视频"
+  },
+  "오디오 VAE": {
+    "en": "Audio VAE",
+    "ja": "オーディオ VAE",
+    "zh-CN": "音频 VAE"
+  },
+  "움직이는 주체": {
+    "en": "Moving Subject",
+    "ja": "動く主体",
+    "zh-CN": "运动主体"
+  },
+  "위에 앉는 쪽": {
+    "en": "Top Seating Side",
+    "ja": "上座側",
+    "zh-CN": "上方座位侧"
+  },
+  "이 기록 삭제": {
+    "en": "Delete This Record",
+    "ja": "この記録を削除",
+    "zh-CN": "删除此记录"
+  },
+  "이 버전 사용": {
+    "en": "Use This Version",
+    "ja": "このバージョンを使用",
+    "zh-CN": "使用此版本"
+  },
+  "이 샷의 남자": {
+    "en": "Male in this shot",
+    "ja": "このショットの男性",
+    "zh-CN": "此镜头中的男性"
+  },
+  "이 샷의 여자": {
+    "en": "Female in this shot",
+    "ja": "このショットの女性",
+    "zh-CN": "此镜头中的女性"
+  },
+  "이 시트 생성": {
+    "en": "Generate this sheet",
+    "ja": "このシートを生成",
+    "zh-CN": "生成此图层"
+  },
+  "이 작업 취소": {
+    "en": "Cancel this task",
+    "ja": "このタスクをキャンセル",
+    "zh-CN": "取消此任务"
+  },
+  "이 클립 재생": {
+    "en": "Play this clip",
+    "ja": "このクリップを再生",
+    "zh-CN": "播放此片段"
+  },
+  "이 후보 삭제": {
+    "en": "Delete this candidate",
+    "ja": "この候補を削除",
+    "zh-CN": "删除此候选项"
+  },
+  "이어지는 동작": {
+    "en": "Next action",
+    "ja": "次のアクション",
+    "zh-CN": "下一个动作"
+  },
+  "이전 프롬프트": {
+    "en": "Previous prompt",
+    "ja": "前のプロンプト",
+    "zh-CN": "上一版提示词"
+  },
+  "자세 / 포즈": {
+    "en": "Pose / Stance",
+    "ja": "ポーズ／スタンス",
+    "zh-CN": "姿势 / 站姿"
+  },
+  "장르 · 테마": {
+    "en": "Genre · Theme",
+    "ja": "ジャンル・テーマ",
+    "zh-CN": "类型 · 主题"
+  },
+  "전체 이어보기": {
+    "en": "View All Continuum",
+    "ja": "全体的なContinuumを表示",
+    "zh-CN": "查看所有 Continuum"
+  },
+  "종료했습니다.": {
+    "en": "Finished.",
+    "ja": "終了しました。",
+    "zh-CN": "已完成。"
+  },
+  "최종 레퍼런스": {
+    "en": "Final Reference",
+    "ja": "最終リファレンス",
+    "zh-CN": "最终参考"
+  },
+  "최종 색 보정": {
+    "en": "Final Color Correction",
+    "ja": "最終カラー補正",
+    "zh-CN": "最终调色"
+  },
+  "추가 LoRA": {
+    "en": "Add LoRA",
+    "ja": "LoRA を追加",
+    "zh-CN": "添加 LoRA"
+  },
+  "클립으로 추가": {
+    "en": "Add as Clip",
+    "ja": "クリップとして追加",
+    "zh-CN": "作为片段添加"
+  },
+  "키스 (상호)": {
+    "en": "Kiss (Mutual)",
+    "ja": "キス（相互）",
+    "zh-CN": "接吻（互动的）"
+  },
+  "터보 LoRA": {
+    "en": "Turbo LoRA",
+    "ja": "ターボ LoRA",
+    "zh-CN": "Turbo LoRA"
+  },
+  "텍스트 인코더": {
+    "en": "Text Encoder",
+    "ja": "テキストエンコーダー",
+    "zh-CN": "文本编码器"
+  },
+  "페데스탈 다운": {
+    "en": "Pedestal Down",
+    "ja": "ペデスタルダウン",
+    "zh-CN": "底座向下"
+  },
+  "프로젝트 삭제": {
+    "en": "Delete Project",
+    "ja": "プロジェクト削除",
+    "zh-CN": "删除项目"
+  },
+  "프로젝트 선택": {
+    "en": "Select Project",
+    "ja": "プロジェクト選択",
+    "zh-CN": "选择项目"
+  },
+  "프로젝트 에셋": {
+    "en": "Project Assets",
+    "ja": "プロジェクトアセット",
+    "zh-CN": "项目资源"
+  },
+  "프롬프트 배분": {
+    "en": "Prompt Distribution",
+    "ja": "プロンプト配分",
+    "zh-CN": "提示词分配"
+  },
+  "프롬프트 복사": {
+    "en": "Copy Prompt",
+    "ja": "プロンプトコピー",
+    "zh-CN": "复制提示词"
+  },
+  "프롬프트 작성": {
+    "en": "Write prompt",
+    "ja": "プロンプトを作成",
+    "zh-CN": "编写提示词"
+  },
+  "해상도 프리셋": {
+    "en": "Resolution Presets",
+    "ja": "解像度プリセット",
+    "zh-CN": "分辨率预设"
+  },
+  "혼자 손으로.": {
+    "en": "Solo Hand.",
+    "ja": "ソロハンド。",
+    "zh-CN": "单人手部。"
+  },
+  "확인 필요\\n": {
+    "en": "Needs Review\\n",
+    "ja": "レビューが必要\\n",
+    "zh-CN": "需要审核\\n"
+  },
+  "후보 선택 중": {
+    "en": "Selecting Candidates",
+    "ja": "候補を選択中",
+    "zh-CN": "选择候选项中"
+  },
+  " (현재 없음)": {
+    "en": "(Currently None)",
+    "ja": "(現在なし)",
+    "zh-CN": "(当前无)"
+  },
+  "KV 캐시 위치": {
+    "en": "KV Cache Location",
+    "ja": "KV キャッシュ場所",
+    "zh-CN": "KV 缓存位置"
+  },
+  "LoRA 검색…": {
+    "en": "Searching LoRA…",
+    "ja": "LoRA を検索中…",
+    "zh-CN": "搜索 LoRA…"
+  },
+  "Torch 캐시": {
+    "en": "Torch Cache",
+    "ja": "Torch キャッシュ",
+    "zh-CN": "Torch 缓存"
+  },
+  "가장자리 걸치기": {
+    "en": "Edge Detection",
+    "ja": "エッジ検出",
+    "zh-CN": "边缘检测"
+  },
+  "감성 포트레이트": {
+    "en": "Emotional Portrait",
+    "ja": "感情ポートレート",
+    "zh-CN": "情感肖像"
+  },
+  "노드 이름 검색": {
+    "en": "Search Node Name",
+    "ja": "ノード名検索",
+    "zh-CN": "搜索节点名称"
+  },
+  "대면 안고 서서": {
+    "en": "Standing facing front",
+    "ja": "正面を向いて立つ",
+    "zh-CN": "正面站立"
+  },
+  "도착 초점 대상": {
+    "en": "Arrive Focus Target",
+    "ja": "到達フォーカストarget",
+    "zh-CN": "到达焦点目标"
+  },
+  "레퍼런스 이미지": {
+    "en": "Reference Image",
+    "ja": "リファレンス画像",
+    "zh-CN": "参考图像"
+  },
+  "레퍼런스로 추가": {
+    "en": "Add via Reference",
+    "ja": "リファレンスで追加",
+    "zh-CN": "通过参考添加"
+  },
+  "미디엄 클로즈업": {
+    "en": "Medium Close-up",
+    "ja": "ミディアムクローズアップ",
+    "zh-CN": "中近景"
+  },
+  "발로 자극한다.": {
+    "en": "Stimulate with feet.",
+    "ja": "足で刺激する。",
+    "zh-CN": "用脚刺激。"
+  },
+  "밝기 이동 상한": {
+    "en": "Maximum brightness shift",
+    "ja": "明るさの補正上限",
+    "zh-CN": "亮度偏移上限"
+  },
+  "배면 안고 서서": {
+    "en": "Standing facing back",
+    "ja": "背面を向いて立つ",
+    "zh-CN": "背面站立"
+  },
+  "보관 영상 삭제": {
+    "en": "Delete Stored Video",
+    "ja": "保存済み動画の削除",
+    "zh-CN": "删除存储视频"
+  },
+  "비율 + 프리셋": {
+    "en": "Ratio + Preset",
+    "ja": "比率 + プリセット",
+    "zh-CN": "比例 + 预设"
+  },
+  "사용 구간 저장": {
+    "en": "Save Used Segment",
+    "ja": "使用区間の保存",
+    "zh-CN": "保存使用片段"
+  },
+  "사용한 프롬프트": {
+    "en": "Prompt used",
+    "ja": "使用したプロンプト",
+    "zh-CN": "使用的提示词"
+  },
+  "사이버펑크 네온": {
+    "en": "Cyberpunk Neon",
+    "ja": "サイバーパンクネオン",
+    "zh-CN": "赛博朋克霓虹"
+  },
+  "사전 검사 통과": {
+    "en": "Pre-check Passed",
+    "ja": "プリチェック合格",
+    "zh-CN": "预检通过"
+  },
+  "상호 관찰 자위": {
+    "en": "Mutual Masturbation",
+    "ja": "相互観察自慰",
+    "zh-CN": "相互观察自慰"
+  },
+  "생성 결과 삭제": {
+    "en": "Delete Generation Result",
+    "ja": "生成結果を削除",
+    "zh-CN": "删除生成结果"
+  },
+  "설정만 불러오기": {
+    "en": "Load Settings Only",
+    "ja": "設定のみ読み込み",
+    "zh-CN": "仅加载设置"
+  },
+  "시네마틱 드라마": {
+    "en": "Cinematic Drama",
+    "ja": "シネマティックドラマ",
+    "zh-CN": "电影戏剧"
+  },
+  "시작 초점 대상": {
+    "en": "Start Focus Target",
+    "ja": "開始フォーカストarget",
+    "zh-CN": "起始焦点目标"
+  },
+  "연결 영상 · ": {
+    "en": "Linked Video · ",
+    "ja": "リンクされたビデオ · ",
+    "zh-CN": "链接视频 · "
+  },
+  "연결 영상 삭제": {
+    "en": "Delete Linked Video",
+    "ja": "リンクされたビデオを削除",
+    "zh-CN": "删除链接视频"
+  },
+  "연결 확인 중…": {
+    "en": "Verifying Connection…",
+    "ja": "接続を確認中…",
+    "zh-CN": "正在验证连接…"
+  },
+  "연결 확인 필요": {
+    "en": "Connection Required",
+    "ja": "接続が必要",
+    "zh-CN": "需要连接"
+  },
+  "영상 + 오디오": {
+    "en": "Video + Audio",
+    "ja": "ビデオ + オーディオ",
+    "zh-CN": "视频 + 音频"
+  },
+  "영상 강도 배율": {
+    "en": "Video Intensity Scale",
+    "ja": "ビデオ強度スケール",
+    "zh-CN": "视频强度比例"
+  },
+  "위 (타는 쪽)": {
+    "en": "Top (Burning Side)",
+    "ja": "上（燃焼側）",
+    "zh-CN": "顶部（燃烧侧）"
+  },
+  "이 이미지 보관": {
+    "en": "Keep This Image",
+    "ja": "この画像を保持",
+    "zh-CN": "保留此图像"
+  },
+  "이미지 1 비율": {
+    "en": "Image 1 Ratio",
+    "ja": "イメージ 1 の比率",
+    "zh-CN": "图像 1 比例"
+  },
+  "이어받을 프레임": {
+    "en": "Next Frame to Attach",
+    "ja": "接続する次のフレーム",
+    "zh-CN": "下一个要连接的帧"
+  },
+  "익스트림 와이드": {
+    "en": "Extreme Wide",
+    "ja": "エクストリームワイド",
+    "zh-CN": "超广角"
+  },
+  "지나온 작업들.": {
+    "en": "Completed Tasks.",
+    "ja": "完了した作業。",
+    "zh-CN": "已完成的任务。"
+  },
+  "채도 변화 상한": {
+    "en": "Maximum saturation change",
+    "ja": "彩度の補正上限",
+    "zh-CN": "饱和度变化上限"
+  },
+  "최신 생성 영상": {
+    "en": "Latest Generated Video",
+    "ja": "最新の生成ビデオ",
+    "zh-CN": "最新生成的视频"
+  },
+  "켜져 있습니다.": {
+    "en": "It is On.",
+    "ja": "オンになっています。",
+    "zh-CN": "已开启。"
+  },
+  "폴더 순차 생성": {
+    "en": "Generate from folder",
+    "ja": "フォルダーから順次生成",
+    "zh-CN": "按文件夹顺序生成"
+  },
+  "프로젝트 만들기": {
+    "en": "Create Project",
+    "ja": "プロジェクトを作成",
+    "zh-CN": "创建项目"
+  },
+  "프로젝트에 저장": {
+    "en": "Save to Project",
+    "ja": "プロジェクトに保存",
+    "zh-CN": "保存到项目"
+  },
+  "한 장으로 편집": {
+    "en": "Combine into one image",
+    "ja": "1枚にまとめる",
+    "zh-CN": "合成为一张图"
+  },
+  "행위 라이브러리": {
+    "en": "Action library",
+    "ja": "動作ライブラリ",
+    "zh-CN": "动作库"
+  },
+  "행위 이름 포함": {
+    "en": "Include Action Name",
+    "ja": "アクション名を含む",
+    "zh-CN": "包含动作名称"
+  },
+  "화풍 / 스타일": {
+    "en": "Style / Art Style",
+    "ja": "スタイル／アートスタイル",
+    "zh-CN": "风格/艺术风格"
+  },
+  " · 고화질 마감": {
+    "en": " · High-Quality Finish",
+    "ja": " · ハイ品質仕上げ",
+    "zh-CN": " · 高质量完成"
+  },
+  " · 이음매 잠금": {
+    "en": " · Seam Lock",
+    "ja": " · シームロック",
+    "zh-CN": " · 接缝锁定"
+  },
+  " · 현재 미설치": {
+    "en": " · Currently Uninstalled",
+    "ja": " · 現在インストール済みなし",
+    "zh-CN": " · 当前未安装"
+  },
+  " 연결 확인 필요": {
+    "en": "Connection Check Required",
+    "ja": "接続確認が必要",
+    "zh-CN": "需要连接检查"
+  },
+  "1. 퀄리티 태그": {
+    "en": "1. Quality Tag",
+    "ja": "1. クオリティタグ",
+    "zh-CN": "1. 质量标签"
+  },
+  "KV 캐시 정밀도": {
+    "en": "KV Cache Precision",
+    "ja": "KV キャッシュ精度",
+    "zh-CN": "KV 缓存精度"
+  },
+  "LLM 고급 설정": {
+    "en": "LLM Advanced Settings",
+    "ja": "LLM 高度設定",
+    "zh-CN": "LLM 高级设置"
+  },
+  "Ollama 모델": {
+    "en": "Ollama Model",
+    "ja": "Ollama モデル",
+    "zh-CN": "Ollama 模型"
+  },
+  "Refine 스텝": {
+    "en": "Refine Steps",
+    "ja": "リファインステップ",
+    "zh-CN": "细化步骤"
+  },
+  "★ 마지막 프레임": {
+    "en": "★ Last Frame",
+    "ja": "★ 最後のフレーム",
+    "zh-CN": "★ 最后一帧"
+  },
+  "기록이 없습니다.": {
+    "en": "No records found.",
+    "ja": "記録がありません。",
+    "zh-CN": "暂无记录。"
+  },
+  "네거티브 프롬프트": {
+    "en": "Negative Prompt",
+    "ja": "ネガティブプロンプト",
+    "zh-CN": "负面提示词"
+  },
+  "느와르 / 스릴러": {
+    "en": "Noir / Thriller",
+    "ja": "ノワール / スリラー",
+    "zh-CN": "黑色电影 / 惊悚片"
+  },
+  "뒤쪽 (하는 쪽)": {
+    "en": "Back (Side Facing)",
+    "ja": "後ろ（下側）",
+    "zh-CN": "背面（侧面）"
+  },
+  "몸 방향 · 시선": {
+    "en": "Body orientation · gaze",
+    "ja": "身体の向き・視線",
+    "zh-CN": "身体朝向·视线"
+  },
+  "몸이 향하는 대상": {
+    "en": "Target of Body Orientation",
+    "ja": "向いている対象",
+    "zh-CN": "身体朝向的目标"
+  },
+  "새 프로젝트 이름": {
+    "en": "New Project Name",
+    "ja": "新しいプロジェクト名",
+    "zh-CN": "新项目名称"
+  },
+  "생성 중 미리보기": {
+    "en": "Generating Preview",
+    "ja": "生成中のプレビュー",
+    "zh-CN": "生成中预览"
+  },
+  "생성마다 새 시드": {
+    "en": "New Seed Per Generation",
+    "ja": "各生成で新しいシード",
+    "zh-CN": "每次生成都使用新种子"
+  },
+  "선택한 시트 생성": {
+    "en": "Generate selected sheets",
+    "ja": "選択したシートを生成",
+    "zh-CN": "生成所选参考图"
+  },
+  "시작 시점 (초)": {
+    "en": "Start Time (Seconds)",
+    "ja": "開始時点（秒）",
+    "zh-CN": "开始时间（秒）"
+  },
+  "아래 (누운 쪽)": {
+    "en": "Bottom (Lying Side)",
+    "ja": "下側（寝ている方）",
+    "zh-CN": "底部（躺卧侧）"
+  },
+  "앞쪽 (받는 쪽)": {
+    "en": "Front (Receiving Side)",
+    "ja": "前面（受信側）",
+    "zh-CN": "正面（受光侧）"
+  },
+  "앞쪽 (앉는 쪽)": {
+    "en": "Front (Sitting Side)",
+    "ja": "前面（座る側）",
+    "zh-CN": "正面（坐姿侧）"
+  },
+  "에셋 · 레퍼런스": {
+    "en": "Assets · References",
+    "ja": "アセット・リファレンス",
+    "zh-CN": "素材与参考"
+  },
+  "오디오 강도 배율": {
+    "en": "Audio Intensity Scale",
+    "ja": "オーディオ強度倍率",
+    "zh-CN": "音频强度比例"
+  },
+  "오디오도 이어받기": {
+    "en": "Carry Over Audio",
+    "ja": "オーディオも継受する",
+    "zh-CN": "同时继承音频"
+  },
+  "위치 지정 안 함": {
+    "en": "No Positioning",
+    "ja": "位置指定なし",
+    "zh-CN": "未定位"
+  },
+  "이 프롬프트 적용": {
+    "en": "Apply This Prompt",
+    "ja": "このプロンプトを適用",
+    "zh-CN": "应用此提示词"
+  },
+  "이동 길이 (초)": {
+    "en": "Move Duration (Seconds)",
+    "ja": "移動長さ（秒）",
+    "zh-CN": "移动时长（秒）"
+  },
+  "이미지 1의 인물": {
+    "en": "Character from Image 1",
+    "ja": "画像 1 のキャラクター",
+    "zh-CN": "图像 1 中的人物"
+  },
+  "이미지 2의 인물": {
+    "en": "Character from Image 2",
+    "ja": "画像 2 のキャラクター",
+    "zh-CN": "图像 2 中的人物"
+  },
+  "이미지 3의 인물": {
+    "en": "Character from Image 3",
+    "ja": "画像 3 のキャラクター",
+    "zh-CN": "图像 3 中的人物"
+  },
+  "이미지 4의 인물": {
+    "en": "Character from Image 4",
+    "ja": "画像 4 のキャラクター",
+    "zh-CN": "图像 4 中的人物"
+  },
+  "이미지 5의 인물": {
+    "en": "Character from Image 5",
+    "ja": "画像 5 のキャラクター",
+    "zh-CN": "图像 5 中的人物"
+  },
+  "이미지 6의 인물": {
+    "en": "Character from Image 6",
+    "ja": "画像 6 のキャラクター",
+    "zh-CN": "图像 6 中的人物"
+  },
+  "이미지 7의 인물": {
+    "en": "Character from Image 7",
+    "ja": "画像 7 のキャラクター",
+    "zh-CN": "图像 7 中的人物"
+  },
+  "이미지 8의 인물": {
+    "en": "Character from Image 8",
+    "ja": "画像 8 のキャラクター",
+    "zh-CN": "图像 8 中的人物"
+  },
+  "이미지 9의 인물": {
+    "en": "Character from Image 9",
+    "ja": "画像 9 のキャラクター",
+    "zh-CN": "图像 9 中的人物"
+  },
+  "이미지 체크포인트": {
+    "en": "Image checkpoint",
+    "ja": "画像チェックポイント",
+    "zh-CN": "图像检查点"
+  },
+  "이미지 폴더 경로": {
+    "en": "Image Folder Path",
+    "ja": "画像フォルダパス",
+    "zh-CN": "图像文件夹路径"
+  },
+  "익스트림 클로즈업": {
+    "en": "Extreme Close-up",
+    "ja": "極端クローズアップ",
+    "zh-CN": "特写镜头"
+  },
+  "자동으로 되돌리기": {
+    "en": "Auto-Reset",
+    "ja": "自動リセット",
+    "zh-CN": "自动重置"
+  },
+  "재시작 중입니다…": {
+    "en": "Restarting...",
+    "ja": "再起動中…",
+    "zh-CN": "正在重启…"
+  },
+  "전환 시각 (초)": {
+    "en": "Transition Time (sec)",
+    "ja": "遷移時間（秒）",
+    "zh-CN": "过渡时间（秒）"
+  },
+  "직접 쓰는 스타일": {
+    "en": "Handwritten Style",
+    "ja": "手書きスタイル",
+    "zh-CN": "手写风格"
+  },
+  "참조 길이 (초)": {
+    "en": "Reference duration (s)",
+    "ja": "参照時間（秒）",
+    "zh-CN": "参考时长（秒）"
+  },
+  "첫 클립으로 작성": {
+    "en": "Write as First Clip",
+    "ja": "最初のクリップとして作成",
+    "zh-CN": "作为第一个片段创建"
+  },
+  "측면 (사이드뷰)": {
+    "en": "Side (Side View)",
+    "ja": "サイドビュー（横顔）",
+    "zh-CN": "侧面（侧视图）"
+  },
+  "카메라 반대 방향": {
+    "en": "Opposite Camera Direction",
+    "ja": "カメラの逆方向",
+    "zh-CN": "相机反向"
+  },
+  "크게 흔들립니다.": {
+    "en": "Shakes heavily.",
+    "ja": "大きく揺れます。",
+    "zh-CN": "剧烈抖动。"
+  },
+  "터보 LoRA: ": {
+    "en": "Turbo LoRA: ",
+    "ja": "ターボ LoRA：",
+    "zh-CN": "Turbo LoRA："
+  },
+  "판타지 / 이세계": {
+    "en": "Fantasy / Isekai",
+    "ja": "ファンタジー／異世界",
+    "zh-CN": "奇幻 / 异世界"
+  },
+  "패스별 독립 적용": {
+    "en": "Independent per Pass",
+    "ja": "パス別独立適用",
+    "zh-CN": "按通道独立应用"
+  },
+  "현재 색 기준: ": {
+    "en": "Based on current color: ",
+    "ja": "現在の色基準：",
+    "zh-CN": "基于当前颜色："
+  },
+  "호러 / 서스펜스": {
+    "en": "Horror / Suspense",
+    "ja": "ホラー／サスペンス",
+    "zh-CN": "恐怖 / 悬疑"
+  },
+  "＋ LoRA 추가": {
+    "en": "+ Add LoRA",
+    "ja": "＋LoRA 追加",
+    "zh-CN": "+ 添加 LoRA"
+  },
+  " · 두 패스 공용": {
+    "en": "Shared by Two Passes",
+    "ja": "2 パス共有",
+    "zh-CN": "两个通道共享"
+  },
+  " 개수가 맞습니다.": {
+    "en": "Count matches.",
+    "ja": "個数が合っています。",
+    "zh-CN": "数量匹配。"
+  },
+  "1차 생성 LoRA": {
+    "en": "1st Generation LoRA",
+    "ja": "1 世代生成 LoRA",
+    "zh-CN": "第一代 LoRA"
+  },
+  "ComfyUI 모델": {
+    "en": "ComfyUI Model",
+    "ja": "ComfyUI モデル",
+    "zh-CN": "ComfyUI 模型"
+  },
+  "Qwen 모델 형식": {
+    "en": "Qwen Model Format",
+    "ja": "Qwen モデル形式",
+    "zh-CN": "Qwen 模型格式"
+  },
+  "Refine 샘플러": {
+    "en": "Refine Sampler",
+    "ja": "リファインサンプラー",
+    "zh-CN": "Refine 采样器"
+  },
+  "광고 / 제품 CF": {
+    "en": "Ad / Product CF",
+    "ja": "広告／製品 CM",
+    "zh-CN": "广告 / 产品宣传片"
+  },
+  "내용 · 추가 동작": {
+    "en": "Content · Additional Motion",
+    "ja": "内容・追加動作",
+    "zh-CN": "内容 · 附加动作"
+  },
+  "대사를 입력하세요.": {
+    "en": "Enter dialogue.",
+    "ja": "台詞を入力してください。",
+    "zh-CN": "输入对白。"
+  },
+  "배경 · 세부 모습": {
+    "en": "Background · Close-up",
+    "ja": "背景・クローズアップ",
+    "zh-CN": "背景 · 特写"
+  },
+  "배경 · 전체 모습": {
+    "en": "Background · Wide shot",
+    "ja": "背景・ワイドショット",
+    "zh-CN": "背景 · 全景"
+  },
+  "빠르게 움직입니다.": {
+    "en": "Moves quickly.",
+    "ja": "素早く移動します。",
+    "zh-CN": "快速移动。"
+  },
+  "상호 구강 (69)": {
+    "en": "Oral (69)",
+    "ja": "オーラル（69）",
+    "zh-CN": "口交（69）"
+  },
+  "수기 (남성 대상)": {
+    "en": "Manual (Male target)",
+    "ja": "手動（男性対象）",
+    "zh-CN": "手动（男性对象）"
+  },
+  "수기 (여성 대상)": {
+    "en": "Manual (Female target)",
+    "ja": "手動（女性対象）",
+    "zh-CN": "手动（女性对象）"
+  },
+  "얼굴 · 여러 구도": {
+    "en": "Face · multiple views",
+    "ja": "顔・複数アングル",
+    "zh-CN": "面部·多角度"
+  },
+  "업스케일 목표 MP": {
+    "en": "Upscale target MP",
+    "ja": "アップスケール目標 MP",
+    "zh-CN": " upscale 目标 MP"
+  },
+  "에셋 프로젝트 삭제": {
+    "en": "Delete asset project",
+    "ja": "アセットプロジェクトを削除",
+    "zh-CN": "删除资源项目"
+  },
+  "용도 · 식별 정보": {
+    "en": "Purpose · Identification info",
+    "ja": "用途・識別情報",
+    "zh-CN": "用途 · 识别信息"
+  },
+  "이름을 입력하세요.": {
+    "en": "Enter a name.",
+    "ja": "名前を入力してください。",
+    "zh-CN": "请输入名称。"
+  },
+  "저장된 프로젝트: ": {
+    "en": "Saved project: ",
+    "ja": "保存されたプロジェクト：",
+    "zh-CN": "已保存的项目："
+  },
+  "전부 같은 프롬프트": {
+    "en": "All same prompt",
+    "ja": "すべて同じプロンプト",
+    "zh-CN": "全部相同提示词"
+  },
+  "전신 · 여러 구도": {
+    "en": "Full body · multiple views",
+    "ja": "全身・複数アングル",
+    "zh-CN": "全身·多角度"
+  },
+  "천천히 움직입니다.": {
+    "en": "Moves slowly.",
+    "ja": "ゆっくり移動します。",
+    "zh-CN": "缓慢移动。"
+  },
+  "최종 레퍼런스 생성": {
+    "en": "Generate final reference",
+    "ja": "最終リファレンスを生成",
+    "zh-CN": "生成最终参考图"
+  },
+  "카메라 · 샷 전환": {
+    "en": "Camera · Shot transition",
+    "ja": "カメラ・ショット遷移",
+    "zh-CN": "相机 · 镜头切换"
+  },
+  "표정만 가져옵니다.": {
+    "en": "Extract expression only.",
+    "ja": "表情のみを取得します。",
+    "zh-CN": "仅提取表情。"
+  },
+  "프레임 · 오디오 ": {
+    "en": "Frame · Audio",
+    "ja": "フレーム・オーディオ",
+    "zh-CN": "帧 · 音频"
+  },
+  "행위를 선택하세요.": {
+    "en": "Select an action.",
+    "ja": "アクションを選択してください。",
+    "zh-CN": "选择一个动作。"
+  },
+  "현재 위치를 끝으로": {
+    "en": "To the current position",
+    "ja": "現在の位置まで",
+    "zh-CN": "到当前位置"
+  },
+  "(작성 모델과 동일)": {
+    "en": "(Same as writing model)",
+    "ja": "(執筆モデルと同じ)",
+    "zh-CN": "(与写作模型相同)"
+  },
+  "0 = 모델이 판단.": {
+    "en": "0 = Model decides.",
+    "ja": "0 = モデルが判断します。",
+    "zh-CN": "0 = 由模型决定。"
+  },
+  "Qwen 이미지 모델": {
+    "en": "Qwen Image Model",
+    "ja": "Qwen イメージモデル",
+    "zh-CN": "Qwen 图像模型"
+  },
+  "Refine 스케줄러": {
+    "en": "Refine Scheduler",
+    "ja": "リファインスケジューラー",
+    "zh-CN": "Refine 调度器"
+  },
+  "◉ POV 인물 참조": {
+    "en": "◉ POV Character Reference",
+    "ja": "◉ ポーヴキャラクター参照",
+    "zh-CN": "◉ POV 角色参考"
+  },
+  "가슴 위로 잡습니다.": {
+    "en": "Held above the chest.",
+    "ja": "胸の上で保持します。",
+    "zh-CN": "举在胸部上方。"
+  },
+  "가슴을 손과 입으로.": {
+    "en": "With hands and mouth at the chest.",
+    "ja": "手と口で胸に。",
+    "zh-CN": "用手和嘴靠近胸部。"
+  },
+  "고칠 부분만 적으세요": {
+    "en": "Specify only parts to fix.",
+    "ja": "修正する部分のみを指定してください。",
+    "zh-CN": "仅指定需要修复的部分。"
+  },
+  "노드 출력 캐시 삭제": {
+    "en": "Clear node output cache",
+    "ja": "ノード出力キャッシュを削除",
+    "zh-CN": "清除节点输出缓存"
+  },
+  "뒤쪽 (받쳐주는 쪽)": {
+    "en": "Back (Supporting Side)",
+    "ja": "後ろ（支える側）",
+    "zh-CN": "后方（支撑侧）"
+  },
+  "레퍼런스까지 불러오기": {
+    "en": "Load up to Reference",
+    "ja": "リファレンスまで読み込む",
+    "zh-CN": "加载至参考素材"
+  },
+  "렌더를 시작했습니다.": {
+    "en": "Render started.",
+    "ja": "レンダリングを開始しました。",
+    "zh-CN": "渲染已开始。"
+  },
+  "브리프 · 검사 결과": {
+    "en": "Brief · Inspection Result",
+    "ja": "ブリーフ・検査結果",
+    "zh-CN": "简报 · 检查结果"
+  },
+  "서로 동시에 손으로.": {
+    "en": "Hands simultaneously.",
+    "ja": "同時に手で。",
+    "zh-CN": "双手同时操作。"
+  },
+  "서서 마주 본 채로.": {
+    "en": "Standing face-to-face.",
+    "ja": "立ち向かいながら。",
+    "zh-CN": "站立面对面。"
+  },
+  "설정만 불러왔습니다.": {
+    "en": "Loaded only settings.",
+    "ja": "設定のみ読み込みました。",
+    "zh-CN": "仅加载了设置。"
+  },
+  "설치된 노드 팩 사용": {
+    "en": "Use installed node packs",
+    "ja": "インストールされたノードパックを使用する",
+    "zh-CN": "已安装的节点包"
+  },
+  "위에서 내려다봅니다.": {
+    "en": "View from above.",
+    "ja": "俯瞰ビュー",
+    "zh-CN": "俯视视角"
+  },
+  "이음새 2초 미리보기": {
+    "en": "Seam 2-second preview",
+    "ja": "継ぎ目 2 秒プレビュー",
+    "zh-CN": "接缝 2 秒预览"
+  },
+  "인물 뒤에서 봅니다.": {
+    "en": "View from behind the character.",
+    "ja": "キャラクターの背後から見る",
+    "zh-CN": "从角色背后观看"
+  },
+  "저장할 에셋 프로젝트": {
+    "en": "Asset project to save to",
+    "ja": "保存先のアセットプロジェクト",
+    "zh-CN": "保存到素材项目"
+  },
+  "저장할 프로젝트 선택": {
+    "en": "Select project to save",
+    "ja": "保存するプロジェクトを選択",
+    "zh-CN": "选择要保存的项目"
+  },
+  "정상위 (다리 올림)": {
+    "en": "Supine (legs up)",
+    "ja": "仰臥位（脚を上げる）",
+    "zh-CN": "仰卧（腿抬起）"
+  },
+  "정상위 (다리 펴고)": {
+    "en": "Supine (legs straight)",
+    "ja": "仰臥位（脚を伸ばす）",
+    "zh-CN": "仰卧（腿伸直）"
+  },
+  "제안된 프롬프트 보기": {
+    "en": "View suggested prompts",
+    "ja": "提案されたプロンプトを表示",
+    "zh-CN": "查看建议的提示词"
+  },
+  "캐릭터 (의상 제외)": {
+    "en": "Character (excluding outfit)",
+    "ja": "キャラクター（衣装を除く）",
+    "zh-CN": "角色（不含服装）"
+  },
+  "편집할 이미지 업로드": {
+    "en": "Upload image to edit",
+    "ja": "編集する画像をアップロード",
+    "zh-CN": "上传要编辑的图片"
+  },
+  "프로젝트 에셋에 저장": {
+    "en": "Save to project assets",
+    "ja": "プロジェクトのアセットに保存",
+    "zh-CN": "保存到项目素材"
+  },
+  "허리 위로 잡습니다.": {
+    "en": "Hold above the waist.",
+    "ja": "腰の上部で保持します。",
+    "zh-CN": "握住腰部以上"
+  },
+  "현재 위치를 시작으로": {
+    "en": "Starting from current position",
+    "ja": "現在の位置から開始",
+    "zh-CN": "从当前位置开始"
+  },
+  "화면 비율 · 해상도": {
+    "en": "Aspect ratio · Resolution",
+    "ja": "アスペクト比・解像度",
+    "zh-CN": "宽高比 · 分辨率"
+  },
+  "1 = 레퍼런스로 추가": {
+    "en": "Add as Reference",
+    "ja": "1 = レファレンスとして追加",
+    "zh-CN": "1 = 添加为参考"
+  },
+  "3 = 새 창에서 보기": {
+    "en": "Qwen Text Encoder",
+    "ja": "3 = 新しいウィンドウで表示",
+    "zh-CN": "3 = 在新窗口中查看"
+  },
+  "Qwen 텍스트 인코더": {
+    "en": "The composition will change significantly.",
+    "ja": "Qwen テキストエンコーダー",
+    "zh-CN": "Qwen 文本编码器"
+  },
+  "fisheye · 어안": {
+    "en": "Embrace tightly against the body.",
+    "ja": "fisheye · 魚眼",
+    "zh-CN": "fisheye · 鱼眼"
+  },
+  "◉ 어깨너머 인물 참조": {
+    "en": "Look up from below.",
+    "ja": "◉ 肩越しの人物参照",
+    "zh-CN": "◉ 侧身人物参考"
+  },
+  "구도가 크게 바뀝니다.": {
+    "en": "Not Applied · End in Low Quality",
+    "ja": "構図が大きく変わります。",
+    "zh-CN": "构图将发生大幅变化。"
+  },
+  "레퍼런스 제작에서 열기": {
+    "en": "Qwen",
+    "ja": "レファレンス作成から開く",
+    "zh-CN": "从参考制作中打开"
+  },
+  "몸을 붙여 끌어안는다.": {
+    "en": "Shot",
+    "ja": "体を密着させて抱きしめます。",
+    "zh-CN": "贴近身体拥抱。"
+  },
+  "받는 쪽의 뒤를 혀로.": {
+    "en": "1 = Add from Reference",
+    "ja": "相手の後ろを舌で。",
+    "zh-CN": "用舌头舔受方背部。"
+  },
+  "새 에셋 프로젝트 이름": {
+    "en": "fisheye · Wide-angle",
+    "ja": "新しいアセットプロジェクト名",
+    "zh-CN": "新资产项目名称"
+  },
+  "손가락으로 삽입 자극.": {
+    "en": "My Image_0.png",
+    "ja": "指での挿入刺激。",
+    "zh-CN": "用手指插入刺激。"
+  },
+  "아래에서 올려다봅니다.": {
+    "en": "Shirok Abidos.jpg",
+    "ja": "下から上を見ます。",
+    "zh-CN": "从下方仰视。"
+  },
+  "안 함 · 저화질로 끝": {
+    "en": "Ollama",
+    "ja": "なし・低画質で終了",
+    "zh-CN": "不启用 · 以低画质结束"
+  },
+  "에셋으로 저장했습니다.": {
+    "en": "LoRA",
+    "ja": "アセットとして保存しました。",
+    "zh-CN": "已保存为资产。"
+  },
+  "영상 제작에 바로 사용": {
+    "en": "Clip",
+    "ja": "動画制作にそのまま使用",
+    "zh-CN": "直接用于视频制作"
+  },
+  "이 대화를 삭제할까요?": {
+    "en": "Delete this conversation?",
+    "ja": "この対話を削除しますか？",
+    "zh-CN": "删除此对话？"
+  },
+  "이미지 정보 확인 중…": {
+    "en": "Checking image info...",
+    "ja": "画像情報の確認中…",
+    "zh-CN": "正在检查图像信息..."
+  },
+  "이어지는 동작 (기본)": {
+    "en": "Next Action (Default)",
+    "ja": "次のアクション（デフォルト）",
+    "zh-CN": "后续操作（默认）"
+  },
+  "인물 정면에서 봅니다.": {
+    "en": "Viewing the character from the front.",
+    "ja": "キャラクターを正面から見ています。",
+    "zh-CN": "人物视角：正面"
+  },
+  "전신 · 얼굴 · 배경": {
+    "en": "Full Body · Face · Background",
+    "ja": "全身・顔・背景",
+    "zh-CN": "全身 · 面部 · 背景"
+  },
+  "지금 올려둔 레퍼런스 ": {
+    "en": "Reference image uploaded now",
+    "ja": "今アップロードしたリファレンス ",
+    "zh-CN": "当前上传的参考图"
+  },
+  "진행 중 · 최근 결과": {
+    "en": "In Progress · Recent Results",
+    "ja": "進行中・最近の結果",
+    "zh-CN": "进行中 · 最近结果"
+  },
+  "프레임 왼쪽에 둡니다.": {
+    "en": "Place on the left of the frame.",
+    "ja": "フレームの左側に置きます。",
+    "zh-CN": "位置：帧左侧"
+  },
+  "프레임 위쪽에 둡니다.": {
+    "en": "Place on top of the frame.",
+    "ja": "フレームの上部に配置します。",
+    "zh-CN": "位置：帧顶部"
+  },
+  "프로젝트 첫 클립 기준": {
+    "en": "Based on the first clip in the project",
+    "ja": "プロジェクト最初のクリップを基準に",
+    "zh-CN": "基于项目中的第一个片段"
+  },
+  "프로젝트를 선택하세요.": {
+    "en": "Select a project.",
+    "ja": "プロジェクトを選択してください。",
+    "zh-CN": "选择一个项目。"
+  },
+  "2 = 라이브러리에 저장": {
+    "en": "2 = Save to Library",
+    "ja": "2 = ライブラリに保存",
+    "zh-CN": "2 = 保存到库"
+  },
+  "2. 한 장으로 정리하기": {
+    "en": "2. Organize into a single sheet",
+    "ja": "2. 1 枚で整理する",
+    "zh-CN": "2. 整理为单页"
+  },
+  "LLM과 대화하며 다듬기": {
+    "en": "Refine with LLM chat",
+    "ja": "LLMと相談して調整",
+    "zh-CN": "与LLM对话调整"
+  },
+  "low key · 로우키": {
+    "en": "low key · Low Key",
+    "ja": "low key · ローキー",
+    "zh-CN": "低调风格 · Low Key"
+  },
+  "관찰 시점 (사람 없음)": {
+    "en": "Viewpoint (No People)",
+    "ja": "観察視点（人物なし）",
+    "zh-CN": "观察视角（无人）"
+  },
+  "구도가 조금만 바뀝니다.": {
+    "en": "The composition will shift slightly.",
+    "ja": "構図が少し変わります。",
+    "zh-CN": "构图将稍作调整。"
+  },
+  "레퍼런스를 추가했습니다.": {
+    "en": "Reference added.",
+    "ja": "レファレンスを追加しました。",
+    "zh-CN": "参考图已添加。"
+  },
+  "레퍼런스에 추가했습니다.": {
+    "en": "Added to reference",
+    "ja": "レファレンスに追加しました",
+    "zh-CN": "已添加到参考"
+  },
+  "미디어 자르기 끝 (초)": {
+    "en": "Media cut end (seconds)",
+    "ja": "メディアカット終了（秒）",
+    "zh-CN": "媒体剪辑结束（秒）"
+  },
+  "받는 쪽의 성기를 혀로.": {
+    "en": "Oral stimulation of the receiving side's genitals.",
+    "ja": "受ける側の性器を舌で。",
+    "zh-CN": "用舌头刺激接收方的生殖器。"
+  },
+  "보정할 영역의 검출 모델": {
+    "en": "Detection model for the area to be retouched",
+    "ja": "修正対象領域の検出モデル",
+    "zh-CN": "待校正区域的检测模型"
+  },
+  "사용 구간으로 영상 저장": {
+    "en": "Save video as used segment",
+    "ja": "使用区間として動画を保存",
+    "zh-CN": "将视频保存为使用片段"
+  },
+  "손으로 문질러 자극한다.": {
+    "en": "Stimulate by rubbing with hand.",
+    "ja": "手でこすって刺激する。",
+    "zh-CN": "用手摩擦刺激。"
+  },
+  "손으로 성기를 자극한다.": {
+    "en": "Stimulate the genitals with hand.",
+    "ja": "手で性器を刺激する。",
+    "zh-CN": "用手刺激生殖器。"
+  },
+  "수정 요청을 입력하세요.": {
+    "en": "Enter modification request.",
+    "ja": "修正リクエストを入力してください。",
+    "zh-CN": "输入修改请求。"
+  },
+  "이 클립부터 다시 만들기": {
+    "en": "Recreate from this clip",
+    "ja": "このクリップから作り直す",
+    "zh-CN": "从此片段重新开始制作"
+  },
+  "이제 장면을 움직이세요.": {
+    "en": "Now move the scene.",
+    "ja": "今、シーンを動かしてください。",
+    "zh-CN": "现在移动场景。"
+  },
+  "장면의 재료를 모으세요.": {
+    "en": "Gather materials for the scene.",
+    "ja": "シーンの材料を集めてください。",
+    "zh-CN": "收集场景的材料。"
+  },
+  "저장된 대화가 없습니다.": {
+    "en": "No saved conversations.",
+    "ja": "保存された会話はありません。",
+    "zh-CN": "暂无保存的对话"
+  },
+  "직접 고정한 항목입니다.": {
+    "en": "Manually fixed item.",
+    "ja": "直接固定した項目です。",
+    "zh-CN": "手动固定的项目"
+  },
+  "포커스 이동 · 선택 시": {
+    "en": "On focus move · select",
+    "ja": "フォーカス移動・選択時",
+    "zh-CN": "焦点移动/选择时"
+  },
+  "프레임 가운데에 둡니다.": {
+    "en": "Center in frame.",
+    "ja": "フレームの中央に置きます。",
+    "zh-CN": "置于画面中央"
+  },
+  "프레임 아래쪽에 둡니다.": {
+    "en": "Bottom of frame.",
+    "ja": "フレームの下部に置きます。",
+    "zh-CN": "置于画面下方"
+  },
+  "프레임 오른쪽에 둡니다.": {
+    "en": "Right side of frame.",
+    "ja": "フレームの右側に置きます。",
+    "zh-CN": "置于画面右侧"
+  },
+  "프롬프트를 복사했습니다.": {
+    "en": "Prompt copied.",
+    "ja": "プロンプトをコピーしました。",
+    "zh-CN": "提示词已复制"
+  },
+  "프롬프트를 작성했습니다.": {
+    "en": "Prompt created.",
+    "ja": "プロンプトが作成されました。",
+    "zh-CN": "提示語を作成しました。"
+  },
+  "휴지통이 비어 있습니다.": {
+    "en": "Trash is empty.",
+    "ja": "ゴミ箱が空です。",
+    "zh-CN": "回收站已清空。"
+  },
+  " · 학습이 약할 수 있음": {
+    "en": " · Training may be weak",
+    "ja": " · トレーニングが弱い可能性があります",
+    "zh-CN": " · 训练可能较弱"
+  },
+  "1. 레퍼런스 재료 만들기": {
+    "en": "1. Create reference material",
+    "ja": "1. リファレンス素材を作成",
+    "zh-CN": "1. 创建参考素材"
+  },
+  "2차 refine LoRA": {
+    "en": "2nd refine LoRA",
+    "ja": "2 回目のリファイン LoRA",
+    "zh-CN": "二次细化 LoRA"
+  },
+  "Kill Switch 옵션": {
+    "en": "Kill Switch option",
+    "ja": "Kill スイッチオプション",
+    "zh-CN": "Kill Switch 选项"
+  },
+  "RTX 업스케일 · 리파인": {
+    "en": "RTX upscale · refine",
+    "ja": "RTX アップスケール・リファイン",
+    "zh-CN": "RTX 超分辨率·细化"
+  },
+  "high key · 하이키": {
+    "en": "high key · highkey",
+    "ja": "ハイキー・ハイキー",
+    "zh-CN": "高调·高调"
+  },
+  "가슴 사이에 끼워 상하로.": {
+    "en": "Slip between chest vertically.",
+    "ja": "胸の間に縦に挟む。",
+    "zh-CN": "垂直夹于胸部之间。"
+  },
+  "검게 사라졌다 나타납니다.": {
+    "en": "Disappears and reappears in black.",
+    "ja": "黒く消え、現れる。",
+    "zh-CN": "在黑色中消失并重现。"
+  },
+  "그 버전으로 되돌렸습니다.": {
+    "en": "Reverted to that version.",
+    "ja": "そのバージョンに戻しました。",
+    "zh-CN": "已还原至该版本。"
+  },
+  "다음 장면으로 이어가세요.": {
+    "en": "Proceed to the next scene.",
+    "ja": "次のシーンに進みます。",
+    "zh-CN": "进入下一场景。"
+  },
+  "두 번째 시트도 함께 생성": {
+    "en": "Generate second sheet as well",
+    "ja": "2 つ目のシートも一緒に作成",
+    "zh-CN": "同时生成第二张图层"
+  },
+  "뒤쪽 비스듬한 각도입니다.": {
+    "en": "Backward slanted angle.",
+    "ja": "後ろに傾いた角度です。",
+    "zh-CN": "向后倾斜的角度。"
+  },
+  "마감 기록이 없는 클립: ": {
+    "en": "Clip with no finish log: ",
+    "ja": "フィニッシュログのないクリップ：",
+    "zh-CN": "无完成日志的片段："
+  },
+  "모든 작업 전에 자동 실행": {
+    "en": "Auto-run before all tasks",
+    "ja": "すべての作業前に自動実行",
+    "zh-CN": "在所有任务前自动运行"
+  },
+  "몸 전체를 손으로 훑는다.": {
+    "en": "Stroke the whole body with hands.",
+    "ja": "手で全身を撫でる。",
+    "zh-CN": "用手抚摸全身。"
+  },
+  "미디어 자르기 시작 (초)": {
+    "en": "Media cut start (sec)",
+    "ja": "メディアカット開始（秒）",
+    "zh-CN": "媒体裁剪开始（秒）"
+  },
+  "받는 쪽의 성기를 입으로.": {
+    "en": "Oral on the recipient's genitals.",
+    "ja": "オーラルで相手の性器を",
+    "zh-CN": "对接收方生殖器进行口交。"
+  },
+  "새 레퍼런스 프로젝트 이름": {
+    "en": "New Reference Project Name",
+    "ja": "新しいリファレンスプロジェクト名",
+    "zh-CN": "新建参考项目名称"
+  },
+  "생각을 장면으로 옮기세요.": {
+    "en": "Turn thoughts into shots.",
+    "ja": "思考をショットに変換",
+    "zh-CN": "将想法转化为镜头。"
+  },
+  "생성을 큐에 추가했습니다.": {
+    "en": "Added to generation queue.",
+    "ja": "キューに追加しました",
+    "zh-CN": "已添加到生成队列。"
+  },
+  "서로 반대로 누워 동시에.": {
+    "en": "Lie opposite each other simultaneously.",
+    "ja": "同時に反対側で寝る",
+    "zh-CN": "同时以相反姿势躺下。"
+  },
+  "선택한 클립 전체 이어보기": {
+    "en": "Preview Entire Selected Clip",
+    "ja": "選択したクリップ全体をプレビュー",
+    "zh-CN": "预览所选整个视频片段。"
+  },
+  "아직 프로젝트가 없습니다.": {
+    "en": "No projects yet.",
+    "ja": "まだプロジェクトがありません",
+    "zh-CN": "暂无项目。"
+  },
+  "얼굴 정체성 / 작화 참조": {
+    "en": "Face Identity / Art Reference",
+    "ja": "顔のアイデンティティ／作画リファレンス",
+    "zh-CN": "面部身份/美术参考。"
+  },
+  "연결 완료 · 작업 준비됨": {
+    "en": "Connected · Ready to Work",
+    "ja": "接続完了・作業準備完了",
+    "zh-CN": "连接完成 · 工作就绪。"
+  },
+  "영상 파일로 보관했습니다.": {
+    "en": "Saved as video file.",
+    "ja": "ビデオファイルとして保存しました",
+    "zh-CN": "已保存为视频文件。"
+  },
+  "이동 시작 (샷 내부 초)": {
+    "en": "Start Move (Shot Internal Seconds)",
+    "ja": "移動開始（ショット内の秒数）",
+    "zh-CN": "开始移动（镜头内秒数）。"
+  },
+  "직접 입력 (Manual)": {
+    "en": "Direct Input (Manual)",
+    "ja": "直接入力（マニュアル）",
+    "zh-CN": "直接输入（手动）。"
+  },
+  "직접 입력 · 목록에 없음": {
+    "en": "Direct Input · Not in List",
+    "ja": "直接入力・リストに存在しない",
+    "zh-CN": "直接输入 · 列表中不存在。"
+  },
+  "캐릭터 전체 (의상 포함)": {
+    "en": "Full Character (Including Outfit)",
+    "ja": "キャラクター全体（衣装含む）",
+    "zh-CN": "完整角色（含服装）。"
+  },
+  "키 라이트의 방향과 성질.": {
+    "en": "Direction and Nature of Key Light.",
+    "ja": "キーライトの方向と性質",
+    "zh-CN": "主光的方向与性质。"
+  },
+  "화면을 쓸어내며 바뀝니다.": {
+    "en": "Changes as you swipe the screen.",
+    "ja": "画面をスワイプすると変化します",
+    "zh-CN": "滑动屏幕时发生变化。"
+  },
+  " · 저화질 (나중에 마감)": {
+    "en": " · Low Quality (Finalize Later)",
+    "ja": " ・低画質（後で確定）",
+    "zh-CN": " · 低画质（稍后定稿）。"
+  },
+  "DCW · Anima만 적용": {
+    "en": "DCW · Anima Only Applied",
+    "ja": "DCW · Anima だけ適用",
+    "zh-CN": "仅应用 DCW · Anima。"
+  },
+  "Normal · 클립 하나만": {
+    "en": "Normal · Single Clip",
+    "ja": "Normal · クリップ 1 つのみ",
+    "zh-CN": "Normal · 单个剪辑"
+  },
+  "Qwen 모델 · 편집 설정": {
+    "en": "Qwen Model · Edit Settings",
+    "ja": "Qwen モデル · 編集設定",
+    "zh-CN": "Qwen 模型 · 编辑设置"
+  },
+  "Qwen 편집에 적용합니다.": {
+    "en": "Apply to Qwen Editing.",
+    "ja": "Qwen 編集に適用します。",
+    "zh-CN": "应用于 Qwen 编辑。"
+  },
+  "auto — 브리프에서 판단": {
+    "en": "auto — Determine from Brief",
+    "ja": "auto — ブリーフから判断",
+    "zh-CN": "auto — 根据简报判断"
+  },
+  "shallow · 얕은 심도": {
+    "en": "shallow · Shallow Depth",
+    "ja": "shallow · 浅い深度",
+    "zh-CN": "shallow · 浅景深"
+  },
+  "같은 순간 — 카메라만 바뀜": {
+    "en": "Same Moment — Camera Only Changes",
+    "ja": "同じ瞬間 — カメラのみ変更",
+    "zh-CN": "同一时刻 — 仅改变相机"
+  },
+  "고화질 마감을 시작했습니다.": {
+    "en": "Started High-Quality Finalization.",
+    "ja": "高画質マージンを開始しました。",
+    "zh-CN": "已开始高清收尾。"
+  },
+  "그림체와 색감만 가져옵니다.": {
+    "en": "Retain Only Style and Color Tone.",
+    "ja": "スタイルと色調のみ引き継ぎます。",
+    "zh-CN": "仅保留风格和色调。"
+  },
+  "랜덤 — 행위 참가자 중에서": {
+    "en": "Random — Among Event Participants",
+    "ja": "ランダム — イベント参加者の中から",
+    "zh-CN": "随机 — 从活动参与者中"
+  },
+  "모델 · 비우면 템플릿 사용": {
+    "en": "Model · Use Template if Cleared",
+    "ja": "モデル · クリアするとテンプレート使用",
+    "zh-CN": "模型 · 清空后使用模板"
+  },
+  "목록에서 확인되지 않은 이름": {
+    "en": "Name Not Found in List",
+    "ja": "リストで確認されていない名前",
+    "zh-CN": "列表中未找到的名称"
+  },
+  "미리보기 초 · 비우면 전체": {
+    "en": "Preview First — Clear for All",
+    "ja": "プレビュー初 · クリアすると全体",
+    "zh-CN": "预览首项 — 清空则全部"
+  },
+  "색 기준으로 지정했습니다: ": {
+    "en": "Designated by Color: ",
+    "ja": "色基準で指定しました：",
+    "zh-CN": "按颜色指定："
+  },
+  "서로 몸을 밀착해 문지른다.": {
+    "en": "They press their bodies together and rub.",
+    "ja": "互いに体を密着させてこすります。",
+    "zh-CN": "他们紧贴身体相互摩擦。"
+  },
+  "선택한 이미지를 Qwen으로": {
+    "en": "Send Selected Image to Qwen",
+    "ja": "選択した画像を Qwen に",
+    "zh-CN": "将选定图像发送至 Qwen"
+  },
+  "에셋 프로젝트를 선택하세요.": {
+    "en": "Select an Asset Project.",
+    "ja": "エセットプロジェクトを選択してください。",
+    "zh-CN": "选择一个资产项目。"
+  },
+  "움직이는 인물을 따라갑니다.": {
+    "en": "Follow the Moving Character.",
+    "ja": "動く人物を追跡します。",
+    "zh-CN": "跟随移动的人物。"
+  },
+  "이음매 잠금 · 제작자 방식": {
+    "en": "Seam Lock · Creator Method",
+    "ja": "継ぎ目ロック · メーカー方式",
+    "zh-CN": "接缝锁定 · 创作者模式"
+  },
+  "입을 맞춘다. 둘 다 능동.": {
+    "en": "Align the mouths. Both active.",
+    "ja": "口を合わせる。どちらもアクティブ。",
+    "zh-CN": "对齐嘴巴。两者均处于活动状态。"
+  },
+  "장면의 시작, 레퍼런스부터.": {
+    "en": "Start the scene from the reference.",
+    "ja": "シーンの開始は、レファレンスから。",
+    "zh-CN": "从参考开始场景"
+  },
+  "첫 입력 이미지 크기 따르기": {
+    "en": "Match first input image size",
+    "ja": "最初の入力画像のサイズに従う",
+    "zh-CN": "匹配首张输入图像尺寸"
+  },
+  "카메라에서 먼 쪽에 둡니다.": {
+    "en": "Place it far from the camera.",
+    "ja": "カメラから遠い側に置きます。",
+    "zh-CN": "放置在远离相机处"
+  },
+  "클립을 이어 하나의 영상으로": {
+    "en": "Join clips into a single video",
+    "ja": "クリップを繋げて一つの映像に",
+    "zh-CN": "连接剪辑为单个视频"
+  },
+  "프로젝트 이름을 입력하세요.": {
+    "en": "Enter project name",
+    "ja": "プロジェクト名を入力してください。",
+    "zh-CN": "输入项目名称"
+  },
+  "한쪽이 상대의 목과 쇄골에.": {
+    "en": "One side against the other's neck and collarbone.",
+    "ja": "一方が相手の首と鎖骨に。",
+    "zh-CN": "一侧紧贴另一方的颈部和锁骨"
+  },
+  "허벅지 사이에 끼워 앞뒤로.": {
+    "en": "Tuck between thighs, front to back.",
+    "ja": "ももの間に挟み、前後に動かします。",
+    "zh-CN": "夹在两腿之间，从前到后"
+  },
+  "2차 업스케일 + refine": {
+    "en": "Upscale + second-pass refinement",
+    "ja": "アップスケール＋2次リファイン",
+    "zh-CN": "超分辨率＋二次精修"
+  },
+  "moderate · 중간 심도": {
+    "en": "moderate · medium depth of field",
+    "ja": "moderate · 中間深度",
+    "zh-CN": "moderate · 中等景深"
+  },
+  "top light · 톱라이트": {
+    "en": "top light · overhead lighting",
+    "ja": "top light・上からの照明",
+    "zh-CN": "top light·顶光"
+  },
+  "underlit · 언더라이트": {
+    "en": "underlit · lighting from below",
+    "ja": "underlit・下からの照明",
+    "zh-CN": "underlit·底光"
+  },
+  "개 이미지 · 파일명 순서\\n": {
+    "en": "By image · filename order\\n",
+    "ja": "個イメージ · ファイル名の順序\\n",
+    "zh-CN": "按图像·文件名顺序\\n"
+  },
+  "공간 전체를 먼저 보여줍니다.": {
+    "en": "Show the entire space first.",
+    "ja": "まず空間全体を表示します。",
+    "zh-CN": "先展示整个空间"
+  },
+  "그 외 모드 · Upscale": {
+    "en": "Other modes · Upscale",
+    "ja": "その他モード · アップスケール",
+    "zh-CN": "其他模式 · 超分辨率"
+  },
+  "기존 공용 보관함에서 가져오기": {
+    "en": "Import from existing shared library",
+    "ja": "既存の共有保管庫から取得",
+    "zh-CN": "从现有共享库导入"
+  },
+  "두 번째 참여자가 움직입니다.": {
+    "en": "Second participant moves.",
+    "ja": "2 番目の参加者が移動します。",
+    "zh-CN": "第二位参与者移动"
+  },
+  "둘 다 능동적으로 움직입니다.": {
+    "en": "Both move actively.",
+    "ja": "どちらも能動的に移動します。",
+    "zh-CN": "双方均主动移动"
+  },
+  "모델 · 해상도 · 고급 설정": {
+    "en": "Model · Resolution · Advanced Settings",
+    "ja": "モデル・解像度・詳細設定",
+    "zh-CN": "模型 · 分辨率 · 高级设置"
+  },
+  "새 장면 — 장소/시간이 바뀜": {
+    "en": "New Scene — Change of Location/Time",
+    "ja": "新しいシーン — 場所や時間の切り替え",
+    "zh-CN": "新场景 — 地点/时间切换"
+  },
+  "속도를 따로 말하지 않습니다.": {
+    "en": "Speed is not specified separately.",
+    "ja": "速度は別途指定しません。",
+    "zh-CN": "速度未单独指定。"
+  },
+  "아직 생성한 결과가 없습니다.": {
+    "en": "No generated results yet.",
+    "ja": "まだ生成された結果がありません。",
+    "zh-CN": "尚未生成结果。"
+  },
+  "아직 완료된 영상이 없습니다.": {
+    "en": "No completed videos yet.",
+    "ja": "まだ完了した動画がありません。",
+    "zh-CN": "尚无完成视频。"
+  },
+  "에셋을 휴지통으로 옮겼습니다.": {
+    "en": "Moved asset to trash.",
+    "ja": "アセットをゴミ箱に移動しました。",
+    "zh-CN": "已将资源移至回收站。"
+  },
+  "이 샷들을 다음 클립으로 추가": {
+    "en": "Add these shots as the next clip",
+    "ja": "これらのショットを次のクリップとして追加",
+    "zh-CN": "将这些镜头添加为下一个片段"
+  },
+  "이 프레임으로 무엇을 할까요?": {
+    "en": "What to do with this frame?",
+    "ja": "このフレームで何をしますか？",
+    "zh-CN": "对这个帧做什么？"
+  },
+  "이 후보에서 새 버전 이어가기": {
+    "en": "Continue as a new version from this candidate",
+    "ja": "この候補から新しいバージョンとして続行",
+    "zh-CN": "从此候选项继续为新版本"
+  },
+  "이미지를 불러올 수 없습니다.": {
+    "en": "Failed to load image.",
+    "ja": "画像を読み込めませんでした。",
+    "zh-CN": "加载图像失败。"
+  },
+  "일상 (슬라이스 오브 라이프)": {
+    "en": "Everyday (Slice of Life)",
+    "ja": "日常（生活切片）",
+    "zh-CN": "日常（生活片段）"
+  },
+  "첫 번째 참여자가 움직입니다.": {
+    "en": "The first participant is moving.",
+    "ja": "最初の参加者が動いています。",
+    "zh-CN": "第一位参与者正在移动。"
+  },
+  "추가 재생성 패스가 실행됩니다": {
+    "en": "Additional regeneration pass is running",
+    "ja": "追加の再生成パスが実行されています",
+    "zh-CN": "额外重生成通道正在运行"
+  },
+  "카메라에 가까운 쪽에 둡니다.": {
+    "en": "Place it closer to the camera.",
+    "ja": "カメラに近い方に置きます。",
+    "zh-CN": "将其放置在靠近摄像头的区域。"
+  },
+  "클립을 휴지통으로 옮겼습니다.": {
+    "en": "Moved clip to trash.",
+    "ja": "クリップをゴミ箱に移動しました。",
+    "zh-CN": "已将片段移至回收站。"
+  },
+  "한 인물만 프레임에 있습니다.": {
+    "en": "Only one person is in the frame.",
+    "ja": "フレームには一人しかいません。",
+    "zh-CN": "画面中仅有一人。"
+  },
+  "후보를 휴지통으로 옮겼습니다.": {
+    "en": "Moved candidate to trash.",
+    "ja": "候補をゴミ箱に移動しました。",
+    "zh-CN": "已将候选项移至回收站。"
+  },
+  "3. 완성본을 프로젝트 에셋으로": {
+    "en": "3. Export as Project Asset",
+    "ja": "プロジェクトアセットとしてエクスポート",
+    "zh-CN": "3. 导出为项目资产"
+  },
+  "MiniMax H3 전용 작업실": {
+    "en": "MiniMax H3 Exclusive Workspace",
+    "ja": "MiniMax H3 専用ワークスペース",
+    "zh-CN": "MiniMax H3 专用工作区"
+  },
+  "hard side · 강한 측광": {
+    "en": "Hard Side · Strong Lighting",
+    "ja": "ハードサイド・強い照明",
+    "zh-CN": "硬光侧 · 强光照"
+  },
+  "long · 망원 (85mm+)": {
+    "en": "Long · Telephoto (85mm+)",
+    "ja": "ロング・望遠（85mm+）",
+    "zh-CN": "长焦 · 望远（85mm+）"
+  },
+  "샷 사이즈를 지정하지 않습니다.": {
+    "en": "Shot size is not specified.",
+    "ja": "ショットサイズが指定されていません。",
+    "zh-CN": "未指定镜头尺寸。"
+  },
+  "서로의 성기를 맞대고 문지른다.": {
+    "en": "Rubbing genitals together.",
+    "ja": "性器をこすり合わせる動作。",
+    "zh-CN": "相互摩擦生殖器。"
+  },
+  "선택 구간을 연결하고 있습니다…": {
+    "en": "Connecting selected segments...",
+    "ja": "選択区間を接続しています…",
+    "zh-CN": "正在连接选定片段…"
+  },
+  "설정과 레퍼런스를 불러왔습니다.": {
+    "en": "Loaded settings and references.",
+    "ja": "設定とリファレンスをロードしました。",
+    "zh-CN": "已加载设置和参考素材。"
+  },
+  "순차 생성 중지를 요청했습니다.": {
+    "en": "Sequential generation paused.",
+    "ja": "順次生成を一時停止しました。",
+    "zh-CN": "顺序生成已暂停。"
+  },
+  "승인된 클립 전부 고화질로 마감": {
+    "en": "All approved clips finalized in HD",
+    "ja": "承認されたクリップすべてを HD で仕上げ",
+    "zh-CN": "所有已批准片段均以高清完成"
+  },
+  "아직 선택한 이미지가 없습니다.": {
+    "en": "No images selected yet.",
+    "ja": "まだ選択した画像がありません。",
+    "zh-CN": "尚未选择图像。"
+  },
+  "입력 해상도 기준 · 0은 원본": {
+    "en": "Based on input resolution · 0 = Original",
+    "ja": "入力解像度基準・0 はオリジナル",
+    "zh-CN": "基于输入分辨率 · 0 为原图"
+  },
+  "즉시 전환됩니다. 기본값입니다.": {
+    "en": "Switching immediately. This is the default.",
+    "ja": "即座に切り替わります。デフォルト値です。",
+    "zh-CN": "立即切换。此为默认值。"
+  },
+  "카메라 몸체가 뒤로 물러납니다.": {
+    "en": "Camera body retracts backward.",
+    "ja": "カメラボディが後方に引き込まれます。",
+    "zh-CN": "相机机身向后收缩。"
+  },
+  "카메라 전체가 위로 올라갑니다.": {
+    "en": "Entire camera moves upward.",
+    "ja": "カメラ全体が上方へ移動します。",
+    "zh-CN": "整个相机向上移动。"
+  },
+  "클릭하면 쓰는 방법을 고릅니다.": {
+    "en": "Click to choose usage method.",
+    "ja": "クリックして使用方法を選択",
+    "zh-CN": "点击选择使用方法"
+  },
+  "파일을 놓거나 클릭해서 가져오기": {
+    "en": "Drop or click to import file",
+    "ja": "ファイルをドロップまたはクリックしてインポート",
+    "zh-CN": "拖拽或点击以导入文件"
+  },
+  "폴더 순차 생성을 시작했습니다.": {
+    "en": "Started sequential folder generation.",
+    "ja": "フォルダ順次生成を開始しました。",
+    "zh-CN": "已开始顺序文件夹生成。"
+  },
+  "프로젝트를 만들거나 선택하세요.": {
+    "en": "Create or select a project.",
+    "ja": "プロジェクトを作成するか選択してください。",
+    "zh-CN": "创建或选择项目"
+  },
+  "함 · 업스케일 + refine": {
+    "en": "Upscale + Refine",
+    "ja": "アップスケール＋リファイン",
+    "zh-CN": "超分辨率 + 细化"
+  },
+  "환경음·동작음 요약을 넣습니다.": {
+    "en": "Add ambient and motion sound summary.",
+    "ja": "環境音・動作音のサマリーを追加します。",
+    "zh-CN": "添加环境音与动作音摘要"
+  },
+  "deep focus · 전심 초점": {
+    "en": "Deep Focus",
+    "ja": "ディープフォーカス",
+    "zh-CN": "deep focus · 深景深"
+  },
+  "golden hour · 골든아워": {
+    "en": "Golden Hour",
+    "ja": "ゴールデンアワー",
+    "zh-CN": "golden hour · 黄金时刻"
+  },
+  "normal · 표준 (50mm)": {
+    "en": "Normal (50mm)",
+    "ja": "ノーマル（50mm）",
+    "zh-CN": "normal · 标准 (50mm)"
+  },
+  "관객만 듣는 배경음악을 넣습니다.": {
+    "en": "Add background music for the audience only.",
+    "ja": "観客のみが聴く BGM を追加します。",
+    "zh-CN": "添加仅观众听到的背景音乐"
+  },
+  "먼저 에셋 프로젝트를 선택하세요.": {
+    "en": "Select an asset project first.",
+    "ja": "まずエセットプロジェクトを選択してください。",
+    "zh-CN": "首先选择资产项目。"
+  },
+  "물건을 이 이미지에서 가져옵니다.": {
+    "en": "Extract objects from this image.",
+    "ja": "この画像からオブジェクトを抽出します。",
+    "zh-CN": "从此图像中提取物体。"
+  },
+  "보관 영상을 휴지통으로 옮길까요?": {
+    "en": "Move the selected video to trash?",
+    "ja": "選択した動画をゴミ箱に移動しますか？",
+    "zh-CN": "将选中的视频移至回收站？"
+  },
+  "소품이나 디테일만 따로 잡습니다.": {
+    "en": "Select props or details only.",
+    "ja": "小物やディテールのみを選択します。",
+    "zh-CN": "单独选中道具或细节。"
+  },
+  "수평선이 기울어진 채 유지됩니다.": {
+    "en": "Keep the horizon tilted.",
+    "ja": "傾いたままの水平線を維持します。",
+    "zh-CN": "保持地平线倾斜。"
+  },
+  "시트를 처음 그릴 때 적용합니다.": {
+    "en": "Apply when starting a new sketch sheet.",
+    "ja": "シートを最初から描く際に適用します。",
+    "zh-CN": "在新草图页面开始时应用。"
+  },
+  "앉아서 마주 보고 끌어안은 채로.": {
+    "en": "Sit facing each other and embrace.",
+    "ja": "座って向かい合い、抱き合います。",
+    "zh-CN": "坐着面对面拥抱。"
+  },
+  "업스케일 없이 저화질로 끝냅니다.": {
+    "en": "End with low resolution without upscaling.",
+    "ja": "アップスケールなしで低解像度で終了します。",
+    "zh-CN": "不进行超分辨率处理，以低分辨率结束。"
+  },
+  "인물 주위를 호를 그리며 돕니다.": {
+    "en": "Circle around the character and assist.",
+    "ja": "キャラクターの周りを回りながらサポートします。",
+    "zh-CN": "围绕角色环绕并辅助。"
+  },
+  "일반 SD / SDXL 체크포인트": {
+    "en": "General SD / SDXL Checkpoint",
+    "ja": "一般 SD / SDXL チェックポイント",
+    "zh-CN": "通用 SD / SDXL Checkpoint"
+  },
+  "제자리에서 렌즈를 위로 젖힙니다.": {
+    "en": "Tilt lens upward from the current position.",
+    "ja": "現在の位置からレンズを上方向に傾けます。",
+    "zh-CN": "从当前位置向上倾斜镜头。"
+  },
+  "카메라 높이를 지정하지 않습니다.": {
+    "en": "Camera height is unspecified.",
+    "ja": "カメラの高さが指定されていません。",
+    "zh-CN": "相机高度未指定。"
+  },
+  "카메라 몸체가 앞으로 다가갑니다.": {
+    "en": "The camera body moves forward.",
+    "ja": "カメラ本体が前に進みます。",
+    "zh-CN": "摄像机主体向前移动。"
+  },
+  "카메라 전체가 아래로 내려갑니다.": {
+    "en": "The entire camera moves downward.",
+    "ja": "カメラ全体が下に移動します。",
+    "zh-CN": "整个摄像机向下移动。"
+  },
+  "카메라가 전혀 움직이지 않습니다.": {
+    "en": "The camera does not move at all.",
+    "ja": "カメラは一切動きません。",
+    "zh-CN": "摄像机完全静止。"
+  },
+  "캐릭터나 공통 묘사를 입력하세요.": {
+    "en": "Enter character or common description.",
+    "ja": "キャラクターまたは共通描写を入力してください。",
+    "zh-CN": "输入角色或通用描述。"
+  },
+  "클립마다 따로 · --- 로 구분": {
+    "en": "Separate clips with · --- for each clip.",
+    "ja": "各クリップごとに · --- で区切る",
+    "zh-CN": "每个 clip 用 · --- 分隔。"
+  },
+  "프로젝트를 휴지통으로 옮겼습니다.": {
+    "en": "Moved project to trash.",
+    "ja": "プロジェクトをゴミ箱に移動しました。",
+    "zh-CN": "项目已移至回收站。"
+  },
+  "4 = 색 보정 후 레퍼런스로 추가": {
+    "en": "4 = Add as reference after color correction.",
+    "ja": "4 = カラー補正後にリファレンスとして追加",
+    "zh-CN": "4 = 色彩校正后作为参考添加。"
+  },
+  "overcast · 흐린 날 확산광": {
+    "en": "overcast · Diffused light on cloudy days",
+    "ja": "overcast · 曇り日の拡散光",
+    "zh-CN": "overcast · 阴天漫射光。"
+  },
+  "rack focus · 포커스 이동": {
+    "en": "rack focus · Focus shift",
+    "ja": "rack focus · フォーカス移動",
+    "zh-CN": "rack focus · 焦点转移。"
+  },
+  "soft side · 부드러운 측광": {
+    "en": "soft side · Soft side lighting",
+    "ja": "soft side · ソフトサイド照明",
+    "zh-CN": "soft side · 柔和侧光。"
+  },
+  "wide · 광각 (18–35mm)": {
+    "en": "wide · Wide-angle (18–35mm)",
+    "ja": "wide · ワイド角（18–35mm）",
+    "zh-CN": "wide · 广角（18–35mm）。"
+  },
+  "검출 영역 보정 · Detailer": {
+    "en": "Detection area correction · Detailer",
+    "ja": "検出領域補正 · Detailer",
+    "zh-CN": "检测区域校正 · Detailer。"
+  },
+  "규격 자동 수리 패스를 실행합니다.": {
+    "en": "Run automatic standard repair pass.",
+    "ja": "規格自動修復パスを実行します。",
+    "zh-CN": "运行自动标准修复流程。"
+  },
+  "다리 사이·아래에 끼운 채 앞뒤로.": {
+    "en": "Between/under legs, front and back.",
+    "ja": "足の間・下に挟んで前後に",
+    "zh-CN": "双腿之间或下方，前后方向。"
+  },
+  "둘 다 옆으로 누워 마주 본 채로.": {
+    "en": "Both lying on their sides facing each other.",
+    "ja": "両方とも横になり互いに向き合っています。",
+    "zh-CN": "两者均侧卧相对。"
+  },
+  "레퍼런스 제작 설정을 저장했습니다.": {
+    "en": "Saved reference production settings.",
+    "ja": "レファレンス制作設定を保存しました。",
+    "zh-CN": "已保存参考制作设置。"
+  },
+  "렌즈가 인물의 눈 높이에 있습니다.": {
+    "en": "Lens is at the subject's eye level.",
+    "ja": "レンズが被写体の目の高さにあります。",
+    "zh-CN": "镜头位于主体眼高位置。"
+  },
+  "무릎 위로 전신에 가깝게 잡습니다.": {
+    "en": "Hold the camera close to full body, just above the knees.",
+    "ja": "膝の上で全身に近い位置で保持します。",
+    "zh-CN": "在膝盖上方近距离拍摄全身。"
+  },
+  "바로 위에서 수직으로 내려다봅니다.": {
+    "en": "Look straight down from directly above.",
+    "ja": "真上から垂直に俯瞰します。",
+    "zh-CN": "从正上方垂直俯视。"
+  },
+  "보관 영상 · 이어받기 데이터 없음": {
+    "en": "No saved videos or linked data found.",
+    "ja": "保存済み動画またはリンクデータなし",
+    "zh-CN": "保存された動画やリンクデータが見つかりません。"
+  },
+  "생성 결과를 휴지통으로 옮겼습니다.": {
+    "en": "Moved generation result to trash.",
+    "ja": "生成結果をゴミ箱へ移動しました。",
+    "zh-CN": "已将生成结果移至回收站。"
+  },
+  "선택한 구간을 연결해 저장했습니다.": {
+    "en": "Saved the selected segment by joining it.",
+    "ja": "選択した区間を連結して保存しました。",
+    "zh-CN": "已通过连接所选片段并保存。"
+  },
+  "움직임 폭을 따로 말하지 않습니다.": {
+    "en": "Motion range not specified separately.",
+    "ja": "動きの範囲を別途指定しません。",
+    "zh-CN": "未单独指定运动范围。"
+  },
+  "위에 탄 쪽이 마주 보고 주도한다.": {
+    "en": "The one on top faces the other and leads.",
+    "ja": "乗っている方が向かい合って主導します。",
+    "zh-CN": "上方的人面对面主导。"
+  },
+  "이 줄의 행위를 지정하지 않습니다.": {
+    "en": "Action for this line not specified.",
+    "ja": "この行いの挙動を指定しません。",
+    "zh-CN": "未指定此行的动作。"
+  },
+  "이미지 VAE · 비우면 체크포인트": {
+    "en": "Image VAE · blank uses checkpoint VAE",
+    "ja": "画像VAE・空欄ならチェックポイントのVAE",
+    "zh-CN": "图像VAE·留空则使用检查点的VAE"
+  },
+  "전신과 주변 공간이 함께 보입니다.": {
+    "en": "Full body and surrounding space visible.",
+    "ja": "全身と周囲の空間が一緒に表示されます。",
+    "zh-CN": "全身及周边空间均可见。"
+  },
+  "제자리에서 렌즈를 아래로 숙입니다.": {
+    "en": "Tilt lens downward from stationary position.",
+    "ja": "その場でレンズを下方へ傾けます。",
+    "zh-CN": "从静止位置向下倾斜镜头。"
+  },
+  "카메라 움직임을 지정하지 않습니다.": {
+    "en": "Camera motion not specified.",
+    "ja": "カメラの動きを指定しません。",
+    "zh-CN": "未指定相机运动。"
+  },
+  "클립 하나 길이 (초) · 4~15": {
+    "en": "Single clip length (sec) · 4~15",
+    "ja": "クリップ 1 つの長さ（秒）・4〜15",
+    "zh-CN": "单个片段长度（秒）· 4~15"
+  },
+  "5 = 이 프레임을 색 기준으로 지정": {
+    "en": "5 = Set this frame as color reference",
+    "ja": "5 = このフレームを色基準として指定します",
+    "zh-CN": "5 = 将此帧设为颜色参考"
+  },
+  "관계형 샷 타입을 지정하지 않습니다.": {
+    "en": "Shot type not specified (relational).",
+    "ja": "リレーションシップショットタイプを指定しません。",
+    "zh-CN": "未指定关系型镜头类型。"
+  },
+  "구도는 그대로, 미세하게 흔들립니다.": {
+    "en": "Keep composition, add slight shake.",
+    "ja": "構図はそのまま、わずかにブレます。",
+    "zh-CN": "保持构图，添加轻微抖动。"
+  },
+  "기존 에셋을 프로젝트에 복사했습니다.": {
+    "en": "Copied existing assets to project.",
+    "ja": "既存のアセットをプロジェクトにコピーしました。",
+    "zh-CN": "已将现有资产复制到项目中。"
+  },
+  "머리와 어깨 약간이 화면을 채웁니다.": {
+    "en": "Head and shoulders slightly fill frame.",
+    "ja": "頭と肩の一部が画面を埋めます。",
+    "zh-CN": "头部和肩部略微填满画面。"
+  },
+  "바닥 높이에서 가파르게 올려다봅니다.": {
+    "en": "Look up steeply from ground level.",
+    "ja": "地面から急な角度で上を見上げる。",
+    "zh-CN": "从地面以陡峭的角度向上看。"
+  },
+  "색 보정 후 레퍼런스로 추가했습니다.": {
+    "en": "Added as a reference after color correction.",
+    "ja": "色補正後にリファレンスとして追加しました。",
+    "zh-CN": "色彩校正后作为参考添加。"
+  },
+  "이미지와 에셋 프로젝트를 선택하세요.": {
+    "en": "Select an image and asset project.",
+    "ja": "イメージとアセットプロジェクトを選択してください。",
+    "zh-CN": "选择图像和资产项目。"
+  },
+  "정면과 옆 사이 비스듬한 각도입니다.": {
+    "en": "An oblique angle between front and side.",
+    "ja": "正面と横の間の斜め角度です。",
+    "zh-CN": "正面与侧面之间的倾斜角度。"
+  },
+  "제자리에서 렌즈만 왼쪽으로 돌립니다.": {
+    "en": "Rotate only the lens to the left from the spot.",
+    "ja": "その場でレンズだけを左に回転させます。",
+    "zh-CN": "在原位仅将镜头向左旋转。"
+  },
+  "직접 지정 · Pixaroma 프리셋": {
+    "en": "Directly specified · Pixaroma preset",
+    "ja": "直接指定 · Pixaroma プリセット",
+    "zh-CN": "直接指定 · Pixaroma 预设"
+  },
+  "프레임 안 위치를 지정하지 않습니다.": {
+    "en": "Do not specify position within the frame.",
+    "ja": "フレーム内の位置を指定しません。",
+    "zh-CN": "不指定帧内位置。"
+  },
+  "행위마다 정해진 기본 무버를 씁니다.": {
+    "en": "Perform a predefined basic move for each action.",
+    "ja": "各動作ごとに決まった基本ムーブを実行します。",
+    "zh-CN": "为每个动作执行预定义的基本动作。"
+  },
+  "현재 프로젝트에 에셋을 보관했습니다.": {
+    "en": "Saved assets to the current project.",
+    "ja": "アセットを現在のプロジェクトに保存しました。",
+    "zh-CN": "资产已保存到当前项目。"
+  },
+  "0 = Director의 길이를 사용.": {
+    "en": "0 = Use Director's length.",
+    "ja": "0 = Director の長さを使用。",
+    "zh-CN": "0 = 使用 Director 的长度。"
+  },
+  "practical only · 실광원만": {
+    "en": "practical only · real light sources only",
+    "ja": "practical only · 実光源のみ",
+    "zh-CN": "仅实用 · 仅真实光源"
+  },
+  "고급 설정 · 현재 워크플로우 매개변수": {
+    "en": "Advanced settings · current workflow parameters",
+    "ja": "高度な設定 · 現在のワークフローパラメータ",
+    "zh-CN": "高级设置 · 当前工作流参数"
+  },
+  "두 인물이 한 프레임에 함께 잡힙니다.": {
+    "en": "Two characters are captured together in one frame.",
+    "ja": "二人のキャラクターが一つのフレームで一緒に捉えられます。",
+    "zh-CN": "两个角色在同一帧中一起捕捉。"
+  },
+  "렌즈 축을 중심으로 반시계 회전합니다.": {
+    "en": "Rotate counter-clockwise around the lens axis.",
+    "ja": "レンズ軸を中心に反時計回りに回転します。",
+    "zh-CN": "围绕镜头轴逆时针旋转。"
+  },
+  "실제로 들어가는 프롬프트 · 전신 시트": {
+    "en": "Actual prompt used · full-body sheet",
+    "ja": "実際に使用されるプロンプト · フルボディシート",
+    "zh-CN": "实际使用的提示词 · 全身图"
+  },
+  "얼굴 시트 가로 · 비우면 전신의 절반": {
+    "en": "Face sheet width · blank uses half the full-body sheet width",
+    "ja": "顔シートの幅・空欄なら全身シート幅の半分",
+    "zh-CN": "面部参考图宽度·留空则为全身参考图宽度的一半"
+  },
+  "에셋 프로젝트를 휴지통으로 옮겼습니다.": {
+    "en": "Moved asset project to trash.",
+    "ja": "アセットプロジェクトをゴミ箱に移動しました。",
+    "zh-CN": "资产项目已移至回收站。"
+  },
+  "위에 탄 쪽이 등을 보인 채 주도한다.": {
+    "en": "The side on top leads while showing its back.",
+    "ja": "上にいる方が背中を見せながら主導します。",
+    "zh-CN": "上方的人背对镜头并主导局面。"
+  },
+  "인물이 넓은 공간 속에 작게 보입니다.": {
+    "en": "The character appears small within a wide space.",
+    "ja": "人物は広い空間の中で小さく見えます。",
+    "zh-CN": "人物在广阔空间中显得较小。"
+  },
+  "제자리에서 렌즈만 오른쪽으로 돌립니다.": {
+    "en": "Only the lens rotates to the right while staying in place.",
+    "ja": "同じ場所で、レンズだけを右に回転させます。",
+    "zh-CN": "镜头原地向右旋转。"
+  },
+  "카메라는 그대로, 초점거리만 넓힙니다.": {
+    "en": "Zoom out while keeping the camera in place.",
+    "ja": "カメラ位置を変えずにズームアウトします。",
+    "zh-CN": "保持相机位置不变，缩小画面。"
+  },
+  "카메라는 그대로, 초점거리만 당깁니다.": {
+    "en": "Zoom in while keeping the camera in place.",
+    "ja": "カメラ位置を変えずにズームインします。",
+    "zh-CN": "保持相机位置不变，放大画面。"
+  },
+  "파일과 작업은 이 컴퓨터에 저장됩니다.": {
+    "en": "Files and jobs are saved on this computer.",
+    "ja": "ファイルと作業はこのPCに保存されます。",
+    "zh-CN": "文件和任务保存在本机。"
+  },
+  "3. 공통 묘사 · 두 시트에 함께 적용": {
+    "en": "3. Common Descriptions · Apply to both sheets together",
+    "ja": "3. 共通描写・2 つのシートに同時に適用",
+    "zh-CN": "3. 共同描述 · 同时应用于两个工作表"
+  },
+  "Continuum · 여러 클립을 이어서": {
+    "en": "Continuum · Connect multiple clips",
+    "ja": "Continuum · 複数のクリップを繋げる",
+    "zh-CN": "Continuum · 连接多个剪辑"
+  },
+  "고화질 마감 · 업스케일 + refine": {
+    "en": "High-quality finish · Upscale + refine",
+    "ja": "高画質仕上げ・アップスケール＋リファイン",
+    "zh-CN": "高清画质 · 超分辨率 + 细化"
+  },
+  "둘 다 같은 방향으로 옆으로 누운 채로.": {
+    "en": "Both are lying on their sides in the same direction.",
+    "ja": "どちらも同じ方向に横たわった状態で。",
+    "zh-CN": "两者均以相同方向侧卧。"
+  },
+  "렌즈 축을 중심으로 시계방향 회전합니다.": {
+    "en": "Rotate clockwise around the lens axis.",
+    "ja": "レンズ軸を中心に時計回りに回転します。",
+    "zh-CN": "围绕镜头轴顺时针旋转。"
+  },
+  "샷 2의 카메라만 여성 정면으로 바꿔줘.": {
+    "en": "Change only the camera of Shot 2 to face the woman frontally.",
+    "ja": "ショット 2 のカメラだけを女性の正面に変更してください。",
+    "zh-CN": "仅将第 2 个镜头的相机调整为女性正面视角。"
+  },
+  "서로를 보며 각자 자위한다. 접촉 없음.": {
+    "en": "They masturbate while looking at each other. No contact.",
+    "ja": "互いに見合いながらそれぞれが自慰を行う。接触なし。",
+    "zh-CN": "彼此对视，各自自慰。无接触。"
+  },
+  "앞 샷과 형태·동작이 이어지며 바뀝니다.": {
+    "en": "The form and motion continue from the previous shot and change.",
+    "ja": "前のショットと形態・動作が続き、変化します。",
+    "zh-CN": "形态与动作将延续前一镜头并发生变化。"
+  },
+  "이미지는 16장까지 선택할 수 있습니다.": {
+    "en": "You can select up to 16 images.",
+    "ja": "画像は最大 16 枚まで選択可能です。",
+    "zh-CN": "最多可选择 16 张图片。"
+  },
+  "카메라 설정 때문에 자동으로 꺼졌습니다.": {
+    "en": "Automatically turned off due to camera settings.",
+    "ja": "カメラ設定のため自動的にオフになりました。",
+    "zh-CN": "因相机设置而自动关闭。"
+  },
+  "Kill Switch 정리를 시작했습니다.": {
+    "en": "Started Kill Switch cleanup.",
+    "ja": "Kill Switch の整理を開始しました。",
+    "zh-CN": "已启动 Kill Switch 整理。"
+  },
+  "backlit / rim · 역광·림라이트": {
+    "en": "backlit / rim · Backlighting and rim lighting",
+    "ja": "backlit / rim · 逆光・リムライト",
+    "zh-CN": "背光/轮廓光 · 逆光/轮廓光"
+  },
+  "soft frontal · 부드러운 정면광": {
+    "en": "Soft Frontal · Soft frontal light",
+    "ja": "ソフトフロントル・柔らかい正面光",
+    "zh-CN": "柔和正面·柔和正前方光"
+  },
+  "디렉터에서 Ollama 모델을 선택하세요.": {
+    "en": "Select an Ollama model in the Director.",
+    "ja": "ディレクターで Ollama モデルを選択してください。",
+    "zh-CN": "在导演中选择 Ollama 模型。"
+  },
+  "레퍼런스 없음 — 01 탭에서 추가하세요.": {
+    "en": "No reference — add from Tab 01.",
+    "ja": "リファレンスなし — タブ 01 から追加してください。",
+    "zh-CN": "暂无参考 — 请在标签页 01 中添加。"
+  },
+  "받는 쪽이 배를 깔고 완전히 엎드린 채로.": {
+    "en": "Lying flat on the stomach, fully prone.",
+    "ja": "お腹を床につけて完全に伏せた姿勢です。",
+    "zh-CN": "腹部贴地，完全俯卧姿态。"
+  },
+  "설정을 확인한 뒤 사전 검사를 실행하세요.": {
+    "en": "Review settings and run pre-check.",
+    "ja": "設定を確認してプリチェックを実行してください。",
+    "zh-CN": "检查设置并运行预检。"
+  },
+  "옷과 그 상태를 이 이미지에서 가져옵니다.": {
+    "en": "Import clothing and its state from this image.",
+    "ja": "この画像から衣装とその状態をインポートします。",
+    "zh-CN": "从此图像导入服装及其状态。"
+  },
+  "완전히 옆에서 봅니다. 옆얼굴이 보입니다.": {
+    "en": "Viewed entirely from the side; profile visible.",
+    "ja": "完全に横から見て、プロファイルが確認できます。",
+    "zh-CN": "完全侧视，可见侧面轮廓。"
+  },
+  "이어 만들기 가능한 클립으로 저장했습니다.": {
+    "en": "Saved as a clip ready for seamless continuation.",
+    "ja": "連続して作成可能なクリップとして保存しました。",
+    "zh-CN": "已保存为可无缝衔接的片段。"
+  },
+  "카메라가 통째로 왼쪽으로 평행 이동합니다.": {
+    "en": "Camera translates fully parallel to the left.",
+    "ja": "カメラが完全に左へ平行移動します。",
+    "zh-CN": "相机完全向左平行移动。"
+  },
+  "편집 결과에서 보관할 이미지를 선택하세요.": {
+    "en": "Select an image to keep from the edit result.",
+    "ja": "編集結果から保持する画像を選択してください。",
+    "zh-CN": "从编辑结果中选择要保留的图像。"
+  },
+  "프로덕션에서 설정을 확인한 뒤 생성하세요.": {
+    "en": "Review settings in Production and generate.",
+    "ja": "プロダクションで設定を確認して生成します。",
+    "zh-CN": "在生产环境中检查设置并生成。"
+  },
+  "프로젝트를 선택하면 마감 상태가 보입니다.": {
+    "en": "Select a project to view its delivery status.",
+    "ja": "プロジェクトを選択すると納品状況が表示されます。",
+    "zh-CN": "选择项目即可查看交付状态。"
+  },
+  "후보 생성 → 이 버전 사용 → 다음 클립": {
+    "en": "Generate Candidate → Use This Version → Next Clip",
+    "ja": "候補生成 → このバージョン使用 → 次のクリップ",
+    "zh-CN": "生成候选 → 使用此版本 → 下一个片段"
+  },
+  "Kill Switch · 모델 / 캐시 정리": {
+    "en": "Kill Switch · Clear Model / Cache",
+    "ja": "Kill Switch · モデル/キャッシュをクリア",
+    "zh-CN": "紧急停止 · 清理模型/缓存"
+  },
+  "window daylight · 창문 자연광": {
+    "en": "Window Daylight · Natural Window Light",
+    "ja": "ウィンドウデイライト・窓からの自然光",
+    "zh-CN": "窗日光·来自窗户的自然光"
+  },
+  "말하는 사람이 아니라 듣는 사람을 잡습니다.": {
+    "en": "Capture the listener, not the speaker.",
+    "ja": "話者ではなく聞き手を取り込みます。",
+    "zh-CN": "捕捉倾听者而非说话者。"
+  },
+  "선택을 모두 해제하면 전체 샷에 적용합니다.": {
+    "en": "Deselecting all applies to the entire shot.",
+    "ja": "すべて選択解除すると全ショットに適用されます。",
+    "zh-CN": "全部取消选择则应用于整个镜头。"
+  },
+  "시점을 지정하지 않습니다. 모델이 정합니다.": {
+    "en": "Leave the viewpoint unspecified; the model will decide.",
+    "ja": "視点の指定は行いません。モデルが決定します。",
+    "zh-CN": "未指定视点；由模型决定。"
+  },
+  "종료됨 · start.cmd 로 다시 여세요": {
+    "en": "Ended · Reopen with start.cmd",
+    "ja": "終了しました · start.cmd で再度開く",
+    "zh-CN": "已结束 · 请使用 start.cmd 重新打开"
+  },
+  "카메라가 통째로 오른쪽으로 평행 이동합니다.": {
+    "en": "The camera pans entirely to the right in parallel.",
+    "ja": "カメラが全体を右へ平行移動します。",
+    "zh-CN": "相机整体向右平行移动。"
+  },
+  "클립을 선택하거나 전체 이어보기를 누르세요.": {
+    "en": "Select a clip or press Full Review.",
+    "ja": "クリップを選択するか、全レビューを押してください。",
+    "zh-CN": "选择剪辑或点击“全览”"
+  },
+  "눈·입·손 같은 한 디테일이 화면을 채웁니다.": {
+    "en": "A detail like an eye, mouth, or hand fills the screen.",
+    "ja": "目や口、手などの詳細部分が画面いっぱいに映ります。",
+    "zh-CN": "眼睛、嘴巴或手等细节填满屏幕。"
+  },
+  "받는 쪽이 벽을 짚고 서고 하는 쪽이 뒤에서.": {
+    "en": "The receiving side leans forward while the acting side stands behind.",
+    "ja": "受け取る側は壁に寄りかかり、行う側は背後から立ちます。",
+    "zh-CN": "接收方靠墙站立，动作方站在后方。"
+  },
+  "사용 구간을 저장했습니다. 원본은 유지됩니다.": {
+    "en": "Saved the selected segment; the original is preserved.",
+    "ja": "選択した区間を保存しました。元データは維持されます。",
+    "zh-CN": "已保存选定片段，原稿保持不变。"
+  },
+  "워크플로우와 설치된 모델을 확인하고 있습니다…": {
+    "en": "Checking workflow and installed models…",
+    "ja": "ワークフローとインストールされたモデルを確認しています…",
+    "zh-CN": "正在检查工作流和已安装的模型…"
+  },
+  "인물을 어느 방향에서 볼지 지정하지 않습니다.": {
+    "en": "Leave the viewing angle unspecified for the character.",
+    "ja": "人物をどの方向から見るかを指定しません。",
+    "zh-CN": "不指定观察人物的方向。"
+  },
+  "재시작이 오래 걸립니다. 직접 새로고침하세요.": {
+    "en": "Restart takes a while; refresh manually if needed.",
+    "ja": "再起動に時間がかかります。手動でリフレッシュしてください。",
+    "zh-CN": "重启需要较长时间，如有需要请手动刷新。"
+  },
+  "클립 1을 생성하면 여기에 후보가 나타납니다.": {
+    "en": "Creating Clip 1; candidates will appear here.",
+    "ja": "クリップ 1 を生成すると、ここに候補が表示されます。",
+    "zh-CN": "创建 Clip 1，候选项将在此处显示。"
+  },
+  "00. Auto (자연어에서 스타일 자동 판별)": {
+    "en": "00. Auto (Style inferred from natural language)",
+    "ja": "00. オート（自然言語からスタイルを自動判別）",
+    "zh-CN": "00. 自动（从自然语言推断风格）"
+  },
+  "개가 이 기록의 것으로 교체됩니다. 계속할까요?": {
+    "en": "This record will be replaced by the one below. Continue?",
+    "ja": "犬がこの記録に置き換わります。続けますか？",
+    "zh-CN": "下方记录将替换当前记录。是否继续？"
+  },
+  "받는 쪽이 앞으로 숙이고 하는 쪽이 뒤에 서서.": {
+    "en": "The receiving side leans forward while the acting side stands behind.",
+    "ja": "受け手が前かがみになり、行う人が後ろに立つように。",
+    "zh-CN": "接收方向前俯身，动作方站在后方。"
+  },
+  "선택한 샷에만 사용하도록 프롬프트에 지시합니다.": {
+    "en": "Instruct the prompt to apply only to the selected shot.",
+    "ja": "選択したショットのみで使用するようプロンプトに指示します。",
+    "zh-CN": "指示提示词仅应用于选定的镜头（Shot）。"
+  },
+  "0 = 매 실행마다 새 결과. 1 이상이면 고정.": {
+    "en": "0 = New result every run. ≥1 = Fixed.",
+    "ja": "0 = 毎回実行ごとに新しい結果。1 以上なら固定。",
+    "zh-CN": "0 = 每次运行生成新结果；≥1 = 固定。"
+  },
+  "2. 캐릭터 · 단부루 이름 검색 또는 직접 입력": {
+    "en": "2. Character · Search by Danburu name or enter manually",
+    "ja": "2. キャラクター・ダンブルル名の検索または直接入力",
+    "zh-CN": "2. 角色 · 按 Danburu 名称搜索或手动输入"
+  },
+  "기존 프로젝트를 보존하고 새 버전을 만들었습니다.": {
+    "en": "Kept the original project and created a new version.",
+    "ja": "既存プロジェクトを保存し、新しいバージョンを作成しました。",
+    "zh-CN": "保留原始项目并创建新版本。"
+  },
+  "받는 쪽의 다리를 접어 올린 채 위에서 가파르게.": {
+    "en": "From above, with the receiver's legs bent upward.",
+    "ja": "受け手が足を折りたたんで持ち上げ、その上から急峻に。",
+    "zh-CN": "从上方俯视，接收方双腿弯曲向上。"
+  },
+  "이 클립을 3D 업스케일 + refine 합니다.": {
+    "en": "Upscale this clip in 3D and refine it.",
+    "ja": "このクリップを 3D アップスケール＋リファインします。",
+    "zh-CN": "对该片段进行 3D 超分辨率 + 细化处理。"
+  },
+  "프로젝트를 선택하면 클립 정보를 볼 수 있습니다.": {
+    "en": "Select a project to view its clip information.",
+    "ja": "プロジェクトを選択すると、クリップ情報を確認できます。",
+    "zh-CN": "选择项目即可查看其片段信息。"
+  },
+  " 프롬프트가 더 많습니다. 아래 상자에서 지우세요.": {
+    "en": "More prompts available. Clear them in the box below.",
+    "ja": "プロンプトがさらに多くなっています。下のボックスから削除してください。",
+    "zh-CN": "有更多提示词可用。请在下方框中清除它们。"
+  },
+  "작업을 선택하면 프롬프트와 설정을 볼 수 있습니다.": {
+    "en": "Select a task to view its prompt and settings.",
+    "ja": "作業を選択すると、プロンプトと設定を確認できます。",
+    "zh-CN": "选择任务即可查看其提示词和设置。"
+  },
+  "특정 인물의 어깨와 뒤통수가 화면 앞쪽에 걸칩니다.": {
+    "en": "The subject's shoulders and back of head overlap the foreground.",
+    "ja": "特定の人物の肩と後頭部が画面の手前に掛かっています。",
+    "zh-CN": "人物的肩膀和后脑勺覆盖前景。"
+  },
+  "받는 쪽이 하는 쪽의 무릎 위에 등을 보이고 앉는다.": {
+    "en": "Receiver sits on the doer's knee, back facing them.",
+    "ja": "受け手が相手の膝の上に背を向けて座る。",
+    "zh-CN": "接收方坐在施动方的膝盖上，背部朝向对方。"
+  },
+  "심도. 얕으면 배경이 날아가고 깊으면 다 선명합니다.": {
+    "en": "Depth: Shallow blurs the background; deep keeps everything sharp.",
+    "ja": "奥行き。浅いと背景が飛んでしまい、深すぎるとすべて鮮明になります。",
+    "zh-CN": "景深：浅景深会模糊背景；深景深则保持所有部分清晰。"
+  },
+  "최종 크기에서 얼굴 1명 · 메인 프롬프트 자동 연결": {
+    "en": "Final size: 1 face + auto-connect main prompt.",
+    "ja": "最終サイズで顔 1 名・メインプロンプト自動接続",
+    "zh-CN": "最终尺寸：1 张人脸 + 自动连接主提示词。"
+  },
+  "01. 실사 - Live-action Cinematic": {
+    "en": "01. Photorealistic - Live-action Cinematic",
+    "ja": "01. リアルアクション - ライブアクションシネマティック",
+    "zh-CN": "01. 写实风格 - 真人电影感"
+  },
+  "대상을 입력하세요. 예: 창문, 이미지 1의 왼쪽 인물": {
+    "en": "Enter the target. Example: window, person on left of Image 1.",
+    "ja": "対象を入力してください。例：窓、画像 1 の左側の人物",
+    "zh-CN": "请输入目标对象。例如：窗户、图像 1 左侧的人物。"
+  },
+  "번. Studio에서 만든 클립만 마감할 수 있습니다.": {
+    "en": "Step 2. Only clips created in Studio can be finalized.",
+    "ja": "番。Studio で作成したクリップのみで仕上げることができます。",
+    "zh-CN": "步骤 2. 仅可完成在 Studio 中创建的片段。"
+  },
+  "앞 샷이 겹치며 사라집니다. 명시 요청일 때만 씁니다.": {
+    "en": "The front shot overlaps and fades out. Use only on explicit request.",
+    "ja": "前のショットが重なりながら消えていきます。明示的にリクエストした場合のみ適用されます。",
+    "zh-CN": "前一个镜头重叠并淡出。仅在明确要求时使用。"
+  },
+  "완성된 프롬프트를 붙여 넣거나 위 버튼으로 작성하세요.": {
+    "en": "Paste the finished prompt or create it with the button above.",
+    "ja": "完成したプロンプトを貼り付けたり、上記のボタンで作成してください。",
+    "zh-CN": "粘贴完成的提示词，或使用上方按钮创建。"
+  },
+  "레퍼런스로 추가했습니다. 01 탭에서 용도를 지정하세요.": {
+    "en": "Added as a reference. Specify its purpose in the 01 tab.",
+    "ja": "リファレンスとして追加しました。01 タブで用途を指定してください。",
+    "zh-CN": "已添加为参考素材。请在 01 标签页中指定其用途。"
+  },
+  "받는 쪽이 침대·테이블 가장자리에 눕고 하는 쪽은 서서.": {
+    "en": "Receiver lies on bed/table edge; doer stands.",
+    "ja": "片方はベッドやテーブルの縁に横になり、もう片方が立って行う。",
+    "zh-CN": "接收方躺在床或桌边；施动方站立。"
+  },
+  "선택한 에셋 프로젝트와 보관 에셋을 휴지통으로 옮길까요?": {
+    "en": "Move selected asset project and saved assets to trash?",
+    "ja": "選択したエセットプロジェクトと保存エセットをゴミ箱へ移動しますか？",
+    "zh-CN": "是否将选定的资产项目和保存的资产移至回收站？"
+  },
+  "인물의 눈은 아니고, 머리 옆에 바짝 붙은 카메라입니다.": {
+    "en": "It's not a character's eye, but a camera positioned right next to the head.",
+    "ja": "人物の目ではなく、頭の横に密着させたカメラです。",
+    "zh-CN": "并非人物眼睛，而是紧贴头部侧面的相机。"
+  },
+  "패스별 모델과 처리 단계를 확인한 뒤 영상을 생성하세요.": {
+    "en": "Review the model and processing steps for each pass, then generate the video.",
+    "ja": "パスごとのモデルと処理手順を確認した上で動画を生成してください。",
+    "zh-CN": "查看每个 pass 的模型和处理步骤，然后生成视频。"
+  },
+  "이 오디오를 최종 소리로 사용 (Driving Audio)": {
+    "en": "Use this audio as the final sound (Driving Audio).",
+    "ja": "このオーディオを最終音源として使用（Driving Audio）",
+    "zh-CN": "将此音频作为最终声音（Driving Audio）。"
+  },
+  "문서를 어떻게 조립할지. 샷 구조와 서술 습관을 가져옵니다.": {
+    "en": "How to assemble the document: captures shot structure and narrative habits.",
+    "ja": "文書をどのように組み立てるか。ショット構造と記述の癖を取得します。",
+    "zh-CN": "文档组装方式：捕获镜头结构和叙事习惯。"
+  },
+  "받는 쪽이 네 발로 엎드리고 하는 쪽이 뒤에서 무릎 꿇는다.": {
+    "en": "The receiver kneels on all fours while the sender kneels behind them.",
+    "ja": "片方が四つん這いで伏せ、もう片方が後ろから膝をついて行う。",
+    "zh-CN": "接收者四肢着地趴下，发送者在其身后跪姿。"
+  },
+  "응답 직후 Ollama에서 모델을 내려 VRAM을 비웁니다.": {
+    "en": "Immediately after response, Ollama downloads the model to free up VRAM.",
+    "ja": "応答直後に Ollama からモデルをダウンロードして VRAM を解放します。",
+    "zh-CN": "响应后立即从 Ollama 下载模型以释放 VRAM。"
+  },
+  "자연어 입력. 어떤 언어로 써도 프롬프트는 영어로 나옵니다.": {
+    "en": "Natural language input. The prompt is output in English regardless of the input language.",
+    "ja": "自然言語入力。どのような言語で入力しても、プロンプトは英語になります。",
+    "zh-CN": "自然语言输入。无论使用何种语言输入，提示词均以英文输出。"
+  },
+  "기존 영상 · 이어받기 데이터가 없어 영상 파일로 보관됩니다.": {
+    "en": "Since there is no existing video or continuation data, it will be saved as a video file.",
+    "ja": "既存の動画・継承データがないため、動画ファイルとして保存されます。",
+    "zh-CN": "由于没有现有视频或续接数据，将保存为视频文件。"
+  },
+  "몸의 자세만 가져옵니다. 얼굴·의상·배경은 가져오지 않습니다.": {
+    "en": "Captures only body pose; face, clothing, and background are not included.",
+    "ja": "体の姿勢のみを取得します。顔・衣装・背景は取得しません。",
+    "zh-CN": "仅捕获身体姿态；不包含面部、服装和背景。"
+  },
+  "새 후보용 시드를 설정했습니다. 설정을 확인한 뒤 생성하세요.": {
+    "en": "Set a seed for new candidates. Review the settings and then generate.",
+    "ja": "新しい候補用のシードを設定しました。設定を確認した後に生成してください。",
+    "zh-CN": "已为新候选项设置种子值。请确认设置后再进行生成。"
+  },
+  "샷을 구성하고, 프롬프트를 다듬고, 원하는 순간을 고정하세요.": {
+    "en": "Compose shots, refine prompts, and lock in the desired moment.",
+    "ja": "ショットを構成し、プロンプトを整え、望む瞬間を固定します。",
+    "zh-CN": "构图镜头、优化提示词并锁定理想瞬间。"
+  },
+  "영상 전체의 화풍. [샷 1] 스타일 문장이 여기서 나옵니다.": {
+    "en": "The overall art style of the video. The [Shot 1] style sentence originates here.",
+    "ja": "動画全体の画風。[ショット 1] スタイル文はここから出力されます。",
+    "zh-CN": "视频整体画风。[Shot 1] 风格语句由此生成。"
+  },
+  "이 연결 영상을 휴지통으로 옮길까요? 클립 원본은 유지됩니다.": {
+    "en": "Move this connected video to the trash? The original clip is retained.",
+    "ja": "この接続動画をゴミ箱に移動しますか？クリップの元データは維持されます。",
+    "zh-CN": "将此连接视频移至回收站？原始片段将保留。"
+  },
+  "이름 입력 · 한국어도 됩니다 (예: 시로코, frieren)": {
+    "en": "Enter a name. Korean is also supported (e.g., Shiroko, frieren).",
+    "ja": "名前を入力・韓国語も使用可能（例：シロコ、frieren）",
+    "zh-CN": "输入名称（支持韩语，例如：Shiroko、frieren）。"
+  },
+  "이어받기 데이터 포함 · 저장하면 사용할 클립으로 선택됩니다.": {
+    "en": "Includes continuation data. When saved, it will be selected as a usable clip.",
+    "ja": "継続用データを含みます。保存すると使用するクリップとして選択されます。",
+    "zh-CN": "包含续接数据；保存后将作为可用片段被选中。"
+  },
+  "저장할 프로젝트를 선택하세요. 없으면 아래에서 먼저 만드세요.": {
+    "en": "Select the project to save. If none exists, create one below first.",
+    "ja": "保存先のプロジェクトを選択してください。ない場合は下で作成してください。",
+    "zh-CN": "选择要保存的项目。若无现有项目，请先在下方创建。"
+  },
+  "프롬프트와 설정을 그대로 남겨 뒀습니다. 골라서 다시 쓰세요.": {
+    "en": "Prompts and settings are preserved as-is. Select and rewrite them.",
+    "ja": "プロンプトと設定を保存しています。選択して再利用できます。",
+    "zh-CN": "提示词和设置已原样保留。请选择并重新编写。"
+  },
+  "99. Custom (아래 custom_style 텍스트 사용)": {
+    "en": "99. Custom (uses the custom_style text below)",
+    "ja": "99. Custom（下の custom_style のテキストを使用）",
+    "zh-CN": "99. 自定义（使用下方的 custom_style 文本）"
+  },
+  "레퍼런스 카드의 보관 버튼으로 이 프로젝트에 에셋을 추가하세요.": {
+    "en": "Add assets to this project using the Save button on the Reference Card.",
+    "ja": "リファレンスカードの保存ボタンを使って、このプロジェクトにアセットを追加します。",
+    "zh-CN": "点击参考卡上的保存按钮，将资产添加到此项目中。"
+  },
+  "캐릭터, 공간, 목소리. 각 레퍼런스가 맡을 역할을 지정하세요.": {
+    "en": "Characters, Spaces, Voices: Assign roles for each reference.",
+    "ja": "キャラクター、空間、ボイス。それぞれのリファレンスが担う役割を指定してください。",
+    "zh-CN": "角色、空间、声音。请为每个参考项指定其承担的角色。"
+  },
+  "'대사 없음' 을 고르면 말소리를 넣지 말라는 지시가 들어갑니다.": {
+    "en": "Selecting 'No Dialogue' adds an instruction to exclude voiceovers.",
+    "ja": "'セリフなし' を選択すると、「音声を入れない」という指示が入ります。",
+    "zh-CN": "选择“无对白”时，将输入指示不要加入人声。"
+  },
+  "Style에서 Custom을 선택했을 때 사용할 화풍 설명입니다.": {
+    "en": "This is the style description used when Custom is selected in Style.",
+    "ja": "スタイルで「Custom」を選択した際に使用する画風説明です。",
+    "zh-CN": "当在 Style 中选择 Custom 时使用的画风说明。"
+  },
+  "에셋에 저장했습니다. 에셋 탭에서 레퍼런스로 추가할 수 있습니다.": {
+    "en": "Saved to Assets. You can add it as a reference from the Assets tab.",
+    "ja": "エセットに保存しました。エセットタブからリファレンスとして追加できます。",
+    "zh-CN": "已保存到资产。可在资产标签页中作为参考项添加。"
+  },
+  "이미지 · 오디오 · 비디오 / 영상 레퍼런스의 용도는 직접 작성": {
+    "en": "Image · Audio · Video / Video Reference: Purpose defined manually.",
+    "ja": "イメージ・オーディオ・ビデオ／映像リファレンスの用途は直接入力してください",
+    "zh-CN": "图像·音频·视频/影像参考的用途请自行填写"
+  },
+  "인물의 외형·의상·스타일 또는 장소의 구조·재질·조명을 적으세요.": {
+    "en": "Describe the character's appearance, clothing, style, or the location's structure, material, and lighting.",
+    "ja": "人物の外観・衣装・スタイル、または場所の構造・材質・照明を記入してください。",
+    "zh-CN": "请输入人物的外形、服装、风格，或场景的结构、材质、照明。"
+  },
+  "11. 웹툰·카툰 - Webtoon / Western Cartoon": {
+    "en": "11. Webtoon / Western Cartoon",
+    "ja": "11. ウェブトゥーン・カートゥーン - Webtoon / Western Cartoon",
+    "zh-CN": "11. 网络漫画/卡通 - Webtoon / Western Cartoon"
+  },
+  "MMH3 Brief Composer 의 spec 출력을 연결하세요.": {
+    "en": "Connect the output from MMH3 Brief Composer.",
+    "ja": "MMH3 Brief Composer の spec 出力を接続してください。",
+    "zh-CN": "连接 MMH3 Brief Composer 的规格输出。"
+  },
+  "후보를 비교하고 사용할 버전을 선택한 뒤 다음 클립으로 이어가세요.": {
+    "en": "Compare candidates, select the version to use, and proceed to the next clip.",
+    "ja": "候補を比較し、使用するバージョンを選択した後に次のクリップへ続行してください。",
+    "zh-CN": "比较候选项并选择要使用的版本，然后继续到下一个片段。"
+  },
+  "받는 쪽이 다리를 들어 하는 쪽의 허리에 감고, 그 사이에서 앞뒤로.": {
+    "en": "The receiver lifts their leg while the actor wraps around their waist, moving back and forth between them.",
+    "ja": "受け手が脚を持ち上げ、行う側の腰に巻きつけ、その間を前後に動かします。",
+    "zh-CN": "受动方抬起腿，绕在主动方的腰部，并在两者之间前后移动。"
+  },
+  "전신과 얼굴 시트를 만들고, 한 장으로 편집해 프로젝트에 보관하세요.": {
+    "en": "Create full-body and face sheets, edit them into one image, and save to your project.",
+    "ja": "全身と顔のシートを作成し、1 つの画像として編集してプロジェクトに保存してください。",
+    "zh-CN": "制作全身和面部 sheet，并将其编辑为一张后保存到项目中。"
+  },
+  "05. 클레이·스톱모션 - Claymation / Stop-motion": {
+    "en": "05. Claymation / Stop-motion",
+    "ja": "05. クレイ・ストップモーション - Claymation / Stop-motion",
+    "zh-CN": "05. 粘土/定格动画 - Claymation / Stop-motion"
+  },
+  "12. 미니어처·틸트시프트 - Miniature / Tilt-shift": {
+    "en": "12. Miniature / Tilt-shift",
+    "ja": "12. ミニチュア・ティルトシフト - Miniature / Tilt-shift",
+    "zh-CN": "12. 微缩模型/倾斜位移 - Miniature / Tilt-shift"
+  },
+  "레퍼런스 순서를 바꿨습니다. Picture 번호도 새 순서를 따릅니다.": {
+    "en": "Reference order updated. Picture numbers now follow the new sequence.",
+    "ja": "リファレンスの順序を変更しました。Picture の番号も新しい順序に従ってください。",
+    "zh-CN": "已调整参考顺序，Picture 编号也遵循新顺序。"
+  },
+  "무엇이 이상한지, 무엇을 바꿀지 적으세요. Ctrl+Enter로 보내기": {
+    "en": "Describe what seems odd and what needs changing. Send with Ctrl+Enter.",
+    "ja": "何が不自然か、何を修正すべきかを記入してください。Ctrl+Enter で送信します。",
+    "zh-CN": "写下哪里奇怪、想改什么，按 Ctrl+Enter 发送"
+  },
+  "받는 쪽이 다리를 편 채 눕고, 하는 쪽이 그 위에 몸을 겹쳐 앞뒤로.": {
+    "en": "Receiver lies flat with legs extended; actor overlaps their body on top, shifting front-to-back.",
+    "ja": "受け手が脚を伸ばして横になり、行う側がその上に体を重ねて前後に動かします。",
+    "zh-CN": "接收方平躺伸直双腿，施术方身体叠在其上前后移动。"
+  },
+  "이 생성 결과를 휴지통으로 옮길까요? 에셋에 보관한 사본은 유지됩니다.": {
+    "en": "Move this generated result to the trash? A copy saved in Assets will remain.",
+    "ja": "この生成結果をゴミ箱に移動しますか？エセットに保存されたコピーは維持されます。",
+    "zh-CN": "是否将此生成结果移至回收站？保存在资产中的副本将保持不变。"
+  },
+  "절대 일어나면 안 되는 것을 한 줄에 하나씩\n예) 자세를 바꾸지 않는다": {
+    "en": "List things that must never happen, one per line.\nExample: Do not change the pose.",
+    "ja": "絶対起こしてはいけないことを、1 行ずつリストします。\n例：姿勢を変えない。",
+    "zh-CN": "列出绝对不应发生的事项，每行一条。\n示例：保持姿势不变。"
+  },
+  "08. 픽셀아트·레트로 게임 - Pixel Art / Retro Game": {
+    "en": "08. Pixel Art / Retro Game - Pixel Art & Retro Games",
+    "ja": "08. ピクセルアート・レトロゲーム - Pixel Art / Retro Game",
+    "zh-CN": "08. 像素艺术/复古游戏 - Pixel Art / Retro Game"
+  },
+  "금지 사항 규칙 블록을 켭니다. 원치 않는 동작을 막는 유일한 수단입니다.": {
+    "en": "Enable the Negative Prompt block. It is the only way to prevent unwanted actions.",
+    "ja": "禁止事項ルールブロックをオンにします。望まない動作を防ぐ唯一の手段です。",
+    "zh-CN": "开启‘禁止事项’规则块。这是阻止不期望动作的唯一手段。"
+  },
+  "카메라·구도·배경은 그대로 두고 인물의 위치나 자세만 순간적으로 바뀝니다.": {
+    "en": "Keep the camera, composition, and background unchanged while instantly altering the character's position or pose.",
+    "ja": "カメラ・構図・背景はそのままにし、人物の位置や姿勢だけを瞬間的に変更します。",
+    "zh-CN": "保持相机、构图和背景不变，仅瞬间改变人物的位置或姿势。"
+  },
+  "클립 하나만 만듭니다. 이어붙이기가 필요하면 Continuum을 고르세요.": {
+    "en": "Create only a single clip. If you need to stitch them together, choose Continuum.",
+    "ja": "クリップを 1 つだけ作成します。継ぎ接ぎが必要であれば Continuum を選択してください。",
+    "zh-CN": "仅创建一个剪辑。如需连接，请选择 Continuum。"
+  },
+  "프롬프트에 적용했습니다. 디렉터의 \"이전 프롬프트\"로 되돌릴 수 있습니다.": {
+    "en": "Applied to the prompt. You can revert to the Director's \"Previous Prompt\".",
+    "ja": "プロンプトに適用しました。ディレクターの「前のプロンプト」に戻すことができます。",
+    "zh-CN": "已应用到提示词。可通过总监的“上一提示词”恢复。"
+  },
+  "04. 2D 재패니즈 애니 - 2D Japanese Cel Animation": {
+    "en": "04. 2D Japanese Anime - 2D Japanese Cel Animation",
+    "ja": "04. 2D ジャパニーズアニメ - 2D Japanese Cel Animation",
+    "zh-CN": "04. 2D 日式动画 - 2D 日本赛璐珞动画"
+  },
+  "06. 빈티지 필름·다큐 - Vintage Film / Documentary": {
+    "en": "06. Vintage Film / Documentary",
+    "ja": "06. ビンテージフィルム・ドキュメンタリー - Vintage Film / Documentary",
+    "zh-CN": "06. 复古胶片/纪录片 - Vintage Film / Documentary"
+  },
+  "기존 프로젝트는 보존했습니다. 새 버전에서 현재 설정을 확인하고 생성하세요.": {
+    "en": "Existing projects are preserved. Check the current settings in the new version and generate.",
+    "ja": "既存プロジェクトは保存しました。新しいバージョンで現在の設定を確認して生成してください。",
+    "zh-CN": "已保留现有项目。请在新版本中查看当前设置并重新生成。"
+  },
+  "반드시 일어나야 하는 것을 한 줄에 하나씩\n예) 끝까지 같은 자세를 유지한다": {
+    "en": "List required events one per line.\nExample: Maintain the same pose throughout.",
+    "ja": "必ず起きるべきことを、1 行に 1 つずつ記述します。\n例）最後まで同じ姿勢を維持する",
+    "zh-CN": "逐行列出必须发生的事件\n例如：始终保持相同姿势"
+  },
+  "선택한 샷이 삭제되어 해당 레퍼런스의 적용 범위가 전체 샷으로 바뀌었습니다.": {
+    "en": "The selected shot has been deleted, so the reference's scope now applies to all shots.",
+    "ja": "選択したショットが削除されたため、そのリファレンスの適用範囲がすべてのショットに変更されました。",
+    "zh-CN": "所选镜头已删除，因此该参考素材的适用范围已更改为所有镜头。"
+  },
+  "인물의 얼굴·머리·눈·체형만 가져옵니다. 입고 있는 옷은 가져오지 않습니다.": {
+    "en": "Only the character's face, hair, eyes, and body shape are extracted. The clothing they are wearing is not included.",
+    "ja": "人物の顔・髪・目・体型のみを取得します。着用している服は取得しません。",
+    "zh-CN": "仅提取人物的脸部、头发、眼睛和体型，不包含其穿着的衣物。"
+  },
+  "02. 반실사 - Semi-realistic / Stylized Realism": {
+    "en": "02. Semi-realistic - Semi-realistic / Stylized Realism",
+    "ja": "02. 半実写 - セミリアルリスティック / スタイライズドリアリズム",
+    "zh-CN": "02. 半写实/风格化写实 - Semi-realistic / Stylized Realism"
+  },
+  "03. 3D CG 애니메이션 - 3D CG / Feature Animation": {
+    "en": "03. 3D CG Animation - 3D CG / Feature Animation",
+    "ja": "03. 3D CG アニメーション - 3D CG / フィーチャーアニメーション",
+    "zh-CN": "03. 3D CG 动画 - 3D CG / 剧情动画"
+  },
+  "07. 수채화·잉크 - Watercolour / Ink Illustration": {
+    "en": "07. Watercolour/Ink - Watercolour / Ink Illustration",
+    "ja": "07. 水彩画・インク - ウォーターカラー / インクイラストレーション",
+    "zh-CN": "07. 水彩/墨水 - 水彩/墨水插画"
+  },
+  "Studio 서버를 종료할까요? 생성 중인 작업은 ComfyUI에서 계속됩니다.": {
+    "en": "Do you want to stop the Studio server? Any ongoing generation tasks will continue in ComfyUI.",
+    "ja": "Studio サーバーを終了しますか？進行中のタスクは ComfyUI で続行されます。",
+    "zh-CN": "是否要关闭 Studio 服务器？正在进行的任务将在 ComfyUI 中继续执行。"
+  },
+  "이 생성 결과를 휴지통으로 옮길까요? 프로젝트에 별도로 저장한 클립은 유지됩니다.": {
+    "en": "Move this generated result to the trash? Clips saved separately in the project will remain intact.",
+    "ja": "この生成結果をゴミ箱に移動しますか？プロジェクトで別途保存したクリップは維持されます。",
+    "zh-CN": "是否要将此生成结果移至回收站？项目中单独保存的剪辑将予以保留。"
+  },
+  "프로젝트별로 레퍼런스를 보관합니다. 영상 체이닝은 프로덕션에서 별도로 선택합니다.": {
+    "en": "References are stored by project. Video chaining is selected separately in Production.",
+    "ja": "プロジェクト別にリファレンスを保存します。動画の連結生成はプロダクションで別に選択します。",
+    "zh-CN": "按项目分别保存参考素材。视频链将在制作阶段另行选择。"
+  },
+  "하는 쪽이 받는 쪽을 뒤에서 안아 든 채로. 받는 쪽은 등을 맡기고 매달려 있다.": {
+    "en": "The top person holds the bottom person from behind, and the bottom person hangs on with their back against them.",
+    "ja": "行う側が受ける側を背後から抱き上げ、受ける側は背中を預けてぶら下がっています。",
+    "zh-CN": "一方从背后抱住另一方，另一方背对前方并悬挂着。"
+  },
+  "하는 쪽이 받는 쪽을 마주 본 채로 안아 든다. 받는 쪽이 다리와 팔로 매달린다.": {
+    "en": "The top person holds the bottom person face-to-face, and the bottom person hangs on using their arms and legs.",
+    "ja": "行う側が受ける側を向かい合わせに抱き上げ、受ける側は腕と脚でつかまります。",
+    "zh-CN": "一方正面抱住另一方，另一方用双腿和双臂悬挂着。"
+  },
+  "렌즈의 화각을 선택합니다. 원근은 카메라 위치와 함께 결정되며 심도는 별도 설정입니다.": {
+    "en": "Select the lens field of view. Perspective is determined along with the camera position, and depth of field is set separately.",
+    "ja": "レンズの画角を選択します。遠近感はカメラ位置と併せて決まり、被写界深度は別に設定します。",
+    "zh-CN": "选择镜头的视角。透视由相机位置共同决定，景深需另行设置。"
+  },
+  "샷 1의 0초 화면 기준입니다. 생성 노드의 실제 프레임 입력 연결은 별도로 확인하세요.": {
+    "en": "Based on the 0-second frame of Shot 1. Check the actual frame input connection for the generation node separately.",
+    "ja": "ショット1の0秒の画面基準です。生成ノードの実際のフレーム入力接続は別途確認してください。",
+    "zh-CN": "以 Shot 1 的第 0 秒画面为基准。请另行确认生成节点的实际帧输入连接情况。"
+  },
+  "첫 입력 이미지의 비율을 따르고, 크기는 아래 고급 설정의 입력 해상도 기준을 따릅니다.": {
+    "en": "Follow the aspect ratio of the first input image, and follow the input resolution standard in the Advanced Settings below for size.",
+    "ja": "最初の入力画像の縦横比を使用し、サイズは下の詳細設定の入力解像度に従います。",
+    "zh-CN": "遵循首张输入图像的比例，尺寸则依据下方高级设置中的输入分辨率标准。"
+  },
+  "화면에 넣을 부위 — 끈 부위는 브리프에서 빠집니다. 직접 누른 항목은 고정(✎)됩니다.": {
+    "en": "Area to place on screen — tied areas are removed from the brief. Manually selected items are locked (✎).",
+    "ja": "画面に含める部位。オフの部位はブリーフから除外されます。手動で選んだ項目は固定（✎）されます。",
+    "zh-CN": "画面中放置的区域——被绑定的部分将从简报中移除。直接点击的项目将被固定 (✎)。"
+  },
+  "ComfyUI 가 붙들고 있는 모델을 전부 내립니다 (Clear VRAM 과 같은 범위).": {
+    "en": "Release all models held by ComfyUI (including ranges like Clear VRAM).",
+    "ja": "ComfyUIが保持している全モデルをアンロードします（Clear VRAMと同じ範囲）。",
+    "zh-CN": "释放 ComfyUI 当前持有的所有模型（范围与 Clear VRAM 相同）。"
+  },
+  "기본·업스케일 모델 모두 적용 · 미지원 환경은 ComfyUI 기본 attention 사용": {
+    "en": "Apply both base and upscaling models · Use ComfyUI's default attention for unsupported environments",
+    "ja": "基本モデルとアップスケールモデルの両方に適用。非対応環境ではComfyUI標準のattentionを使用。",
+    "zh-CN": "同时应用基础模型和超分辨率模型；在不支持的环境中，将使用 ComfyUI 的默认 attention。"
+  },
+  "마지막 샷의 종료 화면 기준입니다. 생성 노드의 실제 프레임 입력 연결은 별도로 확인하세요.": {
+    "en": "This is based on the end screen of the last shot. Check the actual frame input connection of the generation node separately.",
+    "ja": "最後のショットの終了画面の基準です。生成ノードの実際のフレーム入力接続は別途確認してください。",
+    "zh-CN": "以最后一个镜头的结束画面为基准。请单独确认生成节点的实际帧输入连接情况。"
+  },
+  "업스케일 뒤 refine에만 적용합니다. 원래 워크플로우의 LoRA 스택이 여기에 있었습니다.": {
+    "en": "Apply only to refine after upscaling. The original workflow's LoRA stack was here.",
+    "ja": "アップスケール後のrefineにのみ適用します。元のワークフローのLoRAスタックに相当します。",
+    "zh-CN": "仅在超分辨率后的 refine 阶段应用。原始工作流中的 LoRA 堆栈位于此处。"
+  },
+  "프로젝트를 선택하지 않고 생성해도 여기에 표시됩니다. 확인한 뒤 원하는 프로젝트에 저장하세요.": {
+    "en": "Even if you generate without selecting a project, it will appear here. After confirming, save it to your desired project.",
+    "ja": "プロジェクトを選ばずに生成した結果もここに表示されます。確認後、希望のプロジェクトに保存してください。",
+    "zh-CN": "即使未选择项目而生成的内容也会显示在此处。确认后，请将其保存到目标项目中。"
+  },
+  "노드 출력 캐시 삭제를 켜면 이전 베이스 결과도 사라집니다. 업스케일만 이어 실행하려면 끄세요.": {
+    "en": "If you turn on node output cache deletion, previous base results will also disappear. Turn it off if you want to continue with only upscaling.",
+    "ja": "ノード出力キャッシュを削除すると、前のベース結果も消えます。アップスケールだけを続行する場合はオフにしてください。",
+    "zh-CN": "开启节点输出缓存删除后，之前的基础结果也将消失。若希望仅继续执行超分辨率步骤，请将其关闭。"
+  },
+  "Ollama 가 물고 있는 모델을 전부 내립니다. 다른 서버라 ComfyUI 는 존재조차 모릅니다.": {
+    "en": "Unloads all models that Ollama is currently using. Since it's a different server, ComfyUI doesn't even know about them.",
+    "ja": "Ollamaが保持している全モデルをアンロードします。別サーバーのためComfyUIからは管理されません。",
+    "zh-CN": "Ollama 正在加载的所有模型将全部卸载。由于是另一台服务器，ComfyUI 甚至都未曾存在过。"
+  },
+  "구간 편집은 이어보기와 저장 영상에 적용됩니다. 다음 생성은 선택한 원본 클립의 끝에서 이어집니다.": {
+    "en": "Interval editing applies to continue viewing and saving video. The next generation will continue from the end of the selected original clip.",
+    "ja": "区間編集は連続再生と保存動画に適用されます。次の生成は選択した元クリップの末尾から続きます。",
+    "zh-CN": "区间编辑适用于“继续观看”和“保存视频”。下一次生成将从所选原始剪辑的末尾开始接续。"
+  },
+  "지금 프롬프트를 두고 대화합니다. 무엇이 이상한지 적으면 원인을 설명하고 고친 프롬프트를 제안합니다.": {
+    "en": "Chat with the current prompt. If you write down what seems strange, it will explain the cause and suggest a corrected prompt.",
+    "ja": "現在のプロンプトについて相談できます。問題点を入力すると、原因の説明と修正案が提示されます。",
+    "zh-CN": "现在与当前的提示词进行对话。写下哪里奇怪，它将解释原因并提出修正后的提示词。"
+  },
+  "카메라가 그 인물의 눈입니다. 그 인물은 형체로 보이지 않고, 자기 시야에 들어오는 자기 몸만 보입니다.": {
+    "en": "The camera is that character's eyes. The character doesn't appear as a form, but only sees their own body within their field of view.",
+    "ja": "カメラがその人物の目になります。本人は外側から描かれず、自分の視野に入る身体だけが見えます。",
+    "zh-CN": "相机就是那个人物的眼睛。那个人物没有实体形态，只能看到自己视野中出现的自己的身体。"
+  },
+  "Director 노드가 여러 개일 때만 필요합니다. 비워두면 하나뿐인 Director를 자동으로 찾습니다.": {
+    "en": "Only required when there are multiple Director nodes. If left empty, the single Director is automatically found.",
+    "ja": "Directorノードが複数ある場合のみ必要です。空欄なら唯一のDirectorを自動検出します。",
+    "zh-CN": "仅在存在多个 Director 节点时需要设置此项。留空时会自动查找唯一的 Director 节点。"
+  },
+  "MiniMaxH3Director에서 mode·길이·이미지를 그대로 읽어옵니다. 추가 배선이 필요 없습니다.": {
+    "en": "Reads mode, length, and image directly from MiniMaxH3Director. No additional wiring is required.",
+    "ja": "MiniMaxH3Directorからmode・長さ・画像をそのまま読み取ります。追加の接続は不要です。",
+    "zh-CN": "MiniMaxH3Director 将直接读取 mode、长度和图像，无需额外连线。"
+  },
+  "에셋 종류: actors / costumes / scenes / props / layouts / voices": {
+    "en": "Asset types: actors / costumes / scenes / props / layouts / voices",
+    "ja": "アセットの種類：actors / costumes / scenes / props / layouts / voices",
+    "zh-CN": "资产类型：角色 / 服装 / 场景 / 道具 / 布局 / 声音"
+  },
+  "왼쪽 결과를 골라 추가하거나 기존 이미지를 업로드하세요. 표시된 순서가 image1, image2가 됩니다.": {
+    "en": "Select the result on the left to add or upload an existing image. The displayed order will become image1, image2.",
+    "ja": "左側の結果を選択して追加するか、既存の画像をアップロードしてください。表示された順序が image1、image2 になります。",
+    "zh-CN": "从左侧结果中选择并添加，或上传现有图像。显示的顺序将依次为 image1、image2。"
+  },
+  "용도를 지정하지 않습니다. 연결된 이미지 입력은 그대로 사용됩니다. 제외하려면 실제 입력 연결을 제거하세요.": {
+    "en": "Does not specify a purpose. Connected image inputs are used as-is. To exclude, remove the actual input connection.",
+    "ja": "用途を指定しません。接続された画像入力はそのまま使用されます。除外するには実際の入力接続を削除してください。",
+    "zh-CN": "不指定用途。连接的图像输入将原样使用。若要排除，请移除实际的输入连接。"
+  },
+  "장소의 실제 공간 구조·소품 배치·광원을 참조합니다. 화면 좌표와 원근은 각 샷의 카메라에서 다시 정합니다.": {
+    "en": "References the real-world spatial structure, prop placement, and lighting of the location. Screen coordinates and perspective are redefined from each shot's camera.",
+    "ja": "場所の実際の空間構造・小物配置・光源を参照します。画面座標と遠近は、各ショットのカメラで再設定します。",
+    "zh-CN": "参考场景的实际空间结构、道具布置和光源。屏幕坐标和透视将在每个镜头的相机中重新确定。"
+  },
+  "작업이 없을 때 ComfyUI 모델·격리 워커·Ollama·캐시를 정리합니다. 실행 중인 작업은 먼저 취소하세요.": {
+    "en": "When no tasks are running, cleans up ComfyUI models, isolated workers, Ollama, and cache. Cancel any running tasks first.",
+    "ja": "作業がない場合、ComfyUI モデル・隔離ワーカー・Ollama・キャッシュを整理します。実行中の作業はまずキャンセルしてください。",
+    "zh-CN": "当没有任务时，清理 ComfyUI 模型、隔离工作区、Ollama 和缓存。请先取消正在运行的任务。"
+  },
+  "금지의 반대입니다. 빠지면 안 되는 사건을 한 줄에 하나씩 적으면 빠뜨리지 말라는 지시와 함께 브리프에 들어갑니다.": {
+    "en": "The opposite of a prohibition. Write down events that must not be missed one by one, and they will be included in the brief along with instructions not to forget them.",
+    "ja": "これは禁止事項の逆です。一行ずつ書き出していくことで外さないようにという指示を、プロンプトに含めます。",
+    "zh-CN": "这是禁制的反面。将必须包含的事件逐行列出，即可在简报中加入“不要忘记”的指示。"
+  },
+  "실행 노드 출력 캐시를 비웁니다. 지금 돌고 있는 그래프를 깨지 않도록, 이 실행이 끝난 직후에 비워지게 예약합니다.": {
+    "en": "Clears the execution node output cache. Scheduled to clear immediately after this execution finishes so as not to break the currently running graph.",
+    "ja": "実行ノードの出力キャッシュをクリアします。現在動作中のグラフを壊さないよう、この実行が完了した直後にクリアされるように予約します。",
+    "zh-CN": "清空运行节点的输出缓存。为避免打断当前运行的图，已安排在此次运行结束后立即清空。"
+  },
+  "무엇을 만들지 자연어로 쓰세요. 한국어 가능.\n예) 비 오는 새벽 골목, 우산 든 여자가 뛰어가다 멈춰서 뒤를 돌아본다": {
+    "en": "Write in natural language what you want to create. Korean supported.\nExample: A woman with an umbrella running down a rainy alley at dawn, then stopping and looking back.",
+    "ja": "何を作るかを自然言語で記述してください。韓国語も可能です。\n例）雨の降る早朝の路地、傘を持った女性が走って止まり、後ろを振り返る",
+    "zh-CN": "请用自然语言描述要制作的内容。支持韩语。\n例如：雨中的清晨小巷，撑着伞的女子奔跑后停下，回头张望"
+  },
+  "Qwen Image 2.1과 호환되는 모델·인코더·VAE 조합을 선택하세요. 출력 비율은 첫 입력 이미지에서 가져옵니다.": {
+    "en": "Select a model/encoder/VAE combination compatible with Qwen Image 2.1. The output ratio is taken from the first input image.",
+    "ja": "Qwen Image 2.1 と互換性のあるモデル・エンコーダー・VAE の組み合わせを選択してください。出力比率は最初の入力画像から取得します。",
+    "zh-CN": "选择与 Qwen Image 2.1 兼容的模型、编码器及 VAE 组合。输出比例将从第一张输入图像中获取。"
+  },
+  "색 보정은 첫 프로젝트 클립을 기준으로 밝기·채도를 맞춥니다. 최종 프레임 전체와 다음 클립용 latent에 적용합니다.": {
+    "en": "Color correction adjusts brightness and saturation based on the first project clip. Applies to the entire final frame and the latent for the next clip.",
+    "ja": "色補正は、プロジェクトの最初のクリップを基準に明るさと彩度を合わせます。最終フレーム全体と次のクリップ用の潜在空間にも適用します。",
+    "zh-CN": "色彩校正将以第一个项目剪辑为基准，调整亮度和饱和度。最终应用于整个最终帧和下一个剪辑的潜在表示（latent）。"
+  },
+  "쓰기 전에 이미지를 한 장씩 따로 판독합니다. 이미지 1장당 Ollama 호출이 1회 늘지만 묘사 누락이 크게 줄어듭니다.": {
+    "en": "Reads images one by one separately before writing. Each image increases the number of Ollama calls by 1, but significantly reduces description omissions.",
+    "ja": "書き込む前に、画像を一枚ずつ個別に読み込みます。画像 1 枚あたり Ollama の呼び出しが 1 回増えますが、描写の欠落は大幅に減少します。",
+    "zh-CN": "在写入之前，会单独逐张读取图像。每增加一张图像，Ollama 调用次数会增加 1 次，但能大幅减少描述遗漏。"
+  },
+  "가슴과 유두의 크기·모양·간격, 유륜과 유두의 색과 모양을 이 이미지에서 가져옵니다. 그 외에는 아무것도 가져오지 않습니다.": {
+    "en": "Extracts breast and nipple size, shape, spacing, areola and nipple color and shape from this image. Nothing else is extracted.",
+    "ja": "胸と乳首のサイズ・形状・間隔、乳輪と乳首の色と形状をこの画像から取得します。それ以外は何も取得しません。",
+    "zh-CN": "从该图像中提取胸部和乳头的大小、形状、间距，以及乳晕和乳头的颜色与形状。除此之外不再提取任何其他内容。"
+  },
+  "한국어가 섞여 나오면 다시 생성하고, 그래도 남으면 번역 패스를 돌립니다. <d> 안의 대사와 \"화면 텍스트\"는 원문 유지.": {
+    "en": "If Korean appears mixed in, regenerate; if it remains, run the translation pass. Keep dialogue inside `<d>` and \"screen text\" as original.",
+    "ja": "韓国語が混ざって出力された場合は再度生成し、それでも残っている場合は翻訳パスを回します。<d> 内のセリフと「画面テキスト」は原文のままにします。",
+    "zh-CN": "如果混入了韩语则重新生成，若仍然存在则再次运行翻译流程。<d>内的对话和“屏幕文本”保持原文不变。"
+  },
+  "파일을 보관하므로 디스크 용량은 유지됩니다. 삭제 뒤 같은 프로젝트를 변경했다면 충돌 방지를 위해 복구가 제한될 수 있습니다.": {
+    "en": "Since files are retained, disk space is preserved. If you modify the same project after deletion, recovery may be limited to prevent conflicts.",
+    "ja": "ファイルは保持されるため、ディスク使用量は減りません。削除後に同じプロジェクトを変更した場合、競合防止のため復元が制限されることがあります。",
+    "zh-CN": "由于会保留文件，因此磁盘容量也会保持不变。如果在删除后修改了同一项目，为避免冲突，恢复功能可能会受到限制。"
+  },
+  "Continuum은 refine이 생성 때와 같은 모델 상태를 그대로 물려받습니다. 업스케일 전용 LoRA는 적용되지 않습니다.": {
+    "en": "Continuum inherits the exact model state as when refine was generated. Upscale-only LoRAs are not applied.",
+    "ja": "Continuumのrefineは生成時と同じモデル状態を引き継ぎます。アップスケール専用のLoRAは適用されません。",
+    "zh-CN": "Continuum 会继承 refine 在生成时相同的模型状态。专用的 Upscale LoRA 不会生效。"
+  },
+  "REF2VA 전용. I2VA·L2VA·FL2VA는 각각 첫 1장 / 마지막 1장 / 첫+마지막 2장으로 고정이라 영향이 없습니다.": {
+    "en": "REF2VA only. I2VA, L2VA, and FL2VA are fixed to the first 1 frame, last 1 frame, and first+last 2 frames respectively, so they have no effect.",
+    "ja": "REF2VA専用です。I2VA・L2VA・FL2VAは、それぞれ最初の1枚・最後の1枚・最初と最後の2枚に固定されるため影響しません。",
+    "zh-CN": "仅限 REF2VA 使用。I2VA、L2VA 和 FL2VA 分别固定为第一张/最后一张/首尾共两张，因此影响不大。"
+  },
+  "얼굴 생김새를 참조합니다. 화풍은 명시한 Style을 우선하며 Auto일 때 참조 작화를 사용합니다. 몸·의상·배경은 제외합니다.": {
+    "en": "Refers to facial features. Art style prioritizes the specified Style, and uses the reference artwork when set to Auto. Body, clothing, and background are excluded.",
+    "ja": "顔の特徴を参照します。画風は指定したStyleを優先し、Autoの場合は参照画像の画風を使用します。身体・衣装・背景は含みません。",
+    "zh-CN": "参考面部特征。画风优先使用指定的 Style，若为 Auto 则参考示例画作。身体、服装和背景除外。"
+  },
+  "FOLLOW_DIRECTOR = Director의 mode를 그대로 사용. AUTO = 연결된 이미지로 판단. 나머지는 강제 지정.": {
+    "en": "FOLLOW_DIRECTOR = Uses Director's mode as-is. AUTO = Determines based on connected images. Others are forced assignments.",
+    "ja": "FOLLOW_DIRECTORはDirectorのmodeをそのまま使用します。AUTOは接続画像から判断し、他の選択肢はモードを固定します。",
+    "zh-CN": "FOLLOW_DIRECTOR = 直接使用 Director 的模式。AUTO = 根据连接的图像进行判断。其余情况为强制指定。"
+  },
+  "Ollama에 보내기 전 긴 변 크기(px). 어둡거나 디테일이 많은 그림은 1024에서 뭉개집니다. 색·명암은 건드리지 않습니다.": {
+    "en": "Long edge size (px) before sending to Ollama. Dark or detail-heavy images are compressed from 1024. Color and contrast remain untouched.",
+    "ja": "Ollamaに送信する画像の長辺サイズ（px）です。暗い画像や細部の多い画像は1024では潰れる場合があります。色と明暗は変更しません。",
+    "zh-CN": "发送给 Ollama 前的长边尺寸 (px)。较暗或细节丰富的图像将在 1024 处被压缩。颜色和明暗保持不变。"
+  },
+  "영상에서 실제로 들릴 대사의 언어입니다. 카드에 다른 언어로 써도 이 언어로 번역되어 <d>[언어] ...</d> 안에 들어갑니다.": {
+    "en": "The language of the dialogue that will actually be heard in the video. Even if written in another language on the card, it will be translated into this language and placed inside <d>[Language]...</d>.",
+    "ja": "動画で実際に話すセリフの言語です。カードを別の言語で書いても、ここで指定した言語に翻訳して <d>[言語] ...</d> に入れます。",
+    "zh-CN": "视频中实际听到的对话语言。即使卡片上写的是其他语言，也会翻译为此语言并放入 <d>[语言]...</d> 中。"
+  },
+  "순서를 강제하고 싶을 때만 연결하세요. 무엇을 연결하든 그대로 통과시킵니다 — 이 노드가 그 앞이 끝난 뒤에 돌게 만드는 용도입니다.": {
+    "en": "Connect only when you want to force the order. Whatever is connected passes through unchanged — this node is used to route execution after the preceding steps are complete.",
+    "ja": "実行順を指定する場合のみ接続してください。入力はそのまま通過します。このノードを前段の終了後に実行させるための接続です。",
+    "zh-CN": "仅在需要强制顺序时连接。无论连接什么，都会原样通过——此节点用于确保在前一个步骤完成后才执行当前步骤。"
+  },
+  "인물의 정체성·의상을 참조합니다. 어깨·뒤통수 전경 배치는 해당 어깨너머 샷에만 적용하며, 다른 샷의 얼굴 표시를 제한하지 않습니다.": {
+    "en": "Refers to character identity and clothing. Shoulder/back-of-head foreground arrangement applies only to the corresponding over-the-shoulder shot and does not restrict face display in other shots.",
+    "ja": "人物のアイデンティティや衣装を参照します。肩・後頭部の前景配置は、該当するオーバーザショルダーショットにのみ適用され、他のショットでの顔の表示を制限しません。",
+    "zh-CN": "参考人物的身份和服装。肩部/后脑勺的前景布局仅应用于该肩后视角的镜头，不会限制其他镜头中的人物面部显示。"
+  },
+  "끄면 오디오 레퍼런스는 목소리 음색만 빌려줍니다(MMH3 Studio 전용 노드). 켜면 그 소리가 최종 사운드트랙으로 그대로 재생됩니다.": {
+    "en": "When off, the audio reference borrows only the voice timbre (MMH3 Studio exclusive node). When on, that sound plays directly as the final soundtrack.",
+    "ja": "オフにすると、オーディオリファレンスは声のトーンのみを借用します（MMH3 Studio 専用ノード）。オンにすると、その音がそのまま最終サウンドトラックとして再生されます。",
+    "zh-CN": "关闭时，音频参考仅借用声音音色（MMH3 Studio 专用节点）。开启时，该声音将原样播放为最终音轨。"
+  },
+  "전체 클립을 한 실행에서 만듭니다. 이어받은 앞부분은 마스크로 보호되고, 고화질 refine이 각 클립의 조건·마스크를 그대로 이어받습니다.": {
+    "en": "Creates all clips in a single run. The inherited front portion is protected by a mask, and the high-quality refinement continues each clip's conditions and masks exactly as they are.",
+    "ja": "すべてのクリップを 1 つの実行で生成します。継承された前半部分はマスクで保護され、高画質リファインは各クリップの条件・マスクをそのまま継承します。",
+    "zh-CN": "在一次运行中生成整个剪辑。继承的前半部分由蒙版保护，高清细化将保留每个剪辑的条件和蒙版。"
+  },
+  "인물의 정체성·의상을 참조합니다. 자기 시야 제한은 이 인물을 POV 대상으로 지정한 샷에만 적용하며, 다른 샷에서는 보이는 외형을 사용합니다.": {
+    "en": "References the character's identity and attire. The self-view restriction applies only to shots where this character is designated as the POV target, while other shots use the visible appearance.",
+    "ja": "人物のアイデンティティや衣装を参照します。自己視野制限は、この人物を POV 対象として指定したショットにのみ適用され、他のショットでは見える外観を使用します。",
+    "zh-CN": "参考人物的身份和服装。自我视野限制仅应用于将该人物指定为 POV 目标的镜头，其他镜头则使用可见的外观。"
+  },
+  "고화질 마감을 켜면 이어하기 저장(Run Storage)은 자동으로 꺼집니다. 제작자 구현이 저장된 클립과 새 상태를 섞지 못하게 막기 때문입니다.": {
+    "en": "When high-quality finishing is turned on, Run Storage is automatically turned off. This prevents the creator's implementation from mixing saved clips with the new state.",
+    "ja": "高画質仕上げをオンにすると、継承保存（Run Storage）は自動的にオフになります。これは、クリエイター実装が保存されたクリップと新しい状態を混ざらないようにするためです。",
+    "zh-CN": "开启高清收尾时，继承存储（Run Storage）会自动关闭。这是为了防止创作者实现与已保存的剪辑和新状态混合。"
+  },
+  "영상 · 레퍼런스 이미지 · LLM 작업이 시작될 때 아래 설정으로 먼저 정리합니다. LLM 작업 때는 곧 쓸 Ollama 모델은 내리지 않습니다.": {
+    "en": "First, organize using the settings below when starting video, reference image, or LLM tasks. During LLM tasks, do not unload the Ollama model you are about to use.",
+    "ja": "動画・リファレンス画像・LLM 作業を開始する前に、以下の設定でまず整理します。LLM 作業時には、すぐに使用する Ollama モデルは降下させません。",
+    "zh-CN": "在开始视频、参考图像和 LLM 作业时，请先按以下设置整理。进行 LLM 作业时，即将使用的 Ollama 模型不会卸载。"
+  },
+  "목표 단어 수 상한입니다. 최소 분량을 강제하지 않습니다. 핵심 행동·카메라·대사·참조 연결을 우선하며 필요한 내용은 상한 때문에 삭제하지 않습니다.": {
+    "en": "This is the target word count upper limit. It does not enforce a minimum length. Prioritize core actions, camera, dialogue, and reference connections, and do not delete necessary content due to the upper limit.",
+    "ja": "目標単語数の上限です。最小分量を強制しません。主要なアクション・カメラ・セリフ・参照接続を優先し、必要な内容は上限のために削除しません。",
+    "zh-CN": "目标词数上限。不强制最小篇幅。优先处理核心动作、镜头、对白和参考连接，因此不会因上限而删除必要内容。"
+  },
+  "이 버튼은 고정 seed에서도 현재 이미지를 다시 읽습니다. 영상 생성·업스케일은 현재 프롬프트를 그대로 사용하며 LLM을 자동 재실행하지 않습니다.": {
+    "en": "This button re-reads the current image even with a fixed seed. Video generation and upscaling use the current prompt as-is and do not automatically re-run the LLM.",
+    "ja": "このボタンは固定シードでも現在の画像を読み直します。動画生成・アップスケールは現在のプロンプトをそのまま使用し、LLM を自動で再実行しません。",
+    "zh-CN": "即使在使用固定 seed 时，此按钮也会重新读取当前图像。视频生成和超分辨率处理将直接使用当前提示词，而不会自动重新运行 LLM。"
+  },
+  "Enter: 첫 후보 선택 · Shift+Enter: 입력한 그대로 추가. 고른 캐릭터 뒤에 작품 태그가 자동으로 붙고, 괄호는 Anima 형식으로 바뀝니다.": {
+    "en": "Enter: Select first candidate · Shift+Enter: Add exactly as entered. A work tag is automatically appended after the selected character, and parentheses are converted to Anima format.",
+    "ja": "Enter: 最初の候補を選択 · Shift+Enter: 入力したまま追加。選択したキャラクターの後ろに作品タグが自動的に付与され、括弧は Anima 形式に変換されます。",
+    "zh-CN": "Enter：选择第一个候选项 · Shift+Enter：按原样添加输入内容。所选角色后会自动附加作品标签，括号将转换为 Anima 格式。"
+  },
+  "파일명 순서로 이미지 1을 교체하고 LLM → 영상을 한 장씩 생성합니다. 나머지 레퍼런스는 유지합니다. 프로젝트 사용 시 클립 승인 후 다음 장으로 진행합니다.": {
+    "en": "Replace Image 1 in filename order and generate images one by one via LLM → Video. Keep the remaining references. When using a project, proceed to the next scene after approving the clip.",
+    "ja": "ファイル名の順序でイメージ 1 を置き換え、LLM → ビデオを一枚ずつ生成します。残りのリファレンスは維持します。プロジェクト使用时はクリップ承認後に次のシーンへ進みます。",
+    "zh-CN": "按文件名顺序替换图像 1，并依次生成 LLM → 视频。保留其余参考图像。在项目使用时，需先批准剪辑，然后进入下一帧。"
+  },
+  "카메라는 장면 속 인물의 눈이 아닌 외부 시점입니다. 인물의 시선은 내용에서 정합니다. 관찰자를 실제로 세우려면 '1인칭 POV' + 대상 '지켜보는 제3자' 를 쓰세요.": {
+    "en": "The camera represents an external viewpoint, not the eyes of a character within the scene. The character's gaze is determined by the content. To establish an actual observer, use 'First-person POV' plus a target 'Third-party watcher'.",
+    "ja": "カメラはシーン内の人物の目ではなく、外部視点です。人物の視線は内容から決定します。観察者を実際に設定するには、「1 人称 POV」＋対象「見ている第三者」を使用してください。",
+    "zh-CN": "镜头代表的是外部视角，而非场景中人物的眼睛。人物的视线应在内容中确定。若要实际建立观察者，请使用“第一人称 POV”+ 对象“被观察的第三人”。"
+  },
+  "성기(음경 또는 질)의 모양·크기·색과 주변 체모를 이 이미지에서 가져옵니다. 프롬프트에도 그 단어를 그대로 쓰고 완곡어로 바꾸지 않습니다. 그 외에는 아무것도 가져오지 않습니다.": {
+    "en": "Extract the shape, size, color of the genitals (penis or vagina), and surrounding body hair from this image. Use those exact words in the prompt without softening them. Do not extract anything else.",
+    "ja": "生殖器（陰茎または膣）の形状・サイズ・色と周囲の体毛をこのイメージから取得します。プロンプトでもその言葉をそのまま使い、婉曲表現に変えません。それ以外は何も持ち込まないでください。",
+    "zh-CN": "从该图像中提取生殖器（阴茎或阴道）的形状、大小、颜色及周围体毛。在提示词中也直接使用这些单词，而不改为委婉语。除此之外不再提取任何其他内容。"
+  },
+  "다른 체크포인트를 고를 때 모델 계열·VAE·LoRA도 함께 맞춰 주세요. Detailer는 선택한 검출 모델의 영역을 보정합니다. person은 인물 전체, face는 얼굴입니다.": {
+    "en": "When choosing a different checkpoint, also match the model family, VAE, and LoRA. The Detailer corrects the area of the selected detection model. 'person' refers to the entire character, while 'face' refers only to the face.",
+    "ja": "他のチェックポイントを選ぶ際は、モデルファミリー・VAE・LoRA も合わせて調整してください。Detailer は選択した検出モデルの領域を補正します。「person」は人物全体、「face」は顔です。",
+    "zh-CN": "选择其他检查点时，请同时匹配模型系列、VAE 和 LoRA。Detailer 会校正所选检测模型的区域。person 指整个人物，face 指脸部。"
+  },
+  "완성된 H3 프롬프트를 통째로 붙여넣으세요.\n샷 구성·디테일 밀도·연속성 습관만 따라 씁니다.\n인물·장소·대사·타임스탬프는 복사하지 않습니다.\n쓸 때는 shot_count 를 반드시 지정하세요.": {
+    "en": "Paste the completed H3 prompt in its entirety.\nFollow only the shot composition, detail density, and continuity habits.\nDo not copy characters, locations, dialogue, or timestamps.\nAlways specify 'shot_count' when using it.",
+    "ja": "完成した H3 プロンプトをそのまま貼り付けてください。\nショット構成・ディテール密度・連続性の習慣だけを模倣して書きます。\n人物・場所・セリフ・タイムスタンプはコピーしません。\n使用する際は必ず「shot_count」を指定してください。",
+    "zh-CN": "将完整的 H3 提示词全部粘贴进去。\n只需遵循“镜头构成”、“细节密度”和“连续性”的习惯。\n不要复制人物、地点、对话和时间戳。\n使用时务必指定 shot_count。"
+  },
+  "전개 조합을 굴리는 시드입니다. LLM seed 와 별개입니다 — LLM seed 는 문장 표현만 바꾸지만 이 값은 브리프 내용 자체를 바꿉니다. 같은 카드로 다른 전개를 뽑고 싶으면 이걸 올리세요.": {
+    "en": "This is the seed for rolling out plot combinations. It is separate from the LLM seed—the LLM seed only changes sentence phrasing, while this value changes the brief content itself. Use this if you want to draw different plots with the same card.",
+    "ja": "展開の組み合わせを回すシードです。LLM seed とは別物です——LLM seed は文句表現だけを替えるが、この値はブリーフの内容そのものを変えます。同じカードで別の展開を引き出したい場合はこれを上げてください。",
+    "zh-CN": "这是用于组合情节的种子。它与 LLM seed 是分开的——LLM seed 仅改变句子表达，而这个值会直接改变简报内容。如果想用同一张卡片抽取不同的情节，请调高此值。"
+  },
+  "comfy-env 격리 워커를 종료합니다. SAM3 처럼 자기 파이썬 환경에서 도는 노드팩은 별도 프로세스라 Clear VRAM 이 못 봅니다. 다시 쓰면 자동으로 재기동되지만 기동 시간이 다시 듭니다.": {
+    "en": "Terminate the comfy-env isolated worker. Node packs running in their own Python environment, like SAM3, run as separate processes and are not visible to Clear VRAM. If you restart them, they automatically reboot, but it takes additional startup time.",
+    "ja": "comfy-env 隔離ワーカーを終了します。SAM3 のように自分の Python 環境で走るノードパックは別プロセスなので Clear VRAM は見られません。書き直すと自動的に再起動されますが、起動時間がまたかかります。",
+    "zh-CN": "停止 comfy-env 隔离工作进程。像 SAM3 这样在自身 Python 环境中运行的节点包属于独立进程，Clear VRAM 无法直接看到它们。重新运行会自动重启，但会再次消耗启动时间。"
+  },
+  "지난 실행에서 남은 격리 워커까지 죽입니다. ComfyUI 를 재시작해도 살아남는 경우가 있습니다. 명령줄이 comfyui_pvenv_ + persistent_worker.py 인 프로세스만 대상입니다.": {
+    "en": "Kill all remaining isolated workers from the previous run. Some may survive even after restarting ComfyUI. The target processes are those with command lines containing 'comfyui_pvenv_' and 'persistent_worker.py'.",
+    "ja": "前回の実行から残った隔離ワーカーも終了します。ComfyUIの再起動後も残る場合があります。コマンドラインに comfyui_pvenv_ と persistent_worker.py があるプロセスだけが対象です。",
+    "zh-CN": "终止上一次运行中残留的所有隔离工作进程。即使重启 ComfyUI，某些情况下它们仍可能存活。命令行中包含 `comfyui_pvenv_` 和 `persistent_worker.py` 的进程才是目标。"
+  },
+  "전개에서 움직일 사람입니다. '랜덤' 이면 행위 줄의 참가자 중에서 시드로 뽑습니다 — 한 칸을 비워두면 후보가 한 명뿐이라 항상 그 사람만 나옵니다. 특정 인물을 고르면 행위 줄에 없어도 그 사람이 움직입니다.": {
+    "en": "The character who moves in the progression. If set to 'Random', a participant from the action line is selected as the seed — if one slot is left empty, only that candidate remains, so they always appear. If a specific character is chosen, they will move even if not present in the action line.",
+    "ja": "展開で動く人物です。「ランダム」は動作行の参加者からシードで選びます。一方が空欄なら候補は1人だけです。人物を指定すると、動作行に含まれなくてもその人物が動きます。",
+    "zh-CN": "这是情节中行动的角色。如果设为“随机”，则从行为行参与者中通过种子选择——若留空一个位置，候选者仅剩一人，因此总是该人出现。若选定特定人物，即使其行为行未列出，该人物也会行动。"
+  },
+  "이미지 판독만 이 모델로 합니다. 판독이 끝나면 즉시 언로드되므로 두 모델이 동시에 올라가지 않습니다. 다른 모델을 고르면 작성 단계에는 이미지를 보내지 않고 판독 결과만 넘깁니다 — 작성 모델은 비전이 없어도 됩니다.": {
+    "en": "Use this model for image reading only. Once reading is complete, it unloads immediately, so both models do not load simultaneously. If another model is selected, images are sent only during the generation step, and only the reading result is passed through — the generation model does not need vision capabilities.",
+    "ja": "このモデルは画像の読み取りだけに使用し、終了後すぐにアンロードします。2つのモデルは同時にロードされません。別モデルを選ぶと、作成段階には画像ではなく読み取り結果だけを渡すため、作成モデルに画像認識機能は不要です。",
+    "zh-CN": "仅使用此模型进行图像读取。读取完成后会立即卸载，因此两个模型不会同时加载。若选择其他模型，则在编写阶段不发送图像，仅传递读取结果——编写模型无需具备视觉能力。"
+  },
+  "이어받은 앞부분을 저화질 생성 때부터 마스크로 잠급니다. 업스케일 + refine을 하면 그 구간을 앞 클립의 완성본으로 교체하고 다시 생성하지 않습니다. 잠긴 구간 안에 있는 첫 프레임·마지막 프레임 이미지는 조건에서 자동으로 뺍니다.": {
+    "en": "Lock the inherited front portion as a mask from the low-quality generation stage. When upscaling and refining, that segment is replaced with the completed version of the previous clip without regenerating it. The first and last frame images within the locked segment are automatically removed based on conditions.",
+    "ja": "引き継いだ冒頭を低解像度の生成段階からマスクで固定します。アップスケール＋refineでは、その区間を前クリップの完成結果に置き換えて再生成しません。固定区間に入る最初・最後のフレーム画像は条件から自動的に除外します。",
+    "zh-CN": "从低质量生成阶段开始，将继承的前半部分通过掩码锁定。进行 upscale（放大）+ refine（细化）时，会用前一个 clip 的完成版本替换该区间，而无需重新生成。锁定的区间内的第一帧和最后一帧图像会根据条件自动移除。"
+  },
+  "장르입니다. 화풍(style)이 매체를 정하고 이쪽이 장르를 정합니다 — '2D 애니' + '그라비아 화보' 는 애니 화보가 됩니다. 브리프 앞에 장르 이름 한 줄이 들어가고, 명시한 설정은 유지하고,비어 있는 선택만 장르에 맞춰 채웁니다.": {
+    "en": "This is the genre. The art style (style) determines the medium, while this field determines the genre — for example, '2D Anime' + 'Gravure Magazine' results in an anime magazine style. A single line with the genre name is added before the brief; specified settings are maintained, and only empty selections are filled according to the genre.",
+    "ja": "ジャンルを指定します。styleは表現媒体、こちらはジャンルを決めます。例えば2Dアニメとグラビアを組み合わせるとアニメのグラビアになります。ブリーフ冒頭にジャンル名を追加し、明示された設定を保ちながら未指定項目だけを補います。",
+    "zh-CN": "这是类型（Genre）。画风（style）决定媒介，而此项决定类型——例如“2D 动画”+“偶像写真”将生成“动画写真”。简报前需添加一行类型名称，保留已明确设定的内容，仅根据类型填充空白选项。"
+  },
+  "이 클립이 이전 클립을 이어받을 때 켭니다. 겹치는 앞부분을 다시 서술하지 않고, 진행 중이던 동작을 이어서 시작하고, 동작이 진행 중인 채로 끝내라는 블록이 붙습니다. H3 Project Hub 의 chain_active 를 연결하면 자동입니다.": {
+    "en": "Enable this when the current clip continues from the previous one. Instead of re-describing the overlapping front portion, a block is added to continue and start the ongoing action, and finish while the action is still in progress. If connected to `chain_active` in H3 Project Hub, it works automatically.",
+    "ja": "前のクリップを引き継ぐ場合にオンにします。重複する冒頭を再説明せず、進行中の動作を続けて開始し、動作の途中で終える指示を追加します。H3 Project Hubのchain_activeを接続すると自動になります。",
+    "zh-CN": "当此片段接续上一片段时启用。它会附加一个指示块，要求在不重复描述重叠的前半部分的情况下，继续开始正在进行的动作，并在动作仍在进行时结束。如果连接到 H3 Project Hub 的 chain_active，则为自动模式。"
+  },
+  "판독할 이미지 수를 따로 제한합니다. 0 = max_ref_images 를 그대로 사용. 판독은 1장당 Ollama 호출 1회라, 인물 레퍼런스만 읽고 배경은 건너뛰고 싶을 때 낮춰 잡으세요. 앞쪽 N장을 읽고 나머지는 모델에는 그대로 전달됩니다.": {
+    "en": "Separately limit the number of images to read. Setting it to 0 uses `max_ref_images` as is. Since reading involves one Ollama call per image, lower this value if you want to read only character references and skip the background. The first N images are read, and the rest are passed through to the model unchanged.",
+    "ja": "読み取る画像数を別に制限します。0はmax_ref_imagesを使用します。画像1枚につきOllamaを1回呼び出すため、人物だけ読み取り背景を省く場合は値を下げてください。先頭N枚を読み取り、残りもモデルへの参照入力として渡します。",
+    "zh-CN": "单独限制要读取的图像数量。0 = 直接使用 max_ref_images。由于每张图像对应一次 Ollama 调用，如果您只想读取人物参考而跳过背景，请将此值调低。系统将读取前 N 张图像，并将剩余部分原样传递给模型。"
+  },
+  "Ollama가 모델을 VRAM에 붙들고 있는 시간. 기본 '0' 은 응답 직후 해제입니다 — H3 본체가 VRAM을 거의 다 쓰기 때문에, LLM이 남아 있으면 H3가 PCIe 스트리밍으로 밀려 크게 느려집니다. LLM만 반복해서 돌릴 때만 올려 잡으세요.": {
+    "en": "The duration Ollama keeps the model in VRAM. The default '0' releases it immediately after response — since H3 itself uses almost all VRAM, if the LLM remains loaded, H3 gets pushed back by PCIe streaming and slows down significantly. Raise this value only when running the LLM repeatedly.",
+    "ja": "OllamaがモデルをVRAMに保持する時間です。標準の0は応答直後に解放します。H3はVRAMを多く使うため、LLMが残るとPCIe転送により大幅に遅くなる場合があります。LLMだけを繰り返し使う場合に値を増やしてください。",
+    "zh-CN": "Ollama 保持模型在 VRAM 中的时间。默认值为 '0'，表示在响应后立即释放——由于 H3 主体几乎占用了全部 VRAM，如果 LLM 仍保留在内存中，H3 会被 PCIe 流式传输挤占，导致显著变慢。仅在需要反复运行 LLM 时才调高此值。"
+  },
+  "샷 중간에 '다음 동작' 을 일으킵니다. 동작 이름을 정해주는 대신 누가·어느 부위로·어디를 향해만 지정하고, 구체적인 동작은 모델이 채웁니다. 이름을 적으면 그것만 반복하고 아무것도 안 적으면 아무 일도 안 일어나는 문제의 가운데입니다. 행위 줄의 참가자가 지정돼야 동작합니다.": {
+    "en": "Triggers a 'Next Action' in the middle of the shot. Instead of specifying an action name, only define who, which body part, and where they are facing, while the model fills in the specific action. If a name is written, it repeats only that; if nothing is written, nothing happens — this is the core issue. Participants from the action line must be specified for the action to occur.",
+    "ja": "ショットの途中で「次のアクション」を発生させます。アクション名を指定する代わりに、誰が・どの部位に・どこに向かってという指示だけを与え、具体的な動作はモデルが補完します。名前を書けばそれだけを繰り返し、何も書かなければ何も起こらない問題の中心です。アクション行の参加者が指定されて初めて動作を実行します。",
+    "zh-CN": "在镜头中间触发“下一个动作”。与其指定动作名称，不如只指定执行者、身体部位和方向，具体的动作由模型填充。如果写了名称就会只重复该名称，如果不写任何东西则什么事都不会发生，这就是问题所在。必须指定行为行的参与者才能触发动作。"
+  },
+  "인물의 외형 전체를 가져옵니다 — 얼굴·머리·눈·체형에 더해 입고 있는 옷과 장신구를 색과 재질까지 그대로. subject_definitions 에는 외형과 의상이 이 이미지를 따른다고 적고, 본문에는 브리프가 요청한 변화만 적어라. 이 이미지에 맨몸이 드러나 있으면 가슴·유두·성기도 이 이미지를 기준으로 삼는다. 그 부위는 완곡어 대신 해부학 용어를 그대로 쓴다.": {
+    "en": "Retrieve the character's full appearance — including face, hair, eyes, body shape, and clothing and accessories with their exact colors and materials. In subject_definitions, state that the appearance and outfit follow this image, and in the main text, only describe the changes requested by the brief. If any part of the body is exposed in this image, use anatomical terms for areas like the chest, nipples, and genitals as the baseline, using precise terminology instead of euphemisms.",
+    "ja": "キャラクターの外観全体を取得します——顔・髪・目・体型に加え、着用している衣服やアクセサリーの色と質感までそのままに。subject_definitions には外観と衣装がこのイメージに従うと記し、本文にはブリーフで要求された変化だけを書きなさい。このイメージに裸体が露出していれば、胸・乳首・性器もこのイメージを基準とする。その部位は婉曲語ではなく解剖学用語をそのまま使用する。",
+    "zh-CN": "获取人物的完整外观——包括脸部、头发、眼睛、体型，以及所穿衣物的颜色和材质。在 subject_definitions 中注明外形和服装遵循此图像，正文中只需写明简报要求的变更。如果此图像中裸露了身体部位，则胸部、乳头、生殖器等也以此图像为基准。对于这些部位，直接使用解剖学术语而非委婉语。"
+  },
+  "체형": {
+    "en": "Body proportions",
+    "ja": "体型",
+    "zh-CN": "体型"
+  },
+  "성인": {
+    "en": "Adult",
+    "ja": "成人",
+    "zh-CN": "成人"
+  },
+  "추론": {
+    "en": "Reasoning",
+    "ja": "推論",
+    "zh-CN": "推理"
+  },
+  "현재": {
+    "en": "Current",
+    "ja": "現在",
+    "zh-CN": "当前"
+  },
+  "{0} / {1}개 사용": {
+    "en": "{0} / {1} enabled",
+    "ja": "{0} / {1} 使用中",
+    "zh-CN": "已启用 {0} / {1}"
+  },
+  "대사 ({0})": {
+    "en": "Dialogue ({0})",
+    "ja": "セリフ ({0})",
+    "zh-CN": "对白 ({0})"
+  },
+  "행위 ({0})": {
+    "en": "Actions ({0})",
+    "ja": "動作 ({0})",
+    "zh-CN": "动作 ({0})"
+  },
+  "클립 프롬프트 {0} / {1}": {
+    "en": "Clip prompts {0} / {1}",
+    "ja": "クリッププロンプト {0} / {1}",
+    "zh-CN": "片段提示词 {0} / {1}"
+  },
+  "{0} × {1} px · 모델 규칙에 맞춰 32 단위로 조정": {
+    "en": "{0} × {1} px · aligned to multiples of 32",
+    "ja": "{0} × {1} px・32の倍数に調整",
+    "zh-CN": "{0} × {1} px · 已对齐至32的倍数"
+  },
+  "Continuum · {0} × {1} · 클립 {2}개 × {3}초 = {4}초 · 고화질 마감": {
+    "en": "Continuum · {0} × {1} · {2} clips × {3}s = {4}s · high-resolution finish",
+    "ja": "Continuum・{0} × {1}・{2}クリップ × {3}秒 = {4}秒・高画質仕上げ",
+    "zh-CN": "Continuum · {0} × {1} · {2}片段 × {3}秒 = {4}秒 · 高分辨率精修"
+  },
+  "Continuum · {0} × {1} · 클립 {2}개 × {3}초 = {4}초 · 저화질": {
+    "en": "Continuum · {0} × {1} · {2} clips × {3}s = {4}s · base resolution",
+    "ja": "Continuum・{0} × {1}・{2}クリップ × {3}秒 = {4}秒・基本解像度",
+    "zh-CN": "Continuum · {0} × {1} · {2}片段 × {3}秒 = {4}秒 · 基础分辨率"
+  },
+  "클립 {0} · 후보 {1}": {
+    "en": "Clip {0} · take {1}",
+    "ja": "クリップ {0}・テイク {1}",
+    "zh-CN": "片段 {0} · 候选 {1}"
+  },
+  "클립 {0} 후보": {
+    "en": "Clip {0} takes",
+    "ja": "クリップ {0} のテイク",
+    "zh-CN": "片段 {0} 候选"
+  },
+  "후보 {0} · 현재": {
+    "en": "Take {0} · current",
+    "ja": "テイク {0}・現在",
+    "zh-CN": "候选 {0} · 当前"
+  },
+  "후보 {0}": {
+    "en": "Take {0}",
+    "ja": "テイク {0}",
+    "zh-CN": "候选 {0}"
+  },
+  "적용 기록 {0}개": {
+    "en": "{0} applied versions",
+    "ja": "適用履歴 {0}件",
+    "zh-CN": "{0}条应用记录"
+  },
+  "{0}턴 · {1}": {
+    "en": "{0} turns · {1}",
+    "ja": "{0}ターン・{1}",
+    "zh-CN": "{0}轮 · {1}"
+  },
+  "{0} 프로젝트와 모든 클립을 휴지통으로 옮길까요?": {
+    "en": "Move project “{0}” and all its clips to trash?",
+    "ja": "プロジェクト「{0}」と全クリップをゴミ箱に移しますか？",
+    "zh-CN": "将项目“{0}”及其所有片段移至回收站？"
+  },
+  "클립 {0}의 후보 {1}을 휴지통으로 옮길까요?": {
+    "en": "Move take {1} of clip {0} to trash?",
+    "ja": "クリップ {0} のテイク {1} をゴミ箱に移しますか？",
+    "zh-CN": "将片段 {0} 的候选 {1} 移至回收站？"
+  },
+  "{0} 에셋을 휴지통으로 옮길까요? 이미 추가한 레퍼런스는 유지됩니다.": {
+    "en": "Move asset “{0}” to trash? References already added will be kept.",
+    "ja": "アセット「{0}」をゴミ箱に移しますか？追加済みの参照は保持されます。",
+    "zh-CN": "将素材“{0}”移至回收站？已添加的参考将保留。"
+  },
+  "{0} 검색": {
+    "en": "Search {0}",
+    "ja": "{0}を検索",
+    "zh-CN": "搜索{0}"
+  },
+  "샷 {0}": {
+    "en": "Shot {0}",
+    "ja": "ショット {0}",
+    "zh-CN": "镜头 {0}"
+  },
+  "얼굴": {
+    "en": "Face",
+    "ja": "顔",
+    "zh-CN": "面部"
+  },
+  "샷 크기 대상": {
+    "en": "Shot size target",
+    "ja": "ショットサイズの対象",
+    "zh-CN": "景别对象"
+  },
+  "앵글 대상": {
+    "en": "Camera angle target",
+    "ja": "アングルの対象",
+    "zh-CN": "拍摄角度对象"
+  },
+  "보이는 방향 대상": {
+    "en": "Viewing direction target",
+    "ja": "見る方向の対象",
+    "zh-CN": "观察方向对象"
+  },
+  "카메라 이동 대상": {
+    "en": "Camera movement target",
+    "ja": "カメラ移動の対象",
+    "zh-CN": "运镜对象"
+  },
+  "이 날짜 전체 삭제": {
+    "en": "Delete this date",
+    "ja": "この日付をまとめて削除",
+    "zh-CN": "删除此日期全部记录"
+  },
+  "진행 중인 작업은 제외": {
+    "en": "Active jobs excluded",
+    "ja": "実行中のジョブは除外",
+    "zh-CN": "不含进行中的任务"
+  },
+  "날짜 미상": {
+    "en": "Unknown date",
+    "ja": "日付不明",
+    "zh-CN": "日期未知"
+  },
+  "{0} · {1}개 기록과 생성 결과를 휴지통으로 옮길까요? 프로젝트에 별도로 저장한 클립은 유지됩니다. 진행 중인 작업은 제외됩니다.": {
+    "en": "Move {1} records and generated results from {0} to trash? Separately saved project clips are kept. Active jobs are excluded.",
+    "ja": "{0} の記録と生成結果 {1} 件をゴミ箱に移動しますか？プロジェクトに別途保存したクリップは保持されます。実行中のジョブは除外されます。",
+    "zh-CN": "将 {0} 的 {1} 条记录及生成结果移入回收站？项目中另存的片段将保留，进行中的任务除外。"
+  },
+  "{0}개 기록을 휴지통으로 옮겼습니다.": {
+    "en": "Moved {0} records to trash.",
+    "ja": "{0} 件の記録をゴミ箱に移動しました。",
+    "zh-CN": "已将 {0} 条记录移入回收站。"
+  },
+  "{0}개 삭제 완료. {1}개 삭제 실패.": {
+    "en": "Deleted {0}. Failed to delete {1}.",
+    "ja": "{0} 件削除済み。{1} 件の削除に失敗しました。",
+    "zh-CN": "已删除 {0} 条，{1} 条删除失败。"
+  },
+  "대화 전용 LLM 설정": {
+    "en": "Chat LLM settings",
+    "ja": "対話専用LLM設定",
+    "zh-CN": "对话专用 LLM 设置"
+  },
+  "대화 모델": {
+    "en": "Chat model",
+    "ja": "対話モデル",
+    "zh-CN": "对话模型"
+  },
+  "응답 다양성 (temperature)": {
+    "en": "Response variety (temperature)",
+    "ja": "応答の多様性 (temperature)",
+    "zh-CN": "回复多样性 (temperature)"
+  },
+  "문맥 길이 (토큰)": {
+    "en": "Context length (tokens)",
+    "ja": "コンテキスト長（トークン）",
+    "zh-CN": "上下文长度（令牌）"
+  },
+  "최대 응답 토큰 (-1: 제한 없음)": {
+    "en": "Max response tokens (-1: unlimited)",
+    "ja": "最大応答トークン（-1：無制限）",
+    "zh-CN": "最大回复令牌数（-1：不限）"
+  },
+  "기억할 이전 대화 (턴)": {
+    "en": "Previous turns to include",
+    "ja": "参照する過去の対話（ターン）",
+    "zh-CN": "包含的历史对话轮数"
+  },
+  "대화 LLM 설정에서 모델을 선택하세요.": {
+    "en": "Select a model in Chat LLM settings.",
+    "ja": "対話専用LLM設定でモデルを選択してください。",
+    "zh-CN": "请在对话 LLM 设置中选择模型。"
+  },
+  "프롬프트 작성기와 별도로 저장됩니다. 처음 모델만 가져오며, 이후에는 서로 영향을 주지 않습니다.": {
+    "en": "Saved separately from the prompt writer. Only the initial model is copied; later changes are independent.",
+    "ja": "プロンプト作成とは別に保存します。最初のモデルだけを引き継ぎ、以後の変更は互いに影響しません。",
+    "zh-CN": "与提示词编写器分开保存。仅首次复制模型，后续更改互不影响。"
+  },
+  "문맥 길이에는 현재 프롬프트·규칙·이전 대화가 함께 들어갑니다. 크게 설정하면 메모리 사용량이 늘 수 있습니다.": {
+    "en": "Context includes the current prompt, rules and previous turns. Larger values may use more memory.",
+    "ja": "コンテキストには現在のプロンプト・規則・過去の対話が含まれます。大きくするとメモリ使用量が増える場合があります。",
+    "zh-CN": "上下文包含当前提示词、规则和历史对话。较大的值可能增加内存用量。"
+  },
+  "POV 자기 몸": {
+    "en": "POV own body",
+    "ja": "POV 自分の体",
+    "zh-CN": "POV 自身身体"
+  },
+  "자동 — 시야에 따라": {
+    "en": "Auto — follow the view",
+    "ja": "自動 — 視野に合わせる",
+    "zh-CN": "自动 — 根据视野"
+  },
+  "표시 — 보이는 부위": {
+    "en": "Show — visible parts",
+    "ja": "表示 — 見える部位",
+    "zh-CN": "显示 — 可见部位"
+  },
+  "숨김 — 화면 밖": {
+    "en": "Hide — outside frame",
+    "ja": "非表示 — 画面外",
+    "zh-CN": "隐藏 — 画面外"
+  },
+  "표시할 최근 결과가 없습니다.": {
+    "en": "No recent result to display.",
+    "ja": "表示する最新の結果はありません。",
+    "zh-CN": "暂无可显示的最新结果。"
+  },
+  "실행": {
+    "en": "Run",
+    "ja": "実行",
+    "zh-CN": "运行"
+  },
+  "최근 결과": {
+    "en": "Latest result",
+    "ja": "最新の結果",
+    "zh-CN": "最新结果"
+  },
+  "대화 목록": {
+    "en": "Conversations",
+    "ja": "対話一覧",
+    "zh-CN": "对话列表"
+  }
+}
