@@ -54,10 +54,14 @@ def safe_media(filename,folder='input'):
 
 @web.middleware
 async def errors(request,handler):
-    # Local-only app: reject cross-origin write requests from unrelated sites.
+    # Only a loopback reverse proxy may supply the external HTTPS scheme.
+    # Keep the exact Host comparison: unrelated browser origins stay blocked.
+    scheme=request.scheme
+    if request.remote in ('127.0.0.1','::1') and request.headers.get('X-Forwarded-Proto')=='https':
+        scheme='https'
     origin=request.headers.get('Origin','')
-    if request.method not in ('GET','HEAD') and origin and origin!=f'{request.scheme}://{request.host}':
-        raise web.HTTPForbidden(text='다른 사이트의 요청은 허용되지 않습니다.')
+    if request.method not in ('GET','HEAD') and origin and origin!=f'{scheme}://{request.host}':
+        return web.json_response({'error':'다른 사이트의 요청은 허용되지 않습니다.'},status=403)
     try:response=await handler(request)
     except web.HTTPException:raise
     except Exception as exc:return web.json_response({'error':str(exc)},status=400)
