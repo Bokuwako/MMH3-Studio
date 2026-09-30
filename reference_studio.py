@@ -23,7 +23,8 @@ def workflow_defaults(comfy):
     root=Path(comfy)/'user/default/workflows'
     def read(name):
         p=root/name
-        if not p.is_file():raise ValueError('참고 워크플로우가 없습니다: '+name)
+        # Without the source workflow every setting below falls back to its default.
+        if not p.is_file():return {}
         return {str(n['id']):n for n in json.loads(p.read_text(encoding='utf-8'))['nodes']}
     a=read('Anima_Ref_Sheet.json');q=read('Qwen_Image_edit_2.1.json')
     def w(nodes,n,index,fallback):
