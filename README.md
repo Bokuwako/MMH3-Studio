@@ -31,7 +31,7 @@ MiniMax H3 영상 제작용 로컬 작업실입니다. 렌더링은 ComfyUI, 프
 | 노드팩 | 저장소 | 검증 버전 |
 |---|---|---|
 | MMH3 Studio Nodes | 이 저장소 `custom_nodes/` | 포함 |
-| Prompt Director | [Bokuwako/ComfyUI-MinimaxH3-PromptDirector](https://github.com/Bokuwako/ComfyUI-MinimaxH3-PromptDirector) | v3.0.0 |
+| Prompt Director | [Bokuwako/ComfyUI-MinimaxH3-PromptDirector](https://github.com/Bokuwako/ComfyUI-MinimaxH3-PromptDirector) | v3.0.1 |
 | H3 Continuum Plus | [xmarre/ComfyUI-H3-Continuum-Plus](https://github.com/xmarre/ComfyUI-H3-Continuum-Plus) | 3.4.4 (`e870875`) |
 | H3 Latent Upscaler Plus | [xmarre/Comfyui_Minimax_h3_latent_Upscaler-Plus](https://github.com/xmarre/Comfyui_Minimax_h3_latent_Upscaler-Plus) | v0.2.1 |
 | DaSiWa Nodes | [darksidewalker/ComfyUI-DaSiWa-Nodes](https://github.com/darksidewalker/ComfyUI-DaSiWa-Nodes) | 0.4.65 (`1163c8c`) |

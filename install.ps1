@@ -7,7 +7,7 @@ $Studio = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 # 검증된 버전. Ref 는 태그 또는 커밋입니다.
 $Packs = @(
-    @{ Name = 'ComfyUI-MinimaxH3-PromptDirector'; Repo = 'Bokuwako/ComfyUI-MinimaxH3-PromptDirector'; Ref = 'v3.0.0' },
+    @{ Name = 'ComfyUI-MinimaxH3-PromptDirector'; Repo = 'Bokuwako/ComfyUI-MinimaxH3-PromptDirector'; Ref = 'v3.0.1' },
     @{ Name = 'ComfyUI-H3-Continuum-Plus'; Repo = 'xmarre/ComfyUI-H3-Continuum-Plus'; Ref = 'e870875' },
     @{ Name = 'Comfyui_Minimax_h3_latent_Upscaler-Plus'; Repo = 'xmarre/Comfyui_Minimax_h3_latent_Upscaler-Plus'; Ref = 'v0.2.1' },
     @{ Name = 'ComfyUI-DaSiWa-Nodes'; Repo = 'darksidewalker/ComfyUI-DaSiWa-Nodes'; Ref = '1163c8c' },
