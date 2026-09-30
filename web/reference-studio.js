@@ -1,66 +1,26 @@
 import {uiConfirm,uiPrompt,userOption,uiLocale} from './i18n.js';
-const CHARACTER_EDIT=`Create a professional character reference sheet based strictly on <image1>.
+const CHARACTER_EDIT=`Create a character reference sheet on a plain white background using the supplied artwork.
 
-The character is the same person shown in <image2>. Use <image2> as an additional reference to capture more accurate facial features, proportions, hairstyle, clothing details, accessories, and other fine details.
+Layout: three full-body views on the left, two large facial close-ups stacked vertically on the right.
 
-Character consistency:
+Left two-thirds:
+Arrange the front, side and back full-body views from <image1> in one horizontal row.
+Preserve their existing poses, body proportions, clothing, colors and accessories.
+Keep all three figures at the same scale, with aligned feet.
+Show each complete figure from head to toe.
 
-* Preserve the character’s exact face, facial structure, hairstyle, proportions, clothing, colors, accessories, and identifiable details from the references.
-* Do not redesign, reinterpret, beautify, or alter the face.
-* Maintain the exact same person and identity across every panel.
-* Capture all fine details from both reference images.
-* Use <image2> whenever it provides additional information or details not clearly visible in <image1>.
+Right third:
+Place the two facial portraits from <image2> vertically, one above the other, in their original order.
+Make both faces large and equally scaled, filling their respective areas with minimal empty space.
+Preserve their exact expressions, facial proportions, head angles, hairstyles, linework and shading.
+Keep the complete head and chin visible.
 
-Top section — full-body turnaround:
-Place three full-body character views across the top:
+Use <image1> for the body and outfit, and <image2> for facial identity.
+Preserve the supplied portraits rather than inventing new facial designs.
+Do not blend different expressions or add facial detail.
 
-1. Front view
-2. Side/profile view
-3. Back view
-
-* Same outfit and identical character proportions in all three views.
-* Use the same neutral standing pose for every view.
-* Arms slightly separated from the torso so the silhouette and clothing are clearly visible.
-* Hands relaxed and naturally posed.
-* Keep the camera height, framing, scale, and perspective consistent between all three views.
-* No pose drift, proportion drift, outfit changes, or character redesign.
-* The back view must accurately match the front and side views.
-
-Bottom section — expressions and props:
-Use the bottom area for a clean collection of smaller reference panels.
-
-Include three facial expression close-ups:
-
-* Open mouth
-* Smiling
-* Surprised expression
-
-Also include several **small, clearly separated square panels showing different character props/accessories** relevant to the reference.
-
-Each prop should be isolated, clearly visible, and presented like a professional character-design reference sheet.
-
-Right side — large portrait:
-Place one large, highly detailed shoulder-up portrait of the same person on the right side.
-
-* Preserve the exact face and identity from <image1> and <image2>.
-* Use <image2> to improve facial accuracy and capture details that may be missing from <image1>.
-* High facial detail and accurate proportions.
-* Clean, centered composition.
-* Professional character-sheet presentation.
-* The portrait must clearly match the face shown in all turnaround views and expression panels.
-
-Layout and quality:
-
-* Clean, professional character-sheet layout.
-* Clearly separated panels with consistent spacing.
-* Nothing may overlap, collide, merge, or bleed into another panel.
-* No element should cross into another frame.
-* Keep every character, expression, prop, and portrait completely contained within its designated area.
-* No cropped heads, hands, feet, props, or important clothing details.
-* Balanced spacing and clear visual hierarchy.
-* High resolution and highly detailed.
-* Maintain absolute character consistency across the entire sheet.
-* Zero identity drift, zero outfit drift, zero proportion drift, and zero visual inconsistency.`;
+Exactly three full-body figures and two facial portraits.
+Clean spacing, no overlapping elements, no extra portraits, no props, no text.`;
 // Same ratio chips and sizes as Resolution Pixaroma, so a size picked there can be picked here.
 const SIZES={'1:1':[[512,512],[768,768],[1024,1024],[1280,1280],[1328,1328],[1408,1408],[1536,1536],[2048,2048]],
  '16:9':[[832,480],[1280,720],[1344,768],[1536,864],[1600,896],[1664,928],[1792,1008],[1920,1088]],
@@ -75,7 +35,7 @@ export function referenceDesk({api,toast,onAsset}) {
  let state={},catalog=null,loaded=false,loading=false,timer,saveTimer,watching=false;
  const host=document.querySelector('#reference'),$=s=>host.querySelector(s);
  const el=(tag,text,cls)=>{const e=document.createElement(tag);if(text!=null)e.textContent=text;if(cls)e.className=cls;return e};
- const preset={character:{body:'reference sheet, character turnaround, same character in three distinct full-body views: front, side profile, back. Standing neutral pose, consistent outfit and proportions, plain white background, evenly spaced, entire body visible.',detail:'facial reference sheet, same character in front, three-quarter and side-profile close-up portraits. Consistent face, hairstyle, eye color and accessories, plain white background.',edit:CHARACTER_EDIT},environment:{body:'Environment reference sheet, wide establishing view of the same location with clearly readable spatial layout, architecture, materials and lighting. No people, consistent art style.',detail:'Environment detail reference sheet of the same location, close-up views of distinctive architectural features, props, surfaces and materials, consistent lighting. No people.',edit:'Create one coherent environment reference sheet from the supplied images. Use <image1> for the location and layout, and any additional images for material and prop details. Preserve the architecture, spatial relationships, palette and lighting. Arrange a large establishing view and supporting detail views with clean separation. Do not add people.'}};
+ const preset={character:{body:"(multiple views:1.3), reference sheet, turnaround, (full body:1.3), standing, facing viewer, (profile:1.2), from behind,\nsimple background, white background",detail:"(multiple views:1.2), portrait, head only, (straight-on:1.2), eye level, facing viewer, looking at viewer,\nTwo large portraits of the same character stacked in one column.\nTop: neutral expression, closed mouth.\nBottom: light smile.",edit:CHARACTER_EDIT},environment:{body:'Environment reference sheet, wide establishing view of the same location with clearly readable spatial layout, architecture, materials and lighting. No people, consistent art style.',detail:'Environment detail reference sheet of the same location, close-up views of distinctive architectural features, props, surfaces and materials, consistent lighting. No people.',edit:'Create one coherent environment reference sheet from the supplied images. Use <image1> for the location and layout, and any additional images for material and prop details. Preserve the architecture, spatial relationships, palette and lighting. Arrange a large establishing view and supporting detail views with clean separation. Do not add people.'}};
  async function save(){clearTimeout(saveTimer);await api('/api/ref-studio/state',state)}
  function changed(){clearTimeout(saveTimer);saveTimer=setTimeout(()=>save().catch(e=>toast(e.message)),600)}
  function button(text,fn,cls){const b=el('button',text,cls);b.onclick=async()=>{b.disabled=true;try{await fn()}catch(e){toast(e.message)}finally{b.disabled=false}};return b}
@@ -171,6 +131,6 @@ export function referenceDesk({api,toast,onAsset}) {
  }
  async function refreshJobs(){jobList=await api('/api/ref-studio/jobs');for(const j of jobList.filter(x=>['queued','running','unknown'].includes(x.state))){try{Object.assign(j,await api('/api/jobs/'+j.id))}catch{}}await livePreview();paintJobs()}
  async function tick(){if(watching)return;watching=true;try{if(loaded&&document.visibilityState==='visible'&&host.classList.contains('active'))await refreshJobs()}catch(e){toast(e.message)}finally{watching=false;timer=setTimeout(tick,2500)}}
- return {save,async show(){if(loading)return;loading=true;try{if(!loaded){host.replaceChildren(el('p','워크플로우와 설치된 모델을 확인하고 있습니다…'));const [c,s]=await Promise.all([api('/api/ref-studio/catalog'),api('/api/ref-studio/state')]);catalog=c;state={mode:'character',description:'',characters:[],bodyPrompt:preset.character.body,detailPrompt:preset.character.detail,editPrompt:preset.character.edit,detailEnabled:true,sources:[],assetName:'',role:'character_full',purpose:'',...s,anima:{...c.defaults.anima,...s.anima},qwen:{...c.defaults.qwen,...s.qwen}};
-    if(state.quality===undefined){state.quality='masterpiece, best quality';const strip=t=>typeof t==='string'?t.replace(/^\s*masterpiece,\s*best quality,\s*/i,''):t;state.bodyPrompt=strip(state.bodyPrompt);state.detailPrompt=strip(state.detailPrompt);for(const kept of Object.values(state.prompts||{})){kept.body=strip(kept.body);kept.detail=strip(kept.detail)}}loaded=true;tick()}catalog.projects=(await api('/api/asset-projects')).projects;render();await refreshJobs()}catch(e){host.replaceChildren(el('p',e.message),button('다시 연결',()=>this.show()));toast(e.message)}finally{loading=false}}};
+ return {save,async show(){if(loading)return;loading=true;try{if(!loaded){host.replaceChildren(el('p','워크플로우와 설치된 모델을 확인하고 있습니다…'));const [c,s]=await Promise.all([api('/api/ref-studio/catalog'),api('/api/ref-studio/state')]);catalog=c;state={mode:'character',description:"official art, fully rendered polished anime artwork.\nsimple background, white background.",characters:[],bodyPrompt:preset.character.body,detailPrompt:preset.character.detail,editPrompt:preset.character.edit,detailEnabled:true,sources:[],assetName:'',role:'character_full',purpose:'',...s,anima:{...c.defaults.anima,...s.anima},qwen:{...c.defaults.qwen,...s.qwen}};
+    if(state.quality===undefined){state.quality="masterpiece, best quality, anime screenshot,\ncharacter reference sheet of ";const strip=t=>typeof t==='string'?t.replace(/^\s*masterpiece,\s*best quality,\s*/i,''):t;state.bodyPrompt=strip(state.bodyPrompt);state.detailPrompt=strip(state.detailPrompt);for(const kept of Object.values(state.prompts||{})){kept.body=strip(kept.body);kept.detail=strip(kept.detail)}}loaded=true;tick()}catalog.projects=(await api('/api/asset-projects')).projects;render();await refreshJobs()}catch(e){host.replaceChildren(el('p',e.message),button('다시 연결',()=>this.show()));toast(e.message)}finally{loading=false}}};
 }
