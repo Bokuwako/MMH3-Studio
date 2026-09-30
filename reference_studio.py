@@ -135,6 +135,20 @@ def build(stage, body, info, input_files=()):
             model=add(prefix+str(i),'LoraLoader',model=model,clip=clip,lora_name=l['model'],strength_model=strength,strength_clip=strength)
             clip=[model[0],1]
         return model,clip
+    def dcw(model,prefix):
+        # Optional quality patch. Older ComfyUI-DCW takes `enabled`; newer releases rename it
+        # `dcw_enabled` and add CWM/SMC/RDC inputs whose defaults leave them inactive.
+        spec=info.get('DCWModelPatch')
+        if not spec:return model
+        values={}
+        for key,s in spec.get('input',{}).get('required',{}).items():
+            config=s[1] if len(s)>1 else {}
+            if 'default' in config:values[key]=config['default']
+            elif isinstance(s[0],list):values[key]=s[0][0]
+        values.pop('model',None)
+        values.update(lambda_l=.08,lambda_h=.018)
+        values['dcw_enabled' if 'dcw_enabled' in values else 'enabled']=True
+        return add(prefix+'dcw','DCWModelPatch',model=model,**values)
     if stage=='anima':
         add('checkpoint','CheckpointLoaderSimple',ckpt_name=p['model'])
         vae=add('vae','VAELoader',vae_name=p['vae']) if p.get('vae') else ['checkpoint',2]
@@ -143,7 +157,7 @@ def build(stage, body, info, input_files=()):
             # workflow's second Efficient Loader does for the refine.
             model,clip=loras(['checkpoint',0],['checkpoint',1],key,prefix+'lora_')
             if p.get('profile','anima')=='anima':
-                if p.get('dcw',True):model=add(prefix+'dcw','DCWModelPatch',model=model,lambda_l=.08,lambda_h=.018,enabled=True)
+                if p.get('dcw',True):model=dcw(model,prefix)
                 model=add(prefix+'flow','ModelSamplingAuraFlow',model=model,shift=float(p.get('shift',4)),sampling='flow')
             if p.get('sage',True):model=add(prefix+'attention','PathchSageAttentionKJ',model=model,sage_attention='auto',allow_compile=False)
             positive=add(prefix+'positive','CLIPTextEncode',clip=clip,text=text)

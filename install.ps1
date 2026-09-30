@@ -15,6 +15,7 @@ $Packs = @(
     @{ Name = 'ComfyUI-H3-FaceRefine'; Repo = 'Carasibana/ComfyUI-H3-FaceRefine'; Ref = 'd8521d1' },
     @{ Name = 'ComfyUI-H3-NativeAudioLock'; Repo = 'Shrek3OnVH5/MiniMax-H3-NativeAudio-MusicVideo-Workflow'; Ref = '11a95f6'; Sub = 'custom_nodes/ComfyUI-H3-NativeAudioLock' },
     @{ Name = 'ComfyUI-EasyUseAnima'; Repo = 'n0va39/ComfyUI-EasyUseAnima'; Ref = '38b2a4c' },
+    @{ Name = 'ComfyUI-DCW'; Repo = 'namemechan/ComfyUI-DCW'; Ref = '66aaf9d' },
     @{ Name = 'ComfyUI-KJNodes'; Repo = 'kijai/ComfyUI-KJNodes'; Ref = 'd3cfe21' },
     @{ Name = 'ComfyUI-VideoHelperSuite'; Repo = 'Kosinkadink/ComfyUI-VideoHelperSuite'; Ref = '3234937' },
     @{ Name = 'ComfyUI-Easy-Use'; Repo = 'yolain/ComfyUI-Easy-Use'; Ref = 'v1.4.1' },

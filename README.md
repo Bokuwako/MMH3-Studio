@@ -39,6 +39,7 @@ MiniMax H3 영상 제작용 로컬 작업실입니다. 렌더링은 ComfyUI, 프
 | H3 FaceRefine | [Carasibana/ComfyUI-H3-FaceRefine](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) | 1.1.2 (`d8521d1`) |
 | H3 NativeAudioLock | [Shrek3OnVH5/MiniMax-H3-NativeAudio-MusicVideo-Workflow](https://github.com/Shrek3OnVH5/MiniMax-H3-NativeAudio-MusicVideo-Workflow) 안의 `custom_nodes/ComfyUI-H3-NativeAudioLock` | `11a95f6` |
 | EasyUse Anima | [n0va39/ComfyUI-EasyUseAnima](https://github.com/n0va39/ComfyUI-EasyUseAnima) | 1.2.2 (`38b2a4c`) |
+| DCW (레퍼런스 탭 화질 보정, 없으면 건너뜀) | [namemechan/ComfyUI-DCW](https://github.com/namemechan/ComfyUI-DCW) | `66aaf9d` |
 | KJNodes | [kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) | 1.5.2 (`d3cfe21`) |
 | VideoHelperSuite | [Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | 1.7.9 (`3234937`) |
 | Easy-Use | [yolain/ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use) | v1.4.1 |
