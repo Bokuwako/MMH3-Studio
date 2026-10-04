@@ -1,0 +1,65 @@
+{
+ "nodes": [
+  {
+   "id": 496,
+   "type": "UNETLoader",
+   "widgets_values": [
+    "",
+    "default"
+   ]
+  },
+  {
+   "id": 493,
+   "type": "CLIPLoader",
+   "widgets_values": [
+    "",
+    "qwen_image",
+    "default"
+   ]
+  },
+  {
+   "id": 486,
+   "type": "VAELoader",
+   "widgets_values": [
+    ""
+   ]
+  },
+  {
+   "id": 509,
+   "type": "KSampler",
+   "widgets_values": [
+    0,
+    "randomize",
+    25,
+    1,
+    "euler",
+    "simple",
+    1
+   ]
+  },
+  {
+   "id": 478,
+   "type": "PixaromaResolution",
+   "widgets_values": [
+    {
+     "mode": "preset",
+     "ratio": "3:2",
+     "w": 1344,
+     "h": 896,
+     "custom_w": 1024,
+     "custom_h": 1024,
+     "custom_ratio_w": 4,
+     "custom_ratio_h": 3,
+     "snap": 16
+    }
+   ]
+  },
+  {
+   "id": 489,
+   "type": "ComfySwitchNode",
+   "widgets_values": [
+    true
+   ]
+  }
+ ]
+}

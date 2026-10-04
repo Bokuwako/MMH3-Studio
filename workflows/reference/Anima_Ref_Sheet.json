@@ -1,0 +1,138 @@
+{
+ "nodes": [
+  {
+   "id": 491,
+   "type": "Efficient Loader 💬ED",
+   "widgets_values": [
+    "",
+    "",
+    0,
+    "✍️ Txt2Img",
+    1,
+    184529057487541,
+    null,
+    5,
+    "res_multistep",
+    "beta",
+    1152,
+    896
+   ]
+  },
+  {
+   "id": 496,
+   "type": "KSampler (Efficient) 💬ED",
+   "widgets_values": [
+    "from context",
+    921415819117984,
+    "randomize",
+    30,
+    5,
+    "res_multistep",
+    "beta",
+    1,
+    512,
+    true,
+    1216,
+    15,
+    3,
+    "auto"
+   ]
+  },
+  {
+   "id": 393,
+   "type": "ModelSamplingAuraFlow",
+   "widgets_values": [
+    4,
+    "flow"
+   ]
+  },
+  {
+   "id": 687,
+   "type": "UpscaleModelLoader",
+   "widgets_values": [
+    ""
+   ]
+  },
+  {
+   "id": 682,
+   "type": "KSampler (Efficient) 💬ED",
+   "widgets_values": [
+    "from context",
+    181423450154713,
+    "randomize",
+    14,
+    6,
+    "er_sde",
+    "simple",
+    0.5,
+    512,
+    true,
+    1216,
+    15,
+    3,
+    "auto"
+   ]
+  },
+  {
+   "id": 694,
+   "type": "UltralyticsDetectorProvider",
+   "widgets_values": [
+    ""
+   ]
+  },
+  {
+   "id": 693,
+   "type": "FaceDetailer",
+   "widgets_values": [
+    1024,
+    true,
+    1536,
+    1,
+    "fixed",
+    4,
+    5,
+    "er_sde",
+    "simple",
+    0.25,
+    5,
+    true,
+    true,
+    0.5,
+    10,
+    3,
+    "center-1",
+    0,
+    0.93,
+    0,
+    0.7,
+    "False",
+    10,
+    "",
+    1,
+    false,
+    20,
+    false,
+    false
+   ]
+  },
+  {
+   "id": 756,
+   "type": "Text Multiline",
+   "widgets_values": [
+    "worst quality, low quality, score_1, score_2, score_3, jpeg artifacts, sepia, missing finger, extra digits, fewer digits, artistic error, unfinished, monochrome, comic, western comics \\(style\\), (sweat:0.5), "
+   ]
+  },
+  {
+   "id": 753,
+   "type": "easy loraStack",
+   "widgets_values": []
+  },
+  {
+   "id": 698,
+   "type": "VAELoader",
+   "widgets_values": [
+    ""
+   ]
+  }
+ ]
+}

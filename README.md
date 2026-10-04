@@ -23,6 +23,7 @@ MiniMax H3 영상 제작용 로컬 작업실입니다. 렌더링은 ComfyUI, 프
 4. Ollama를 설치하고 프롬프트 작성용 모델을 받습니다. 레퍼런스 이미지를 읽게 하려면 비전을 지원하는 모델이 필요합니다.
 5. ComfyUI를 재시작하고 `start.cmd`로 Studio를 실행합니다. 브라우저에서 `http://127.0.0.1:8791`이 열립니다.
 6. Studio 설정에서 사용할 모델, 텍스트 인코더, VAE, LoRA를 고릅니다. 템플릿에는 모델이 지정되어 있지 않습니다.
+7. 레퍼런스 탭을 쓰려면 `workflows/reference/`의 두 파일(`Anima_Ref_Sheet.json`, `Qwen_Image_edit_2.1.json`)을 ComfyUI의 `user/default/workflows/` 폴더에 복사하세요. 레퍼런스 탭이 여기서 기본 생성 설정(크기, 스텝, 샘플러, refine 값)을 읽습니다. 모델 파일은 레퍼런스 탭 설정에서 고릅니다.
 
 ## 필요한 커스텀 노드
 
@@ -68,6 +69,7 @@ MiniMax H3 영상 제작용 로컬 작업실입니다. 렌더링은 ComfyUI, 프
 - 프로젝트(체인) 기능은 H3 Project Suite 노드팩이 필요하며, 이 배포에는 포함하지 않았습니다. Normal과 Continuum 엔진은 없이 동작합니다.
 - 긴 Continuum 영상을 고화질로 뽑으면 마지막 조립 단계에서 RAM을 많이 씁니다. 고화질 1MP 기준 영상 1초당 약 0.3GB입니다.
 - 노드팩을 업데이트한 뒤에는 짧은 2클립 렌더로 먼저 확인하세요.
+- 레퍼런스 탭의 Anima는 지금 **텍스트 인코더와 VAE가 합쳐진 체크포인트**(`models/checkpoints/`)만 불러옵니다. 확산 모델, 텍스트 인코더, VAE가 따로 나뉜 Anima 파일을 쓰면 `clip input is invalid: None` 오류가 납니다. 나뉜 파일을 고를 수 있게 고치는 중입니다.
 
 ## 라이선스
 
